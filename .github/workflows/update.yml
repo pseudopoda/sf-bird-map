@@ -1,0 +1,28 @@
+name: Update bird map
+on:
+  schedule:
+    - cron: "0 16 * * *"   # every day ~8-9am San Francisco time
+  workflow_dispatch:        # lets you run it manually with a button
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python fetch_alerts.py
+        env:
+          EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
+          GMAIL_CLIENT_ID: ${{ secrets.GMAIL_CLIENT_ID }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+      - name: Save results
+        run: |
+          git config user.name "bird-map-bot"
+          git config user.email "bird-map-bot@users.noreply.github.com"
+          git add docs/sightings.json docs/species.json
+          git diff --staged --quiet || (git commit -m "Update sightings" && git push)
