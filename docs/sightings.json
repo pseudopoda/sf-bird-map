@@ -1,6 +1,3211 @@
 {
- "generated": "2026-10-24T16:20:39.077666Z",
+ "generated": "2026-10-25T16:20:48.668656Z",
  "sightings": [
+  {
+   "id": "S405170621:bracor",
+   "checklist": "S405170621",
+   "species": "Brandt's Cormorant",
+   "sci": "Urile penicillatus",
+   "code": "bracor",
+   "count": 100,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-10-24 18:19",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405170621:brnpel",
+   "checklist": "S405170621",
+   "species": "Brown Pelican",
+   "sci": "Pelecanus occidentalis",
+   "code": "brnpel",
+   "count": 50,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-10-24 18:19",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405170621:herthr",
+   "checklist": "S405170621",
+   "species": "Hermit Thrush",
+   "sci": "Catharus guttatus",
+   "code": "herthr",
+   "count": 1,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-10-24 18:19",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405170621:whcspa",
+   "checklist": "S405170621",
+   "species": "White-crowned Sparrow",
+   "sci": "Zonotrichia leucophrys",
+   "code": "whcspa",
+   "count": 1,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-10-24 18:19",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405170621:sonspa",
+   "checklist": "S405170621",
+   "species": "Song Sparrow",
+   "sci": "Melospiza melodia",
+   "code": "sonspa",
+   "count": 3,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-10-24 18:19",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:nutwoo",
+   "checklist": "S405168980",
+   "species": "Nuttall's Woodpecker",
+   "sci": "Dryobates nuttallii",
+   "code": "nutwoo",
+   "count": 2,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:haiwoo",
+   "checklist": "S405168980",
+   "species": "Hairy Woodpecker",
+   "sci": "Leuconotopicus villosus",
+   "code": "haiwoo",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:blkpho",
+   "checklist": "S405168980",
+   "species": "Black Phoebe",
+   "sci": "Sayornis nigricans",
+   "code": "blkpho",
+   "count": 3,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:stejay",
+   "checklist": "S405168980",
+   "species": "Steller's Jay",
+   "sci": "Cyanocitta stelleri",
+   "code": "stejay",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:comrav",
+   "checklist": "S405168980",
+   "species": "Common Raven",
+   "sci": "Corvus corax",
+   "code": "comrav",
+   "count": 3,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:ruckin",
+   "checklist": "S405168980",
+   "species": "Ruby-crowned Kinglet",
+   "sci": "Corthylio calendula",
+   "code": "ruckin",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:wesblu",
+   "checklist": "S405168980",
+   "species": "Western Bluebird",
+   "sci": "Sialia mexicana",
+   "code": "wesblu",
+   "count": 8,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:amerob",
+   "checklist": "S405168980",
+   "species": "American Robin",
+   "sci": "Turdus migratorius",
+   "code": "amerob",
+   "count": 12,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:houfin",
+   "checklist": "S405168980",
+   "species": "House Finch",
+   "sci": "Haemorhous mexicanus",
+   "code": "houfin",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:daejun",
+   "checklist": "S405168980",
+   "species": "Dark-eyed Junco",
+   "sci": "Junco hyemalis",
+   "code": "daejun",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:caltow",
+   "checklist": "S405168980",
+   "species": "California Towhee",
+   "sci": "Melozone crissalis",
+   "code": "caltow",
+   "count": 1,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168980:yerwar",
+   "checklist": "S405168980",
+   "species": "Yellow-rumped Warbler",
+   "sci": "Setophaga coronata",
+   "code": "yerwar",
+   "count": 22,
+   "location": "Golden Gate Park--Polo Fields (Golden Gate Park Stadium)",
+   "lat": 37.7684249,
+   "lng": -122.4917865,
+   "approximate": false,
+   "datetime": "2026-10-24 17:54",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182623:doccor",
+   "checklist": "S405182623",
+   "species": "Double-crested Cormorant",
+   "sci": "Nannopterum auritum",
+   "code": "doccor",
+   "count": 1,
+   "location": "Presidio--Mountain Lake Park",
+   "lat": 37.7874472,
+   "lng": -122.4695413,
+   "approximate": false,
+   "datetime": "2026-10-24 17:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182623:cowscj1",
+   "checklist": "S405182623",
+   "species": "California Scrub-Jay",
+   "sci": "Aphelocoma californica",
+   "code": "cowscj1",
+   "count": 1,
+   "location": "Presidio--Mountain Lake Park",
+   "lat": 37.7874472,
+   "lng": -122.4695413,
+   "approximate": false,
+   "datetime": "2026-10-24 17:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182623:cedwax",
+   "checklist": "S405182623",
+   "species": "Cedar Waxwing",
+   "sci": "Bombycilla cedrorum",
+   "code": "cedwax",
+   "count": 1,
+   "location": "Presidio--Mountain Lake Park",
+   "lat": 37.7874472,
+   "lng": -122.4695413,
+   "approximate": false,
+   "datetime": "2026-10-24 17:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405164493:wesgul",
+   "checklist": "S405164493",
+   "species": "Western Gull",
+   "sci": "Larus occidentalis",
+   "code": "wesgul",
+   "count": 1,
+   "location": "Backyard",
+   "lat": 37.706212892785814,
+   "lng": -122.45905777759066,
+   "approximate": true,
+   "datetime": "2026-10-24 17:07",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405164493:gocspa",
+   "checklist": "S405164493",
+   "species": "Golden-crowned Sparrow",
+   "sci": "Zonotrichia atricapilla",
+   "code": "gocspa",
+   "count": 1,
+   "location": "Backyard",
+   "lat": 37.706212892785814,
+   "lng": -122.45905777759066,
+   "approximate": true,
+   "datetime": "2026-10-24 17:07",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405160030:eleter1",
+   "checklist": "S405160030",
+   "species": "Elegant Tern",
+   "sci": "Thalasseus elegans",
+   "code": "eleter1",
+   "count": 1,
+   "location": "San Francisco Ferry Building",
+   "lat": 37.7952236,
+   "lng": -122.3942045,
+   "approximate": false,
+   "datetime": "2026-10-24 17:05",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405185062:snoegr",
+   "checklist": "S405185062",
+   "species": "Snowy Egret",
+   "sci": "Egretta thula",
+   "code": "snoegr",
+   "count": 1,
+   "location": "UBIF official use only Crissy/quarter master reach tidal wetlands",
+   "lat": 37.8048037,
+   "lng": -122.4557295,
+   "approximate": false,
+   "datetime": "2026-10-24 17:04",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405185062:greegr",
+   "checklist": "S405185062",
+   "species": "Great Egret",
+   "sci": "Ardea alba",
+   "code": "greegr",
+   "count": 1,
+   "location": "UBIF official use only Crissy/quarter master reach tidal wetlands",
+   "lat": 37.8048037,
+   "lng": -122.4557295,
+   "approximate": false,
+   "datetime": "2026-10-24 17:04",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405185062:grbher3",
+   "checklist": "S405185062",
+   "species": "Great Blue Heron",
+   "sci": "Ardea herodias",
+   "code": "grbher3",
+   "count": 1,
+   "location": "UBIF official use only Crissy/quarter master reach tidal wetlands",
+   "lat": 37.8048037,
+   "lng": -122.4557295,
+   "approximate": false,
+   "datetime": "2026-10-24 17:04",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405159123:reshaw",
+   "checklist": "S405159123",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 1,
+   "location": "Presidio--lower Lobos Creek",
+   "lat": 37.789789,
+   "lng": -122.4846947,
+   "approximate": false,
+   "datetime": "2026-10-24 16:58",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:pibgre",
+   "checklist": "S405199845",
+   "species": "Pied-billed Grebe",
+   "sci": "Podilymbus podiceps",
+   "code": "pibgre",
+   "count": 3,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:rensap",
+   "checklist": "S405199845",
+   "species": "Red-naped Sapsucker",
+   "sci": "Sphyrapicus nuchalis",
+   "code": "rensap",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": "JT Birds",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:belkin1",
+   "checklist": "S405199845",
+   "species": "Belted Kingfisher",
+   "sci": "Megaceryle alcyon",
+   "code": "belkin1",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:amecro",
+   "checklist": "S405199845",
+   "species": "American Crow",
+   "sci": "Corvus brachyrhynchos",
+   "code": "amecro",
+   "count": 3,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:chbchi",
+   "checklist": "S405199845",
+   "species": "Chestnut-backed Chickadee",
+   "sci": "Poecile rufescens",
+   "code": "chbchi",
+   "count": 3,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:rebnut",
+   "checklist": "S405199845",
+   "species": "Red-breasted Nuthatch",
+   "sci": "Sitta canadensis",
+   "code": "rebnut",
+   "count": 3,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:brncre",
+   "checklist": "S405199845",
+   "species": "Brown Creeper",
+   "sci": "Certhia americana",
+   "code": "brncre",
+   "count": 2,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:pacwre1",
+   "checklist": "S405199845",
+   "species": "Pacific Wren",
+   "sci": "Troglodytes pacificus",
+   "code": "pacwre1",
+   "count": 2,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:rewbla",
+   "checklist": "S405199845",
+   "species": "Red-winged Blackbird",
+   "sci": "Agelaius phoeniceus",
+   "code": "rewbla",
+   "count": null,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:orcwar",
+   "checklist": "S405199845",
+   "species": "Orange-crowned Warbler",
+   "sci": "Leiothlypis celata",
+   "code": "orcwar",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405199845:towwar",
+   "checklist": "S405199845",
+   "species": "Townsend's Warbler",
+   "sci": "Setophaga townsendi",
+   "code": "towwar",
+   "count": 3,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:50",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405157544:rempar",
+   "checklist": "S405157544",
+   "species": "Red-masked Parakeet",
+   "sci": "Psittacara erythrogenys",
+   "code": "rempar",
+   "count": 35,
+   "location": "Exploratorium, Pier 15, Embarcadero",
+   "lat": 37.802295,
+   "lng": -122.396678,
+   "approximate": false,
+   "datetime": "2026-10-24 16:46",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:rethaw",
+   "checklist": "S405179439",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 1,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:norfli",
+   "checklist": "S405179439",
+   "species": "Northern Flicker",
+   "sci": "Colaptes auratus",
+   "code": "norfli",
+   "count": 1,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:gockin",
+   "checklist": "S405179439",
+   "species": "Golden-crowned Kinglet",
+   "sci": "Regulus satrapa",
+   "code": "gockin",
+   "count": 1,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:pygnut",
+   "checklist": "S405179439",
+   "species": "Pygmy Nuthatch",
+   "sci": "Sitta pygmaea",
+   "code": "pygnut",
+   "count": 2,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:bewwre",
+   "checklist": "S405179439",
+   "species": "Bewick's Wren",
+   "sci": "Thryomanes bewickii",
+   "code": "bewwre",
+   "count": 1,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:foxspa",
+   "checklist": "S405179439",
+   "species": "Fox Sparrow",
+   "sci": "Passerella iliaca",
+   "code": "foxspa",
+   "count": 12,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405179439:spotow",
+   "checklist": "S405179439",
+   "species": "Spotted Towhee",
+   "sci": "Pipilo maculatus",
+   "code": "spotow",
+   "count": 1,
+   "location": "Mt. Davidson",
+   "lat": 37.7383704,
+   "lng": -122.4533987,
+   "approximate": false,
+   "datetime": "2026-10-24 16:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405191051:heegul",
+   "checklist": "S405191051",
+   "species": "Heermann's Gull",
+   "sci": "Larus heermanni",
+   "code": "heegul",
+   "count": 5,
+   "location": "Ocean Beach--Fulton St. to Lincoln Way",
+   "lat": 37.7674547,
+   "lng": -122.5117588,
+   "approximate": false,
+   "datetime": "2026-10-24 16:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405171325:eursta",
+   "checklist": "S405171325",
+   "species": "European Starling",
+   "sci": "Sturnus vulgaris",
+   "code": "eursta",
+   "count": 3,
+   "location": "Palace of Fine Arts",
+   "lat": 37.8028161,
+   "lng": -122.4482489,
+   "approximate": false,
+   "datetime": "2026-10-24 16:29",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405161986:rensap",
+   "checklist": "S405161986",
+   "species": "Red-naped Sapsucker",
+   "sci": "Sphyrapicus nuchalis",
+   "code": "rensap",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 16:11",
+   "observer": "Sabrina Chin",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405156454:ribgul",
+   "checklist": "S405156454",
+   "species": "Ring-billed Gull",
+   "sci": "Larus delawarensis",
+   "code": "ribgul",
+   "count": 1,
+   "location": "Pier 39",
+   "lat": 37.81014,
+   "lng": -122.4104619,
+   "approximate": false,
+   "datetime": "2026-10-24 15:53",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405156454:houspa",
+   "checklist": "S405156454",
+   "species": "House Sparrow",
+   "sci": "Passer domesticus",
+   "code": "houspa",
+   "count": 1,
+   "location": "Pier 39",
+   "lat": 37.81014,
+   "lng": -122.4104619,
+   "approximate": false,
+   "datetime": "2026-10-24 15:53",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405153197:linspa",
+   "checklist": "S405153197",
+   "species": "Lincoln's Sparrow",
+   "sci": "Melospiza lincolnii",
+   "code": "linspa",
+   "count": 1,
+   "location": "Glen Canyon Park",
+   "lat": 37.7395667,
+   "lng": -122.4412966,
+   "approximate": false,
+   "datetime": "2026-10-24 15:52",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405152843:rinduc",
+   "checklist": "S405152843",
+   "species": "Ring-necked Duck",
+   "sci": "Aythya collaris",
+   "code": "rinduc",
+   "count": 10,
+   "location": "Golden Gate Park--Chain of Lakes",
+   "lat": 37.76872,
+   "lng": -122.5010347,
+   "approximate": false,
+   "datetime": "2026-10-24 15:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405152843:bcnher",
+   "checklist": "S405152843",
+   "species": "Black-crowned Night Heron",
+   "sci": "Nycticorax nycticorax",
+   "code": "bcnher",
+   "count": 4,
+   "location": "Golden Gate Park--Chain of Lakes",
+   "lat": 37.76872,
+   "lng": -122.5010347,
+   "approximate": false,
+   "datetime": "2026-10-24 15:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405152843:bushti",
+   "checklist": "S405152843",
+   "species": "Bushtit",
+   "sci": "Psaltriparus minimus",
+   "code": "bushti",
+   "count": 5,
+   "location": "Golden Gate Park--Chain of Lakes",
+   "lat": 37.76872,
+   "lng": -122.5010347,
+   "approximate": false,
+   "datetime": "2026-10-24 15:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405154278:rensap",
+   "checklist": "S405154278",
+   "species": "Red-naped Sapsucker",
+   "sci": "Sphyrapicus nuchalis",
+   "code": "rensap",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 15:08",
+   "observer": "Ralph Baker",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405154278:whbnut",
+   "checklist": "S405154278",
+   "species": "White-breasted Nuthatch",
+   "sci": "Sitta carolinensis",
+   "code": "whbnut",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 15:08",
+   "observer": "Ralph Baker",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405154278:comyel",
+   "checklist": "S405154278",
+   "species": "Common Yellowthroat",
+   "sci": "Geothlypis trichas",
+   "code": "comyel",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 15:08",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405154278:btywar",
+   "checklist": "S405154278",
+   "species": "Black-throated Gray Warbler",
+   "sci": "Setophaga nigrescens",
+   "code": "btywar",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 15:08",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405142464:buffle",
+   "checklist": "S405142464",
+   "species": "Bufflehead",
+   "sci": "Bucephala albeola",
+   "code": "buffle",
+   "count": 11,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 15:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405142464:willet1",
+   "checklist": "S405142464",
+   "species": "Willet",
+   "sci": "Tringa semipalmata",
+   "code": "willet1",
+   "count": 1,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 15:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405142464:greyel",
+   "checklist": "S405142464",
+   "species": "Greater Yellowlegs",
+   "sci": "Tringa melanoleuca",
+   "code": "greyel",
+   "count": 1,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 15:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405193291:shshaw",
+   "checklist": "S405193291",
+   "species": "Sharp-shinned Hawk",
+   "sci": "Accipiter striatus",
+   "code": "shshaw",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 14:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405193291:lewwoo",
+   "checklist": "S405193291",
+   "species": "Lewis's Woodpecker",
+   "sci": "Melanerpes lewis",
+   "code": "lewwoo",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 14:35",
+   "observer": "Richard Bradus",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405193291:hutvir",
+   "checklist": "S405193291",
+   "species": "Hutton's Vireo",
+   "sci": "Vireo huttoni",
+   "code": "hutvir",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 14:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405193291:houwre",
+   "checklist": "S405193291",
+   "species": "Northern House Wren",
+   "sci": "Troglodytes aedon",
+   "code": "houwre",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 14:35",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405176471:acowoo",
+   "checklist": "S405176471",
+   "species": "Acorn Woodpecker",
+   "sci": "Melanerpes formicivorus",
+   "code": "acowoo",
+   "count": 3,
+   "location": "Lafayette Park (SF Co.)",
+   "lat": 37.7914728,
+   "lng": -122.4273491,
+   "approximate": false,
+   "datetime": "2026-10-24 14:33",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405190511:turvul",
+   "checklist": "S405190511",
+   "species": "Turkey Vulture",
+   "sci": "Cathartes aura",
+   "code": "turvul",
+   "count": 1,
+   "location": "Golden Gate Park--Log Cabin Trail",
+   "lat": 37.770172,
+   "lng": -122.4748564,
+   "approximate": false,
+   "datetime": "2026-10-24 14:25",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405135091:lesgol",
+   "checklist": "S405135091",
+   "species": "Lesser Goldfinch",
+   "sci": "Spinus psaltria",
+   "code": "lesgol",
+   "count": 1,
+   "location": "Golden Gate Park--Log Cabin Trail",
+   "lat": 37.770172,
+   "lng": -122.4748564,
+   "approximate": false,
+   "datetime": "2026-10-24 14:22",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405135091:brebla",
+   "checklist": "S405135091",
+   "species": "Brewer's Blackbird",
+   "sci": "Euphagus cyanocephalus",
+   "code": "brebla",
+   "count": 1,
+   "location": "Golden Gate Park--Log Cabin Trail",
+   "lat": 37.770172,
+   "lng": -122.4748564,
+   "approximate": false,
+   "datetime": "2026-10-24 14:22",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405142830:whtspa",
+   "checklist": "S405142830",
+   "species": "White-throated Sparrow",
+   "sci": "Zonotrichia albicollis",
+   "code": "whtspa",
+   "count": 1,
+   "location": "Bernal Hill",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-10-24 14:07",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405156044:varthr",
+   "checklist": "S405156044",
+   "species": "Varied Thrush",
+   "sci": "Ixoreus naevius",
+   "code": "varthr",
+   "count": 3,
+   "location": "Golden Gate Park--Blue Heron Lake & Strawberry Hill",
+   "lat": 37.7686349,
+   "lng": -122.4749326,
+   "approximate": false,
+   "datetime": "2026-10-24 14:01",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405141101:glwgul",
+   "checklist": "S405141101",
+   "species": "Glaucous-winged Gull",
+   "sci": "Larus glaucescens",
+   "code": "glwgul",
+   "count": 1,
+   "location": "Golden Gate Park--Lloyd Lake",
+   "lat": 37.7707105,
+   "lng": -122.481814,
+   "approximate": false,
+   "datetime": "2026-10-24 13:47",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405130422:pelcor",
+   "checklist": "S405130422",
+   "species": "Pelagic Cormorant",
+   "sci": "Urile pelagicus",
+   "code": "pelcor",
+   "count": null,
+   "location": "Ocean Beach--north of Fulton St.",
+   "lat": 37.7739869,
+   "lng": -122.5125878,
+   "approximate": false,
+   "datetime": "2026-10-24 13:05",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:whimbr3",
+   "checklist": "S405120794",
+   "species": "Hudsonian Whimbrel",
+   "sci": "Numenius hudsonicus",
+   "code": "whimbr3",
+   "count": 1,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:wilsni1",
+   "checklist": "S405120794",
+   "species": "Wilson's Snipe",
+   "sci": "Gallinago delicata",
+   "code": "wilsni1",
+   "count": 1,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:gwcspa",
+   "checklist": "S405120794",
+   "species": "White-crowned Sparrow (Gambel's)",
+   "sci": "Zonotrichia leucophrys",
+   "code": "gwcspa",
+   "count": 2,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": "Dario Taraborelli",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:leasan",
+   "checklist": "S405120794",
+   "species": "Least Sandpiper",
+   "sci": "Calidris minutilla",
+   "code": "leasan",
+   "count": 42,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:saypho",
+   "checklist": "S405120794",
+   "species": "Say's Phoebe",
+   "sci": "Sayornis saya",
+   "code": "saypho",
+   "count": 2,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:normoc",
+   "checklist": "S405120794",
+   "species": "Northern Mockingbird",
+   "sci": "Mimus polyglottos",
+   "code": "normoc",
+   "count": 1,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120794:wesmea",
+   "checklist": "S405120794",
+   "species": "Western Meadowlark",
+   "sci": "Sturnella neglecta",
+   "code": "wesmea",
+   "count": 5,
+   "location": "Pier 94--salt marsh restoration",
+   "lat": 37.7456582,
+   "lng": -122.3755481,
+   "approximate": false,
+   "datetime": "2026-10-24 13:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405126658:wesgre",
+   "checklist": "S405126658",
+   "species": "Western Grebe",
+   "sci": "Aechmophorus occidentalis",
+   "code": "wesgre",
+   "count": 3,
+   "location": "1191\u20131199 Lake Merced Blvd, \u8056\u6cd5\u862d\u897f\u65af\u79d1 US-CA 37.71153, -122.48557",
+   "lat": 37.70924896146207,
+   "lng": -122.48459234283779,
+   "approximate": true,
+   "datetime": "2026-10-24 12:56",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405126658:trokin",
+   "checklist": "S405126658",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 1,
+   "location": "1191\u20131199 Lake Merced Blvd, \u8056\u6cd5\u862d\u897f\u65af\u79d1 US-CA 37.71153, -122.48557",
+   "lat": 37.70924896146207,
+   "lng": -122.48459234283779,
+   "approximate": true,
+   "datetime": "2026-10-24 12:56",
+   "observer": "Chiming Chou",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:sursco",
+   "checklist": "S405102079",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 120,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:lobcur",
+   "checklist": "S405102079",
+   "species": "Long-billed Curlew",
+   "sci": "Numenius americanus",
+   "code": "lobcur",
+   "count": 12,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:margod",
+   "checklist": "S405102079",
+   "species": "Marbled Godwit",
+   "sci": "Limosa fedoa",
+   "code": "margod",
+   "count": 1,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:commur",
+   "checklist": "S405102079",
+   "species": "Common Murre",
+   "sci": "Uria aalge",
+   "code": "commur",
+   "count": 1,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:retloo",
+   "checklist": "S405102079",
+   "species": "Red-throated Loon",
+   "sci": "Gavia stellata",
+   "code": "retloo",
+   "count": 1,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405102079:comloo",
+   "checklist": "S405102079",
+   "species": "Common Loon",
+   "sci": "Gavia immer",
+   "code": "comloo",
+   "count": 2,
+   "location": "Ocean Beach-- across from Oceanside Water Polution Plant (FOR STATIONARY SEAWATCH ONLY)",
+   "lat": 37.7294017,
+   "lng": -122.5069034,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405121635:lewwoo",
+   "checklist": "S405121635",
+   "species": "Lewis's Woodpecker",
+   "sci": "Melanerpes lewis",
+   "code": "lewwoo",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405121635:dowwoo",
+   "checklist": "S405121635",
+   "species": "Downy Woodpecker",
+   "sci": "Dryobates pubescens",
+   "code": "dowwoo",
+   "count": 1,
+   "location": "Golden Gate Park--McLaren Lodge/Horseshoe Pits/Northeast Entrance",
+   "lat": 37.7732555,
+   "lng": -122.4551675,
+   "approximate": false,
+   "datetime": "2026-10-24 12:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120996:coohaw",
+   "checklist": "S405120996",
+   "species": "Cooper's Hawk",
+   "sci": "Astur cooperii",
+   "code": "coohaw",
+   "count": 1,
+   "location": "Golden Gate Park--North Lake",
+   "lat": 37.7700193,
+   "lng": -122.5028801,
+   "approximate": false,
+   "datetime": "2026-10-24 12:12",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405120996:pinsis",
+   "checklist": "S405120996",
+   "species": "Pine Siskin",
+   "sci": "Spinus pinus",
+   "code": "pinsis",
+   "count": 1,
+   "location": "Golden Gate Park--North Lake",
+   "lat": 37.7700193,
+   "lng": -122.5028801,
+   "approximate": false,
+   "datetime": "2026-10-24 12:12",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124988:rebsap",
+   "checklist": "S405124988",
+   "species": "Red-breasted Sapsucker",
+   "sci": "Sphyrapicus ruber",
+   "code": "rebsap",
+   "count": 1,
+   "location": "Golden Gate Park--Arboretum (San Francisco Botanical Garden)",
+   "lat": 37.7675937,
+   "lng": -122.4688053,
+   "approximate": false,
+   "datetime": "2026-10-24 11:37",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405095110:amekes",
+   "checklist": "S405095110",
+   "species": "American Kestrel",
+   "sci": "Falco sparverius",
+   "code": "amekes",
+   "count": 1,
+   "location": "Corona Heights Park",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-10-24 11:26",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405095110:merlin",
+   "checklist": "S405095110",
+   "species": "Merlin",
+   "sci": "Falco columbarius",
+   "code": "merlin",
+   "count": 1,
+   "location": "Corona Heights Park",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-10-24 11:26",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405095110:pswspa1",
+   "checklist": "S405095110",
+   "species": "White-crowned Sparrow (pugetensis)",
+   "sci": "Zonotrichia leucophrys",
+   "code": "pswspa1",
+   "count": 3,
+   "location": "Corona Heights Park",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-10-24 11:26",
+   "observer": "Dominik Mosur",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405098102:naswar",
+   "checklist": "S405098102",
+   "species": "Nashville Warbler",
+   "sci": "Leiothlypis ruficapilla",
+   "code": "naswar",
+   "count": 1,
+   "location": "Golden Gate Park--Log Cabin Trail",
+   "lat": 37.770172,
+   "lng": -122.4748564,
+   "approximate": false,
+   "datetime": "2026-10-24 11:18",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405093413:norpin",
+   "checklist": "S405093413",
+   "species": "Northern Pintail",
+   "sci": "Anas acuta",
+   "code": "norpin",
+   "count": 1,
+   "location": "Presidio--general (use for long traveling checklists encompassing multiple hotspots)",
+   "lat": 37.7952032,
+   "lng": -122.462883,
+   "approximate": false,
+   "datetime": "2026-10-24 10:40",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405070785:redcro",
+   "checklist": "S405070785",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 1,
+   "location": "Presidio--Fort Scott",
+   "lat": 37.8013071,
+   "lng": -122.4744272,
+   "approximate": false,
+   "datetime": "2026-10-24 10:30",
+   "observer": "Josiah MT Clark",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405070785:purfin",
+   "checklist": "S405070785",
+   "species": "Purple Finch",
+   "sci": "Haemorhous purpureus",
+   "code": "purfin",
+   "count": 1,
+   "location": "Presidio--Fort Scott",
+   "lat": 37.8013071,
+   "lng": -122.4744272,
+   "approximate": false,
+   "datetime": "2026-10-24 10:30",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405081681:rensap",
+   "checklist": "S405081681",
+   "species": "Red-naped Sapsucker",
+   "sci": "Sphyrapicus nuchalis",
+   "code": "rensap",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 10:24",
+   "observer": "Kevin L",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:batpig1",
+   "checklist": "S405189806",
+   "species": "Band-tailed Pigeon",
+   "sci": "Patagioenas fasciata",
+   "code": "batpig1",
+   "count": 98,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:amhgul1",
+   "checklist": "S405189806",
+   "species": "American Herring Gull",
+   "sci": "Larus smithsonianus",
+   "code": "amhgul1",
+   "count": 1,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:brwhaw",
+   "checklist": "S405189806",
+   "species": "Broad-winged Hawk",
+   "sci": "Buteo platypterus",
+   "code": "brwhaw",
+   "count": 1,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": "Paul Saraceni",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:redcro",
+   "checklist": "S405189806",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 1,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": "Paul Saraceni",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:vigswa",
+   "checklist": "S405189806",
+   "species": "Violet-green Swallow",
+   "sci": "Tachycineta thalassina",
+   "code": "vigswa",
+   "count": 18,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405189806:amegfi",
+   "checklist": "S405189806",
+   "species": "American Goldfinch",
+   "sci": "Spinus tristis",
+   "code": "amegfi",
+   "count": 3,
+   "location": "Tank Hill Park",
+   "lat": 37.7598924,
+   "lng": -122.4474978,
+   "approximate": false,
+   "datetime": "2026-10-24 10:15",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405074260:bknsti",
+   "checklist": "S405074260",
+   "species": "Black-necked Stilt",
+   "sci": "Himantopus mexicanus",
+   "code": "bknsti",
+   "count": 20,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 09:44",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405074260:sposan",
+   "checklist": "S405074260",
+   "species": "Spotted Sandpiper",
+   "sci": "Actitis macularius",
+   "code": "sposan",
+   "count": 1,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 09:44",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405074260:forter",
+   "checklist": "S405074260",
+   "species": "Forster's Tern",
+   "sci": "Sterna forsteri",
+   "code": "forter",
+   "count": 2,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 09:44",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:gwfgoo",
+   "checklist": "S405066516",
+   "species": "Greater White-fronted Goose",
+   "sci": "Anser albifrons",
+   "code": "gwfgoo",
+   "count": 1,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:amewig",
+   "checklist": "S405066516",
+   "species": "American Wigeon",
+   "sci": "Mareca americana",
+   "code": "amewig",
+   "count": 1,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:norsho",
+   "checklist": "S405066516",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 3,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:comgal1",
+   "checklist": "S405066516",
+   "species": "Common Gallinule",
+   "sci": "Gallinula galeata",
+   "code": "comgal1",
+   "count": 1,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:mewgul2",
+   "checklist": "S405066516",
+   "species": "Short-billed Gull",
+   "sci": "Larus brachyrhynchus",
+   "code": "mewgul2",
+   "count": 10,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:eargre",
+   "checklist": "S405066516",
+   "species": "Eared Grebe",
+   "sci": "Podiceps nigricollis",
+   "code": "eargre",
+   "count": 40,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:clagre",
+   "checklist": "S405066516",
+   "species": "Clark's Grebe",
+   "sci": "Aechmophorus clarkii",
+   "code": "clagre",
+   "count": 3,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405066516:marwre",
+   "checklist": "S405066516",
+   "species": "Marsh Wren",
+   "sci": "Cistothorus palustris",
+   "code": "marwre",
+   "count": 3,
+   "location": "Lake Merced--Impound Lake",
+   "lat": 37.7100012,
+   "lng": -122.4869156,
+   "approximate": false,
+   "datetime": "2026-10-24 09:27",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405151906:osprey",
+   "checklist": "S405151906",
+   "species": "Osprey",
+   "sci": "Pandion haliaetus",
+   "code": "osprey",
+   "count": 1,
+   "location": "San Francisco Zoo",
+   "lat": 37.7332201,
+   "lng": -122.5032556,
+   "approximate": false,
+   "datetime": "2026-10-24 09:12",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405151906:grtgra",
+   "checklist": "S405151906",
+   "species": "Great-tailed Grackle",
+   "sci": "Quiscalus mexicanus",
+   "code": "grtgra",
+   "count": 1,
+   "location": "San Francisco Zoo",
+   "lat": 37.7332201,
+   "lng": -122.5032556,
+   "approximate": false,
+   "datetime": "2026-10-24 09:12",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405168373:comgal1",
+   "checklist": "S405168373",
+   "species": "Common Gallinule",
+   "sci": "Gallinula galeata",
+   "code": "comgal1",
+   "count": 1,
+   "location": "94132, San Francisco US-CA 37.71305, -122.48667",
+   "lat": 37.711376493337134,
+   "lng": -122.48534161522875,
+   "approximate": true,
+   "datetime": "2026-10-24 08:49",
+   "observer": "karen pinckard",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405032111:amepip",
+   "checklist": "S405032111",
+   "species": "American Pipit",
+   "sci": "Anthus rubescens",
+   "code": "amepip",
+   "count": 1,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 08:25",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405023234:rensap",
+   "checklist": "S405023234",
+   "species": "Red-naped Sapsucker",
+   "sci": "Sphyrapicus nuchalis",
+   "code": "rensap",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-24 08:05",
+   "observer": "Mo C.",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405021368:redcro",
+   "checklist": "S405021368",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 1,
+   "location": "25th ave backyards",
+   "lat": 37.77933133712643,
+   "lng": -122.4848135897932,
+   "approximate": true,
+   "datetime": "2026-10-24 08:04",
+   "observer": "Daniel Scali",
+   "alerts": [
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405021074:cacgoo1",
+   "checklist": "S405021074",
+   "species": "Cackling Goose",
+   "sci": "Branta hutchinsii",
+   "code": "cacgoo1",
+   "count": 1,
+   "location": "Presidio--Crissy Field and Lagoon",
+   "lat": 37.8047658,
+   "lng": -122.4562311,
+   "approximate": false,
+   "datetime": "2026-10-24 08:02",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405054558:pswspa1",
+   "checklist": "S405054558",
+   "species": "White-crowned Sparrow (pugetensis)",
+   "sci": "Zonotrichia leucophrys",
+   "code": "pswspa1",
+   "count": 55,
+   "location": "Corona Heights Park",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-10-24 07:35",
+   "observer": "Dominik Mosur",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405054558:yesfli",
+   "checklist": "S405054558",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 1,
+   "location": "Corona Heights Park",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-10-24 07:35",
+   "observer": "Dominik Mosur",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405062481:lewwoo",
+   "checklist": "S405062481",
+   "species": "Lewis's Woodpecker",
+   "sci": "Melanerpes lewis",
+   "code": "lewwoo",
+   "count": 1,
+   "location": "Fort Mason",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-10-24 07:29",
+   "observer": "David Assmann",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405062481:larspa",
+   "checklist": "S405062481",
+   "species": "Lark Sparrow",
+   "sci": "Chondestes grammacus",
+   "code": "larspa",
+   "count": 2,
+   "location": "Fort Mason",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-10-24 07:29",
+   "observer": "David Assmann",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405062481:westan",
+   "checklist": "S405062481",
+   "species": "Western Tanager",
+   "sci": "Piranga ludoviciana",
+   "code": "westan",
+   "count": 1,
+   "location": "Fort Mason",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-10-24 07:29",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405163742:trokin",
+   "checklist": "S405163742",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 1,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:25",
+   "observer": "Kevin Liberg",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405163742:norhar2",
+   "checklist": "S405163742",
+   "species": "Northern Harrier",
+   "sci": "Circus hudsonius",
+   "code": "norhar2",
+   "count": 1,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:25",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405163742:perfal",
+   "checklist": "S405163742",
+   "species": "Peregrine Falcon",
+   "sci": "Falco peregrinus",
+   "code": "perfal",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:25",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405163742:treswa",
+   "checklist": "S405163742",
+   "species": "Tree Swallow",
+   "sci": "Tachycineta bicolor",
+   "code": "treswa",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:25",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405015174:chispa",
+   "checklist": "S405015174",
+   "species": "Chipping Sparrow",
+   "sci": "Spizella passerina",
+   "code": "chispa",
+   "count": 1,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 07:06",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405015174:savspa",
+   "checklist": "S405015174",
+   "species": "Savannah Sparrow",
+   "sci": "Passerculus sandwichensis",
+   "code": "savspa",
+   "count": 1,
+   "location": "Heron's Head Park",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-10-24 07:06",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:yesfli",
+   "checklist": "S405124551",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Eli Gross",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:redcro2",
+   "checklist": "S405124551",
+   "species": "Red Crossbill (Ponderosa Pine or type 2)",
+   "sci": "Loxia curvirostra",
+   "code": "redcro2",
+   "count": 13,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Eli Gross",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:redcro",
+   "checklist": "S405124551",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Eli Gross",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:trokin",
+   "checklist": "S405124551",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Eli Gross",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405134622:redcro",
+   "checklist": "S405134622",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Daniel Scali",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405134622:yesfli",
+   "checklist": "S405134622",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Daniel Scali",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405134622:redcro2",
+   "checklist": "S405134622",
+   "species": "Red Crossbill (Ponderosa Pine or type 2)",
+   "sci": "Loxia curvirostra",
+   "code": "redcro2",
+   "count": 13,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Daniel Scali",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:gresca",
+   "checklist": "S405124551",
+   "species": "Greater Scaup",
+   "sci": "Aythya marila",
+   "code": "gresca",
+   "count": 12,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405138763:redcro2",
+   "checklist": "S405138763",
+   "species": "Red Crossbill (Ponderosa Pine or type 2)",
+   "sci": "Loxia curvirostra",
+   "code": "redcro2",
+   "count": 13,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Nancy Palmer",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405138763:yesfli",
+   "checklist": "S405138763",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Nancy Palmer",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405138763:redcro",
+   "checklist": "S405138763",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Nancy Palmer",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405138763:trokin",
+   "checklist": "S405138763",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Nancy Palmer",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405157915:redcro2",
+   "checklist": "S405157915",
+   "species": "Red Crossbill (Ponderosa Pine or type 2)",
+   "sci": "Loxia curvirostra",
+   "code": "redcro2",
+   "count": 13,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Tijmen Blankevoort",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405157915:redcro",
+   "checklist": "S405157915",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Tijmen Blankevoort",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405157915:trokin",
+   "checklist": "S405157915",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Tijmen Blankevoort",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405157915:yesfli",
+   "checklist": "S405157915",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Tijmen Blankevoort",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:blktur",
+   "checklist": "S405124551",
+   "species": "Black Turnstone",
+   "sci": "Arenaria melanocephala",
+   "code": "blktur",
+   "count": 16,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405124551:dunlin",
+   "checklist": "S405124551",
+   "species": "Dunlin",
+   "sci": "Calidris alpina",
+   "code": "dunlin",
+   "count": 8,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405145451:redcro",
+   "checklist": "S405145451",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Keith Maley",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405145451:yesfli",
+   "checklist": "S405145451",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 3,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Keith Maley",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405145451:trokin",
+   "checklist": "S405145451",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 2,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Keith Maley",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405145451:redcro2",
+   "checklist": "S405145451",
+   "species": "Red Crossbill (Ponderosa Pine or type 2)",
+   "sci": "Loxia curvirostra",
+   "code": "redcro2",
+   "count": 13,
+   "location": "Presidio--Battery Godfrey",
+   "lat": 37.8037613,
+   "lng": -122.4774715,
+   "approximate": false,
+   "datetime": "2026-10-24 07:05",
+   "observer": "Keith Maley",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:redpha1",
+   "checklist": "S405182103",
+   "species": "Red Phalarope",
+   "sci": "Phalaropus fulicarius",
+   "code": "redpha1",
+   "count": 2,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182104:snobun",
+   "checklist": "S405182104",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": "Jonah  Benningfield",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405187941:snobun",
+   "checklist": "S405187941",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": "Frank Fabbro",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182107:snobun",
+   "checklist": "S405182107",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": "Pete Warzybok",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:rudtur",
+   "checklist": "S405182103",
+   "species": "Ruddy Turnstone",
+   "sci": "Arenaria interpres",
+   "code": "rudtur",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:pomjae",
+   "checklist": "S405182103",
+   "species": "Pomarine Jaeger",
+   "sci": "Stercorarius pomarinus",
+   "code": "pomjae",
+   "count": 2,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:casauk",
+   "checklist": "S405182103",
+   "species": "Cassin's Auklet",
+   "sci": "Ptychoramphus aleuticus",
+   "code": "casauk",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:y00478",
+   "checklist": "S405182103",
+   "species": "Iceland Gull",
+   "sci": "Larus glaucoides",
+   "code": "y00478",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:snobun",
+   "checklist": "S405182103",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": "Farallon Island",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:pacloo",
+   "checklist": "S405182103",
+   "species": "Pacific Loon",
+   "sci": "Gavia pacifica",
+   "code": "pacloo",
+   "count": 4,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:sooshe",
+   "checklist": "S405182103",
+   "species": "Sooty Shearwater",
+   "sci": "Ardenna grisea",
+   "code": "sooshe",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:pifshe",
+   "checklist": "S405182103",
+   "species": "Pink-footed Shearwater",
+   "sci": "Ardenna creatopus",
+   "code": "pifshe",
+   "count": 2,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:bkvshe",
+   "checklist": "S405182103",
+   "species": "Black-vented Shearwater",
+   "sci": "Puffinus opisthomelas",
+   "code": "bkvshe",
+   "count": 1000,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:burowl",
+   "checklist": "S405182103",
+   "species": "Burrowing Owl",
+   "sci": "Athene cunicularia",
+   "code": "burowl",
+   "count": 6,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:barswa",
+   "checklist": "S405182103",
+   "species": "Barn Swallow",
+   "sci": "Hirundo rustica",
+   "code": "barswa",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405188009:snobun",
+   "checklist": "S405188009",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": "Sophie Barno",
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:vesspa",
+   "checklist": "S405182103",
+   "species": "Vesper Sparrow",
+   "sci": "Pooecetes gramineus",
+   "code": "vesspa",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:swaspa",
+   "checklist": "S405182103",
+   "species": "Swamp Sparrow",
+   "sci": "Melospiza georgiana",
+   "code": "swaspa",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405182103:palwar",
+   "checklist": "S405182103",
+   "species": "Palm Warbler",
+   "sci": "Setophaga palmarum",
+   "code": "palwar",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-24 07:00",
+   "observer": null,
+   "alerts": [
+    "needs"
+   ],
+   "photo": null
+  },
   {
    "id": "S404884420:brnowl",
    "checklist": "S404884420",
@@ -33,7 +3238,8 @@
    "datetime": "2026-10-23 19:00",
    "observer": "Pete Warzybok",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -69,7 +3275,8 @@
    "datetime": "2026-10-23 19:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -87,7 +3294,8 @@
    "datetime": "2026-10-23 19:00",
    "observer": "Carrie Coonan",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -393,7 +3601,8 @@
    "datetime": "2026-10-23 19:00",
    "observer": "Farallon Island",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1437,7 +4646,8 @@
    "datetime": "2026-10-23 16:01",
    "observer": "Will Rasmussen",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1707,7 +4917,8 @@
    "datetime": "2026-10-23 15:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1725,7 +4936,8 @@
    "datetime": "2026-10-23 15:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1743,7 +4955,8 @@
    "datetime": "2026-10-23 15:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1905,7 +5118,8 @@
    "datetime": "2026-10-23 13:22",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1941,7 +5155,8 @@
    "datetime": "2026-10-23 12:36",
    "observer": "Faith Lucas",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1995,7 +5210,8 @@
    "datetime": "2026-10-23 12:34",
    "observer": "Lucas stephenson",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2013,7 +5229,8 @@
    "datetime": "2026-10-23 12:34",
    "observer": "Owen Sinkus",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2031,7 +5248,8 @@
    "datetime": "2026-10-23 12:34",
    "observer": "Liam Hutcheson",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2072,6 +5290,24 @@
    "photo": null
   },
   {
+   "id": "S404870737:prowar",
+   "checklist": "S404870737",
+   "species": "Prothonotary Warbler",
+   "sci": "Protonotaria citrea",
+   "code": "prowar",
+   "count": 1,
+   "location": "Golden Gate Park--Log Cabin Trail",
+   "lat": 37.770172,
+   "lng": -122.4748564,
+   "approximate": false,
+   "datetime": "2026-10-23 12:34",
+   "observer": "Sam Strich",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
    "id": "S404859393:pswspa1",
    "checklist": "S404859393",
    "species": "White-crowned Sparrow (pugetensis)",
@@ -2085,7 +5321,8 @@
    "datetime": "2026-10-23 11:45",
    "observer": "Dominik Mosur",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2103,7 +5340,8 @@
    "datetime": "2026-10-23 11:45",
    "observer": "Dominik Mosur",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2121,7 +5359,8 @@
    "datetime": "2026-10-23 11:45",
    "observer": "Dominik Mosur",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2139,7 +5378,8 @@
    "datetime": "2026-10-23 11:45",
    "observer": "Dominik Mosur",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2211,7 +5451,8 @@
    "datetime": "2026-10-23 10:31",
    "observer": "Joachim Gonzalez",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2229,7 +5470,8 @@
    "datetime": "2026-10-23 10:31",
    "observer": "Joachim Gonzalez",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2265,7 +5507,8 @@
    "datetime": "2026-10-23 10:24",
    "observer": "Mo C.",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2391,7 +5634,8 @@
    "datetime": "2026-10-23 09:44",
    "observer": "Nancy Palmer",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2427,7 +5671,8 @@
    "datetime": "2026-10-23 09:44",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2644,7 +5889,8 @@
    "datetime": "2026-10-23 08:09",
    "observer": "Daniel Scali",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2680,7 +5926,8 @@
    "datetime": "2026-10-23 07:50",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2698,7 +5945,8 @@
    "datetime": "2026-10-23 07:35",
    "observer": "Kevin Liberg",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2788,7 +6036,8 @@
    "datetime": "2026-10-23 07:10",
    "observer": "Paul Saraceni",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2806,7 +6055,62 @@
    "datetime": "2026-10-23 07:10",
    "observer": "Paul Saraceni",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S404873909:snobun",
+   "checklist": "S404873909",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-23 07:00",
+   "observer": "Jonah  Benningfield",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S404874410:snobun",
+   "checklist": "S404874410",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-23 07:00",
+   "observer": "Frank Fabbro",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S404874427:snobun",
+   "checklist": "S404874427",
+   "species": "Snow Bunting",
+   "sci": "Plectrophenax nivalis",
+   "code": "snobun",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-23 07:00",
+   "observer": "Sophie Barno",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -5118,7 +8422,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5136,7 +8441,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5154,7 +8460,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5172,7 +8479,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Carrie Coonan",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5190,7 +8498,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Carrie Coonan",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5208,7 +8517,8 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Carrie Coonan",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5226,7 +8536,44 @@
    "datetime": "2026-10-22 07:00",
    "observer": "Sophie Barno",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S404808522:swathr",
+   "checklist": "S404808522",
+   "species": "Swainson's Thrush",
+   "sci": "Catharus ustulatus",
+   "code": "swathr",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-22 07:00",
+   "observer": "Sophie Barno",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S404808522:redcro",
+   "checklist": "S404808522",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-22 07:00",
+   "observer": "Sophie Barno",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -6833,7 +10180,8 @@
    "datetime": "2026-10-21 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -6851,7 +10199,8 @@
    "datetime": "2026-10-21 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -7056,7 +10405,8 @@
    "datetime": "2026-10-20 16:21",
    "observer": "C\u00e9dric Duhalde",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -7074,7 +10424,8 @@
    "datetime": "2026-10-20 16:21",
    "observer": "C\u00e9dric Duhalde",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -9089,7 +12440,8 @@
    "datetime": "2026-10-20 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
