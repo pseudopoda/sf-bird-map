@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SF Bird Alerts</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="SF Birds">
+<meta name="theme-color" content="#1e6fd9">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  html, body { height: 100%; margin: 0; font-family: system-ui, sans-serif; }
+  #map { height: 100%; }
+  .panel { position: absolute; z-index: 1000; top: 10px; right: 10px; background: #fff; padding: 10px 12px;
+           border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.3); font-size: 14px; max-width: 210px; }
+  .panel label { display: block; margin: 3px 0; }
+  .sw { display:inline-block; width:14px; height:14px; margin-right:1px; border-radius:50%; }
+  #legend small { display:block; color:#666; margin-top:2px; }
+  button, select { cursor: pointer; font: inherit; padding: 4px 8px; border-radius: 6px; border: 1px solid #bbb; background: #f6f6f6; }
+  .pop img { width: 100%; border-radius: 6px; margin-bottom: 4px; }
+  .pop h3 { margin: 0 0 4px; }
+  .pop small { color: #555; }
+  .pill { display:inline-block; color:#fff; border-radius: 10px; padding: 1px 8px; font-size: 12px; margin: 0 4px 4px 0; }
+  .drawer { position: absolute; z-index: 1100; top: 0; left: 0; bottom: 0; width: min(350px, 92vw); background: #fff;
+            box-shadow: 2px 0 8px rgba(0,0,0,.3); display: none; flex-direction: column; }
+  .drawer.open { display: flex; }
+  .drawer header { padding: 10px; border-bottom: 1px solid #ddd; }
+  .drawer .body { overflow-y: auto; flex: 1; padding: 6px 10px; }
+  .row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .item { display: flex; gap: 6px; align-items: center; margin: 3px 0; font-size: 14px; }
+  .item .n { color: #888; margin-left: auto; }
+  .star { border: 0; background: none; font-size: 18px; padding: 0 2px; color: #f5b400; }
+  .li { padding: 6px 0; border-bottom: 1px solid #eee; cursor: pointer; font-size: 14px; }
+  .li small { color: #666; display: block; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<div class="panel">
+  <strong>SF Bird Alerts</strong>
+  <label><input type="checkbox" id="f-needs" checked><span class="sw" style="background:#1e6fd9"></span>Needs</label>
+  <label><input type="checkbox" id="f-rare" checked><span class="sw" style="background:#d93025"></span>Rare</label>
+  <label><input type="checkbox" id="f-nearby" checked>Nearby counties (rare)</label>
+  <label><input type="checkbox" id="f-star">&#9733; Starred only</label>
+  <label><input type="checkbox" id="f-gone">Hide "probably gone"</label>
+  <select id="days"><option value="1">Today</option><option value="3">Last 3 days</option><option value="7" selected>Last 7 days</option></select>
+  <div class="row" style="margin:6px 0">
+    <button id="open-list">List</button>
+    <button id="open-species">Species (<span id="hidden-count">0</span> hidden)</button>
+    <a href="archive.html"><button>Archive</button></a>
+  </div>
+  <button id="refresh" style="width:100%;margin-bottom:6px">&#8635; Refresh now</button>
+  <div id="legend"></div>
+  <small id="updated"></small>
+</div>
+
+<div class="drawer" id="list-drawer">
+  <header>
+    <div class="row"><strong>Birds on the map</strong><button class="close" style="margin-left:auto">Done</button></div>
+    <select id="sort"><option value="staying">Staying first</option><option value="new">Newest report</option><option value="az">A&ndash;Z</option></select>
+  </header>
+  <div class="body" id="list"></div>
+</div>
+
+<div class="drawer" id="sp-drawer">
+  <header>
+    <div class="row"><strong>Species</strong><button class="close" style="margin-left:auto">Done</button></div>
+    <input type="search" id="sp-search" placeholder="Search species..." style="width:100%;box-sizing:border-box;margin:6px 0;padding:6px">
+    <div class="row">
+      <button id="show-all">Show all</button><button id="hide-all">Hide all</button>
+      <label><input type="checkbox" id="only-seen"> with sightings</label>
+      <label><input type="checkbox" id="only-star"> starred</label>
+    </div>
+    <small>Unchecked = hidden. &#9733; = target bird. Saved on this device.</small>
+  </header>
+  <div class="body" id="sp-list"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const map = L.map('map').fitBounds([[37.64, -123.03], [37.84, -122.33]]);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap contributors', maxZoom: 19 }).addTo(map);
+const layer = L.layerGroup().addTo(map);
+let sightings = [], allSpecies = [], markers = {};
+
+// ----- saved lists (this browser only) -----
+const loadSet = k => { try { return new Set(JSON.parse(localStorage.getItem(k) || '[]')); } catch (e) { return new Set(); } };
+const hidden = loadSet('hiddenSpecies'), starred = loadSet('starredSpecies');
+function save() {
+  try { localStorage.setItem('hiddenSpecies', JSON.stringify([...hidden])); localStorage.setItem('starredSpecies', JSON.stringify([...starred])); } catch (e) {}
+  $('hidden-count').textContent = hidden.size;
+}
+function toggleStar(code) { starred.has(code) ? starred.delete(code) : (starred.add(code), hidden.delete(code)); save(); refresh(); }
+function hideSpecies(code) { hidden.add(code); starred.delete(code); save(); refresh(); }
+
+// ----- colors fade with age -----
+const NEEDS = ['#0a3a8c', '#1e6fd9', '#4a8fe0', '#76a9ea', '#9fc2f0', '#c0d7f5', '#d9e6f8'];
+const RARE  = ['#8f1a12', '#d93025', '#e5594f', '#ec817a', '#f2a6a1', '#f6c4c0', '#f9dad8'];
+const STATUS = { staying: ['#1a7f37'], new: ['#6f42c1'], maybe: ['#b7791f'], gone: ['#777'] };
+function ageDays(dateStr) {
+  const t = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' }).split('-').map(Number);
+  const o = dateStr.slice(0, 10).split('-').map(Number);
+  return Math.round((Date.UTC(...[t[0], t[1] - 1, t[2]]) - Date.UTC(o[0], o[1] - 1, o[2])) / 864e5);
+}
+function statusText(s) {
+  const last = new Date(s.dates[s.dates.length - 1] + 'T12:00').toLocaleDateString([], { month: 'short', day: 'numeric' });
+  if (s.status === 'staying') return `Staying: ${s.streak} day${s.streak > 1 ? 's' : ''} running, seen today`;
+  if (s.status === 'new') return 'New today';
+  if (s.status === 'maybe') return `Seen on ${s.days_reported} day${s.days_reported > 1 ? 's' : ''}, not yet today`;
+  return `Probably gone, last seen ${last}`;
+}
+const pill = s => `<span class="pill" style="background:${STATUS[s.status][0]}">${esc(statusText(s))}</span>`;
+$('legend').innerHTML = [[NEEDS, 'Needs'], [RARE, 'Rare']].map(([c, l]) =>
+  `<div>${c.map(x => `<span class="sw" style="background:${x}"></span>`).join('')} ${l}</div>`).join('') + '<small>dark = today, light = older</small>';
+
+function popup(s) {
+  const p = s.photo;
+  const photo = p ? `<a href="${esc(p.page)}" target="_blank"><img src="${esc(p.file)}" alt="" onerror="this.style.display='none'"></a>
+    <small>${p.generic ? 'Generic species photo' : 'Photo from this checklist'} &middot; ${esc(p.credit)} &middot; via ${esc(p.source)}</small><br>` : '';
+  const when = new Date(s.datetime.replace(' ', 'T')).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' });
+  const days = s.dates.map(d => new Date(d + 'T12:00').toLocaleDateString([], { month: 'short', day: 'numeric' })).join(', ');
+  return `<div class="pop">${photo}<h3>${starred.has(s.code) ? '&#9733; ' : ''}${esc(s.species)}</h3>
+    ${pill(s)}<span class="pill" style="background:${s.confirmed ? '#1a7f37' : '#888'}">${s.confirmed ? '&#10003; Confirmed' : 'Unconfirmed'}</span><br>
+    <em>${esc(s.sci)}</em><br>
+    <b>Where:</b> ${esc(s.location)}${s.county !== 'San Francisco' ? ` (${esc(s.county)} Co.)` : ''}${s.approximate ? ' <small>(approximate)</small>' : ''}<br>
+    <b>Last reported:</b> ${esc(when)}<br>
+    <b>Reported on:</b> ${esc(days)} (${s.reports} checklist${s.reports > 1 ? 's' : ''})<br>
+    <b>Observer:</b> ${esc(s.observer)}${s.count ? ` &middot; <b>Count:</b> ${esc(s.count)}` : ''}<br>
+    <a href="https://ebird.org/checklist/${esc(s.checklist)}" target="_blank">Checklist</a> &middot;
+    <a href="https://www.google.com/maps/dir/?api=1&destination=${s.lat},${s.lng}" target="_blank">Directions</a><br>
+    <div class="row" style="margin-top:6px"><button data-act="star" data-code="${esc(s.code)}">${starred.has(s.code) ? '&#9733; Unstar' : '&#9734; Star'}</button>
+    <button data-act="hide" data-code="${esc(s.code)}">Hide species</button></div></div>`;
+}
+map.on('popupopen', e => e.popup.getElement().querySelectorAll('button[data-act]').forEach(b => b.onclick = () => {
+  map.closePopup(); b.dataset.act === 'star' ? toggleStar(b.dataset.code) : hideSpecies(b.dataset.code);
+}));
+
+function visible() {
+  const needs = $('f-needs').checked, rare = $('f-rare').checked, nearby = $('f-nearby').checked;
+  const maxAge = $('days').value - 1;
+  return sightings.filter(s => {
+    if (hidden.has(s.code)) return false;
+    if ($('f-star').checked && !starred.has(s.code)) return false;
+    if ($('f-gone').checked && s.status === 'gone') return false;
+    const n = s.alerts.includes('needs'), r = s.alerts.includes('rare');
+    if (!((n && needs) || (r && rare) || (!n && !r))) return false;
+    if (s.county !== 'San Francisco' && !nearby) return false;
+    return ageDays(s.datetime) <= maxAge;
+  });
+}
+
+function render() {
+  layer.clearLayers(); markers = {};
+  const rows = visible().map(s => ({ s, age: Math.max(0, Math.min(6, ageDays(s.datetime))) }));
+  rows.sort((a, b) => b.age - a.age); // newest on top
+  rows.forEach(({ s, age }) => {
+    const cols = s.alerts.includes('rare') ? RARE : NEEDS, st = starred.has(s.code);
+    markers[s.id] = L.circleMarker([s.lat, s.lng], st
+      ? { radius: 12, color: '#f5b400', weight: 3, opacity: 1, fillColor: cols[age], fillOpacity: .95 }
+      : { radius: 9, color: cols[0], weight: 1.5, opacity: .7, fillColor: cols[age], fillOpacity: .95 })
+      .bindPopup(() => popup(s), { maxWidth: 260 }).addTo(layer);
+  });
+  renderList();
+}
+
+function renderList() {
+  const order = { staying: 0, new: 1, maybe: 2, gone: 3 }, mode = $('sort').value;
+  const rows = visible().sort((a, b) =>
+    mode === 'az' ? a.species.localeCompare(b.species)
+    : mode === 'staying' ? (order[a.status] - order[b.status]) || b.datetime.localeCompare(a.datetime)
+    : b.datetime.localeCompare(a.datetime));
+  $('list').innerHTML = rows.map(s => `<div class="li" data-id="${esc(s.id)}">${starred.has(s.code) ? '&#9733; ' : ''}<b>${esc(s.species)}</b>
+    ${s.confirmed ? '&#10003;' : ''}<small>${esc(s.location)} &middot; ${esc(s.county)}</small>${pill(s)}</div>`).join('') || '<p>Nothing matches the filters.</p>';
+  $('list').querySelectorAll('.li').forEach(el => el.onclick = () => {
+    const m = markers[el.dataset.id]; if (!m) return;
+    closeDrawers(); map.setView(m.getLatLng(), Math.max(map.getZoom(), 14)); m.openPopup();
+  });
+}
+
+function buildSpecies() {
+  const q = $('sp-search').value.toLowerCase(), seen = {};
+  sightings.forEach(s => seen[s.code] = (seen[s.code] || 0) + 1);
+  $('sp-list').innerHTML = '';
+  allSpecies.forEach(sp => {
+    if (q && !(sp.name.toLowerCase().includes(q) || (sp.sci || '').toLowerCase().includes(q))) return;
+    if ($('only-seen').checked && !seen[sp.code]) return;
+    if ($('only-star').checked && !starred.has(sp.code)) return;
+    const row = document.createElement('div'); row.className = 'item';
+    const cb = document.createElement('input'); cb.type = 'checkbox'; cb.checked = !hidden.has(sp.code);
+    cb.onchange = () => { cb.checked ? hidden.delete(sp.code) : (hidden.add(sp.code), starred.delete(sp.code)); save(); render(); };
+    const st = document.createElement('button'); st.className = 'star'; st.textContent = starred.has(sp.code) ? '\u2605' : '\u2606';
+    st.onclick = () => { toggleStar(sp.code); };
+    row.append(cb, document.createTextNode(sp.name), st);
+    if (seen[sp.code]) { const n = document.createElement('span'); n.className = 'n'; n.textContent = seen[sp.code]; row.insertBefore(n, st); }
+    $('sp-list').append(row);
+  });
+}
+function refresh() { render(); if ($('sp-drawer').classList.contains('open')) buildSpecies(); }
+
+const closeDrawers = () => document.querySelectorAll('.drawer').forEach(d => d.classList.remove('open'));
+document.querySelectorAll('.close').forEach(b => b.onclick = closeDrawers);
+$('open-list').onclick = () => { closeDrawers(); renderList(); $('list-drawer').classList.add('open'); };
+$('open-species').onclick = () => { closeDrawers(); buildSpecies(); $('sp-drawer').classList.add('open'); };
+['sp-search', 'only-seen', 'only-star'].forEach(id => $(id).addEventListener(id === 'sp-search' ? 'input' : 'change', buildSpecies));
+$('sort').onchange = renderList;
+$('show-all').onclick = () => { hidden.clear(); save(); refresh(); };
+$('hide-all').onclick = () => { allSpecies.forEach(s => hidden.add(s.code)); starred.clear(); save(); refresh(); };
+['f-needs', 'f-rare', 'f-star', 'f-gone', 'days'].forEach(id => $(id).addEventListener('change', render));
+$('f-nearby').addEventListener('change', e => { render();
+  map.fitBounds(e.target.checked ? [[37.2, -122.65], [38.05, -121.75]] : [[37.64, -123.03], [37.84, -122.33]]); });
+
+let baseSpecies = [];
+function applyData(j) {
+  sightings = j.sightings; allSpecies = baseSpecies.slice();
+  const have = new Set(allSpecies.map(s => s.code));
+  sightings.forEach(s => { if (!have.has(s.code)) { have.add(s.code); allSpecies.push({ code: s.code, name: s.species, sci: s.sci }); } });
+  if (j.generated) { $('updated').textContent = 'Updated ' + new Date(j.generated).toLocaleString(); $('updated').dataset.gen = j.generated; }
+  save(); render();
+}
+Promise.all([fetch('sightings.json').then(r => r.json()), fetch('species.json').then(r => r.json()).catch(() => [])])
+  .then(([j, species]) => { baseSpecies = species; applyData(j); });
+
+// ----- Refresh now: asks GitHub to run the update right away -----
+const store = { get: k => { try { return localStorage.getItem(k); } catch (e) { return null; } },
+                set: (k, v) => { try { localStorage.setItem(k, v); } catch (e) {} },
+                del: k => { try { localStorage.removeItem(k); } catch (e) {} } };
+async function refreshNow() {
+  const btn = $('refresh'), label = '\u21BB Refresh now';
+  const done = (msg, ms = 3000) => { btn.textContent = msg; setTimeout(() => { btn.disabled = false; btn.textContent = label; }, ms); };
+  let repo = (location.hostname.endsWith('.github.io') && location.pathname.split('/')[1])
+    ? `${location.hostname.split('.')[0]}/${location.pathname.split('/')[1]}` : store.get('ghRepo');
+  if (!repo) { repo = (prompt('Your GitHub repo, like username/sf-bird-map:') || '').trim(); if (!repo) return; store.set('ghRepo', repo); }
+  let token = store.get('ghToken');
+  if (!token) { token = (prompt('Paste your GitHub token (one time on this device):') || '').trim(); if (!token) return; store.set('ghToken', token); }
+  btn.disabled = true; btn.textContent = 'Starting...';
+  try {
+    const r = await fetch(`https://api.github.com/repos/${repo}/actions/workflows/update.yml/dispatches`, {
+      method: 'POST', headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' }, body: JSON.stringify({ ref: 'main' }) });
+    if ([401, 403, 404].includes(r.status)) { store.del('ghToken'); alert('GitHub rejected the token (expired, or missing Actions permission). Tap Refresh to enter a new one.'); return done(label, 0); }
+    if (r.status !== 204) throw new Error('GitHub said HTTP ' + r.status);
+    btn.textContent = 'Updating (1-3 min)...';
+    const before = $('updated').dataset.gen;
+    for (let i = 0; i < 30; i++) {
+      await new Promise(res => setTimeout(res, 10000));
+      const j = await fetch('sightings.json?t=' + Date.now(), { cache: 'no-store' }).then(r => r.json()).catch(() => null);
+      if (j && j.generated !== before) { applyData(j); return done('Updated \u2713'); }
+    }
+    done('Still running, check back soon', 5000);
+  } catch (e) { alert('Refresh failed: ' + e.message); done(label, 0); }
+}
+$('refresh').onclick = refreshNow;
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+</script>
+</body>
+</html>

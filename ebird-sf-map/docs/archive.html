@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SF Bird Archive</title>
+<style>
+ body{font-family:system-ui,sans-serif;margin:0;padding:12px;max-width:900px;margin:auto}
+ .cards{display:flex;gap:8px;flex-wrap:wrap}.card{background:#f3f6fb;border-radius:8px;padding:8px 12px}.card b{font-size:20px;display:block}
+ .bar{background:#1e6fd9;height:14px;border-radius:3px}.r{display:flex;gap:8px;align-items:center;font-size:14px;margin:2px 0}.r span:first-child{width:130px;flex:none}
+ table{border-collapse:collapse;width:100%;font-size:13px}td,th{border-bottom:1px solid #eee;padding:4px;text-align:left}
+ input,select,button{font:inherit;padding:5px 8px}.scroll{overflow-x:auto}
+</style></head><body>
+<p><a href="./">&larr; Back to map</a></p>
+<h2>Archive</h2><div class="cards" id="cards"></div>
+<div style="display:flex;gap:20px;flex-wrap:wrap"><div style="flex:1;min-width:260px"><h3>Reports per month</h3><div id="months"></div></div>
+<div style="flex:1;min-width:260px"><h3>Most reported birds</h3><div id="top"></div></div>
+<div style="flex:1;min-width:260px"><h3>Top locations</h3><div id="locs"></div></div></div>
+<h3>All sightings</h3>
+<p><input id="q" type="search" placeholder="Search species, place, observer..."> <select id="kind"><option value="">All alerts</option><option value="needs">Needs</option><option value="rare">Rare</option></select>
+<button id="csv">Download CSV</button> <span id="count"></span></p>
+<div class="scroll"><table><thead><tr><th>Date</th><th>Species</th><th>Location</th><th>County</th><th>Alert</th><th>Observer</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+<script>
+const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let all=[];
+const tally=(arr,f)=>{const m={};arr.forEach(r=>{const k=f(r);m[k]=(m[k]||0)+1});return Object.entries(m).sort((a,b)=>b[1]-a[1])};
+const bars=(pairs,el)=>{const mx=Math.max(1,...pairs.map(p=>p[1]));$(el).innerHTML=pairs.map(([k,v])=>`<div class="r"><span>${esc(k)}</span><div class="bar" style="width:${v/mx*100}px"></div>${v}</div>`).join('')};
+function show(){const q=$('q').value.toLowerCase(),k=$('kind').value;
+ const rows=all.filter(r=>(!k||r.alerts.includes(k))&&(!q||(r.species+r.location+r.observer+r.county).toLowerCase().includes(q)));
+ $('count').textContent=rows.length+' records';
+ $('rows').innerHTML=rows.slice(0,500).map(r=>`<tr><td>${esc(r.datetime)}</td><td>${esc(r.species)}</td><td>${esc(r.location)}</td><td>${esc(r.county)}</td><td>${esc(r.alerts.join('+'))}</td><td>${esc(r.observer)}</td><td><a target="_blank" href="https://ebird.org/checklist/${esc(r.checklist)}">view</a></td></tr>`).join('');
+ return rows}
+$('q').oninput=show;$('kind').onchange=show;
+$('csv').onclick=()=>{const rows=show();const cols=['datetime','species','sci','count','location','county','lat','lng','observer','alerts','confirmed','checklist'];
+ const csv=[cols.join(',')].concat(rows.map(r=>cols.map(c=>'"'+String(Array.isArray(r[c])?r[c].join('+'):r[c]??'').replace(/"/g,'""')+'"').join(','))).join('\n');
+ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));a.download='sf-bird-archive.csv';a.click()};
+fetch('archive/index.json').then(r=>r.json()).then(idx=>Promise.all(idx.map(m=>fetch(`archive/${m.month}.json`).then(r=>r.json())))).then(parts=>{
+ all=parts.flat().sort((a,b)=>b.datetime.localeCompare(a.datetime));
+ $('cards').innerHTML=[['Records',all.length],['Species',new Set(all.map(r=>r.code)).size],['Locations',new Set(all.map(r=>r.location)).size],['Since',all.length?all[all.length-1].datetime.slice(0,10):'-']].map(([l,v])=>`<div class="card"><b>${v}</b>${l}</div>`).join('');
+ bars(tally(all,r=>r.datetime.slice(0,7)).sort(),'months');bars(tally(all,r=>r.species).slice(0,10),'top');bars(tally(all,r=>r.location).slice(0,10),'locs');show();
+}).catch(()=>{$('cards').textContent='No archive yet. It fills in after the first run.'});
+</script></body></html>
