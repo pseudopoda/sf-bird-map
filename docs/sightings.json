@@ -1,6 +1,42 @@
 {
- "generated": "2026-10-26T16:40:47.982069Z",
+ "generated": "2026-10-27T04:32:27.215427Z",
  "sightings": [
+  {
+   "id": "S405624663:bkvshe",
+   "checklist": "S405624663",
+   "species": "Black-vented Shearwater",
+   "sci": "Puffinus opisthomelas",
+   "code": "bkvshe",
+   "count": 50,
+   "location": "Fort Funston - for long traveling lists - use specific hotspot where appropriate",
+   "lat": 37.7187559,
+   "lng": -122.5028394,
+   "approximate": false,
+   "datetime": "2026-10-26 07:35",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405602022:amwpel",
+   "checklist": "S405602022",
+   "species": "American White Pelican",
+   "sci": "Pelecanus erythrorhynchos",
+   "code": "amwpel",
+   "count": 1,
+   "location": "Presidio--Crissy Field and Lagoon",
+   "lat": 37.8047658,
+   "lng": -122.4562311,
+   "approximate": false,
+   "datetime": "2026-10-26 07:16",
+   "observer": null,
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
   {
    "id": "S405487434:rebsap",
    "checklist": "S405487434",
@@ -33,7 +69,8 @@
    "datetime": "2026-10-25 17:45",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -69,7 +106,8 @@
    "datetime": "2026-10-25 17:45",
    "observer": "Veena S",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -411,7 +449,8 @@
    "datetime": "2026-10-25 17:02",
    "observer": "Michelle Moir",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -447,7 +486,8 @@
    "datetime": "2026-10-25 17:02",
    "observer": "Connor Schmidt",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -699,7 +739,8 @@
    "datetime": "2026-10-25 16:24",
    "observer": "Troy Peters",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -789,7 +830,8 @@
    "datetime": "2026-10-25 16:24",
    "observer": "Katherine Nielsen",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -969,7 +1011,8 @@
    "datetime": "2026-10-25 16:18",
    "observer": "Jake Glassman",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1005,7 +1048,8 @@
    "datetime": "2026-10-25 15:37",
    "observer": "Dario Taraborelli",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1095,7 +1139,8 @@
    "datetime": "2026-10-25 15:35",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1113,7 +1158,8 @@
    "datetime": "2026-10-25 15:35",
    "observer": "Nico Stuurman",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1131,7 +1177,8 @@
    "datetime": "2026-10-25 15:35",
    "observer": "Nico Stuurman",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1509,7 +1556,8 @@
    "datetime": "2026-10-25 14:51",
    "observer": "Joshua Zhou",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1563,7 +1611,8 @@
    "datetime": "2026-10-25 13:56",
    "observer": "Dario Taraborelli",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1599,7 +1648,8 @@
    "datetime": "2026-10-25 13:26",
    "observer": "Veena S",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1635,7 +1685,8 @@
    "datetime": "2026-10-25 13:26",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1671,7 +1722,8 @@
    "datetime": "2026-10-25 13:16",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1707,7 +1759,8 @@
    "datetime": "2026-10-25 12:52",
    "observer": "Ann \u200b",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1725,7 +1778,8 @@
    "datetime": "2026-10-25 12:52",
    "observer": "Ann \u200b",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1779,7 +1833,8 @@
    "datetime": "2026-10-25 11:30",
    "observer": "Travis  Smith",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1797,7 +1852,8 @@
    "datetime": "2026-10-25 11:29",
    "observer": "Connor Schmidt",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1815,7 +1871,8 @@
    "datetime": "2026-10-25 11:29",
    "observer": "Michelle Moir",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1905,7 +1962,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Ann \u200b",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1923,7 +1981,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Justin \u200e",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1941,7 +2000,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Ann \u200b",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1959,7 +2019,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Justin \u200e",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1977,7 +2038,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Ann \u200b",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -1995,7 +2057,8 @@
    "datetime": "2026-10-25 09:52",
    "observer": "Justin \u200e",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2124,7 +2187,8 @@
    "datetime": "2026-10-25 08:32",
    "observer": "Daniel Scali",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2160,7 +2224,8 @@
    "datetime": "2026-10-25 08:16",
    "observer": "Travis  Smith",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2196,7 +2261,8 @@
    "datetime": "2026-10-25 08:16",
    "observer": "Liam Murphy",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2214,7 +2280,63 @@
    "datetime": "2026-10-25 08:16",
    "observer": null,
    "alerts": [
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405621829:redcro",
+   "checklist": "S405621829",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 10,
+   "location": "Bernal Hill",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-10-25 08:16",
+   "observer": "Jen Norris",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405458586:redcro",
+   "checklist": "S405458586",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 10,
+   "location": "Bernal Hill",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-10-25 08:16",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare",
     "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405621829:sumtan",
+   "checklist": "S405621829",
+   "species": "Summer Tanager",
+   "sci": "Piranga rubra",
+   "code": "sumtan",
+   "count": 1,
+   "location": "Bernal Hill",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-10-25 08:16",
+   "observer": "Jen Norris",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -2250,7 +2372,8 @@
    "datetime": "2026-10-25 08:14",
    "observer": "Caroline Ebinger",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2268,7 +2391,8 @@
    "datetime": "2026-10-25 08:14",
    "observer": "Caroline Ebinger",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2286,7 +2410,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Michelle Moir",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2304,7 +2429,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Michelle Moir",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2322,7 +2448,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Michelle Moir",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2358,7 +2485,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Connor Schmidt",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2376,7 +2504,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Connor Schmidt",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2394,7 +2523,8 @@
    "datetime": "2026-10-25 08:07",
    "observer": "Connor Schmidt",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2503,7 +2633,8 @@
    "datetime": "2026-10-25 07:45",
    "observer": "David Assmann",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2521,7 +2652,8 @@
    "datetime": "2026-10-25 07:45",
    "observer": "David Assmann",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2539,7 +2671,8 @@
    "datetime": "2026-10-25 07:45",
    "observer": "Felix Rigau",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2557,7 +2690,8 @@
    "datetime": "2026-10-25 07:45",
    "observer": "Felix Rigau",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2593,7 +2727,8 @@
    "datetime": "2026-10-25 07:33",
    "observer": "Dwight Lau",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2611,7 +2746,8 @@
    "datetime": "2026-10-25 07:33",
    "observer": "Gordon Tam",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2647,7 +2783,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Tijmen Blankevoort",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2665,7 +2802,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Tijmen Blankevoort",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2683,7 +2821,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Tijmen Blankevoort",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2701,7 +2840,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Tijmen Blankevoort",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2737,7 +2877,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Farallon Island",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2773,7 +2914,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Pete Warzybok",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2809,7 +2951,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Jonah  Benningfield",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2827,7 +2970,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Frank Fabbro",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2881,7 +3025,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2899,7 +3044,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2917,7 +3063,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Keith Maley",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -2953,7 +3100,8 @@
    "datetime": "2026-10-25 07:00",
    "observer": "Sam Baxter-Bray",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -3206,6 +3354,24 @@
    "observer": null,
    "alerts": [
     "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405605859:bkbwag",
+   "checklist": "S405605859",
+   "species": "White Wagtail (Black-backed)",
+   "sci": "Motacilla alba",
+   "code": "bkbwag",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-10-25 07:00",
+   "observer": "Sophie Barno",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -4379,7 +4545,8 @@
    "datetime": "2026-10-24 14:43",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4397,7 +4564,8 @@
    "datetime": "2026-10-24 14:43",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4433,7 +4601,8 @@
    "datetime": "2026-10-24 14:43",
    "observer": "R.J.  Adams",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4488,6 +4657,384 @@
    "observer": null,
    "alerts": [
     "needs"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470191:cocboo1",
+   "checklist": "S405470191",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.3540790230981,
+   "lng": -122.93331966210077,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499170:cocboo1",
+   "checklist": "S405499170",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35351807246765,
+   "lng": -122.93170762215338,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616492:cocboo1",
+   "checklist": "S405616492",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35507113781585,
+   "lng": -122.93139568480042,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499336:cocboo1",
+   "checklist": "S405499336",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.355443152430965,
+   "lng": -122.93443661605278,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580494:cocboo1",
+   "checklist": "S405580494",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35636004747817,
+   "lng": -122.93016457194119,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577867:cocboo1",
+   "checklist": "S405577867",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.356925907044214,
+   "lng": -122.93565306404203,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472774:cocboo1",
+   "checklist": "S405472774",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35242711528843,
+   "lng": -122.93129363700423,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499709:cocboo1",
+   "checklist": "S405499709",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.3565348799274,
+   "lng": -122.93580623713588,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471452:cocboo1",
+   "checklist": "S405471452",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35258525754009,
+   "lng": -122.93147143739725,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475560:cocboo1",
+   "checklist": "S405475560",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.356575608320874,
+   "lng": -122.93168462839348,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467461:cocboo1",
+   "checklist": "S405467461",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35475003552059,
+   "lng": -122.9342369787373,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405476954:cocboo1",
+   "checklist": "S405476954",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.3573578092702,
+   "lng": -122.93419672361254,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461586:cocboo1",
+   "checklist": "S405461586",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.355570705912264,
+   "lng": -122.93410762532754,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494232:cocboo1",
+   "checklist": "S405494232",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35413858532276,
+   "lng": -122.93461168643539,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483422:cocboo1",
+   "checklist": "S405483422",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35662870697727,
+   "lng": -122.93546471539604,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463543:cocboo1",
+   "checklist": "S405463543",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.356114781983045,
+   "lng": -122.93512599733708,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405415544:cocboo1",
+   "checklist": "S405415544",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35732023347207,
+   "lng": -122.93450645447005,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Malia DeFelice",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460640:cocboo1",
+   "checklist": "S405460640",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35298802528007,
+   "lng": -122.93017325912783,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483749:cocboo1",
+   "checklist": "S405483749",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35338501844782,
+   "lng": -122.93456115326376,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472191:cocboo1",
+   "checklist": "S405472191",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35390719375303,
+   "lng": -122.93104342630149,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489844:cocboo1",
+   "checklist": "S405489844",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.35508, -122.93316",
+   "lat": 37.35461447824522,
+   "lng": -122.93594826965247,
+   "approximate": true,
+   "datetime": "2026-10-24 14:43",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -4637,6 +5184,24 @@
    "photo": null
   },
   {
+   "id": "S405429981:redcro",
+   "checklist": "S405429981",
+   "species": "Red Crossbill",
+   "sci": "Loxia curvirostra",
+   "code": "redcro",
+   "count": 1,
+   "location": "Blue Heron Lake, SF",
+   "lat": 37.76886105544011,
+   "lng": -122.47740581702743,
+   "approximate": true,
+   "datetime": "2026-10-24 14:20",
+   "observer": "Anonymous eBirder",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
    "id": "S405142830:whtspa",
    "checklist": "S405142830",
    "species": "White-throated Sparrow",
@@ -4704,7 +5269,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4722,7 +5288,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4740,7 +5307,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4758,7 +5326,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4776,7 +5345,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4794,7 +5364,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4812,7 +5383,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4830,7 +5402,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4848,7 +5421,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4884,7 +5458,8 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -4902,7 +5477,1610 @@
    "datetime": "2026-10-24 13:38",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483739:renpha",
+   "checklist": "S405483739",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31674040668953,
+   "lng": -123.07516190739733,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461522:renpha",
+   "checklist": "S405461522",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320106359007,
+   "lng": -123.07763345094313,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461603:renpha",
+   "checklist": "S405461603",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31536439798495,
+   "lng": -123.0755888874324,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460654:renpha",
+   "checklist": "S405460654",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.3152181689777,
+   "lng": -123.08036396397625,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616531:renpha",
+   "checklist": "S405616531",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31819389624667,
+   "lng": -123.0772357534388,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483442:renpha",
+   "checklist": "S405483442",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31765656387548,
+   "lng": -123.07834209816323,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457725:renpha",
+   "checklist": "S405457725",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31763606669333,
+   "lng": -123.07820257188219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499359:renpha",
+   "checklist": "S405499359",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320398643517095,
+   "lng": -123.0787453989909,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477019:renpha",
+   "checklist": "S405477019",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.317640637155,
+   "lng": -123.08055241033813,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580612:renpha",
+   "checklist": "S405580612",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31965647219891,
+   "lng": -123.07682079988489,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475581:renpha",
+   "checklist": "S405475581",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.32036417019608,
+   "lng": -123.0761269880458,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472773:renpha",
+   "checklist": "S405472773",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.318140328542,
+   "lng": -123.08030909509553,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499183:renpha",
+   "checklist": "S405499183",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319660331917994,
+   "lng": -123.0769040916698,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494260:renpha",
+   "checklist": "S405494260",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320130436061994,
+   "lng": -123.07754973744657,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472151:renpha",
+   "checklist": "S405472151",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31973085089955,
+   "lng": -123.07588233024677,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471453:renpha",
+   "checklist": "S405471453",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31852798850335,
+   "lng": -123.0805382596961,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470192:renpha",
+   "checklist": "S405470192",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31566979289479,
+   "lng": -123.07890167574288,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577925:renpha",
+   "checklist": "S405577925",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319436654744095,
+   "lng": -123.07610806304345,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467462:renpha",
+   "checklist": "S405467462",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31770273249925,
+   "lng": -123.07839146197924,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499684:renpha",
+   "checklist": "S405499684",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31882995814117,
+   "lng": -123.07737907462568,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463514:renpha",
+   "checklist": "S405463514",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31774772781262,
+   "lng": -123.07537633718219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489715:renpha",
+   "checklist": "S405489715",
+   "species": "Red-necked Phalarope",
+   "sci": "Phalaropus lobatus",
+   "code": "renpha",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31702618712288,
+   "lng": -123.07946596390101,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457725:xanmur2",
+   "checklist": "S405457725",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31763606669333,
+   "lng": -123.07820257188219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616531:xanmur2",
+   "checklist": "S405616531",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31819389624667,
+   "lng": -123.0772357534388,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580612:xanmur2",
+   "checklist": "S405580612",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31965647219891,
+   "lng": -123.07682079988489,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577925:xanmur2",
+   "checklist": "S405577925",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319436654744095,
+   "lng": -123.07610806304345,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499684:xanmur2",
+   "checklist": "S405499684",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31882995814117,
+   "lng": -123.07737907462568,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499359:xanmur2",
+   "checklist": "S405499359",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320398643517095,
+   "lng": -123.0787453989909,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499183:xanmur2",
+   "checklist": "S405499183",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319660331917994,
+   "lng": -123.0769040916698,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494260:xanmur2",
+   "checklist": "S405494260",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320130436061994,
+   "lng": -123.07754973744657,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489715:xanmur2",
+   "checklist": "S405489715",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31702618712288,
+   "lng": -123.07946596390101,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483739:xanmur2",
+   "checklist": "S405483739",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31674040668953,
+   "lng": -123.07516190739733,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483442:xanmur2",
+   "checklist": "S405483442",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31765656387548,
+   "lng": -123.07834209816323,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477019:xanmur2",
+   "checklist": "S405477019",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.317640637155,
+   "lng": -123.08055241033813,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475581:xanmur2",
+   "checklist": "S405475581",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.32036417019608,
+   "lng": -123.0761269880458,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472773:xanmur2",
+   "checklist": "S405472773",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.318140328542,
+   "lng": -123.08030909509553,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472151:xanmur2",
+   "checklist": "S405472151",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31973085089955,
+   "lng": -123.07588233024677,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471453:xanmur2",
+   "checklist": "S405471453",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31852798850335,
+   "lng": -123.0805382596961,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470192:xanmur2",
+   "checklist": "S405470192",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31566979289479,
+   "lng": -123.07890167574288,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467462:xanmur2",
+   "checklist": "S405467462",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31770273249925,
+   "lng": -123.07839146197924,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463514:xanmur2",
+   "checklist": "S405463514",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31774772781262,
+   "lng": -123.07537633718219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461522:xanmur2",
+   "checklist": "S405461522",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320106359007,
+   "lng": -123.07763345094313,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461603:xanmur2",
+   "checklist": "S405461603",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31536439798495,
+   "lng": -123.0755888874324,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460654:xanmur2",
+   "checklist": "S405460654",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.3152181689777,
+   "lng": -123.08036396397625,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472151:xanmur1",
+   "checklist": "S405472151",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31973085089955,
+   "lng": -123.07588233024677,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471453:xanmur1",
+   "checklist": "S405471453",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31852798850335,
+   "lng": -123.0805382596961,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470192:xanmur1",
+   "checklist": "S405470192",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31566979289479,
+   "lng": -123.07890167574288,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467462:xanmur1",
+   "checklist": "S405467462",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31770273249925,
+   "lng": -123.07839146197924,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616531:xanmur1",
+   "checklist": "S405616531",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31819389624667,
+   "lng": -123.0772357534388,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580612:xanmur1",
+   "checklist": "S405580612",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31965647219891,
+   "lng": -123.07682079988489,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577925:xanmur1",
+   "checklist": "S405577925",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319436654744095,
+   "lng": -123.07610806304345,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499684:xanmur1",
+   "checklist": "S405499684",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31882995814117,
+   "lng": -123.07737907462568,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499359:xanmur1",
+   "checklist": "S405499359",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320398643517095,
+   "lng": -123.0787453989909,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461603:xanmur1",
+   "checklist": "S405461603",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31536439798495,
+   "lng": -123.0755888874324,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499183:xanmur1",
+   "checklist": "S405499183",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319660331917994,
+   "lng": -123.0769040916698,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494260:xanmur1",
+   "checklist": "S405494260",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320130436061994,
+   "lng": -123.07754973744657,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460654:xanmur1",
+   "checklist": "S405460654",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.3152181689777,
+   "lng": -123.08036396397625,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489715:xanmur1",
+   "checklist": "S405489715",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31702618712288,
+   "lng": -123.07946596390101,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483739:xanmur1",
+   "checklist": "S405483739",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31674040668953,
+   "lng": -123.07516190739733,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483442:xanmur1",
+   "checklist": "S405483442",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31765656387548,
+   "lng": -123.07834209816323,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477019:xanmur1",
+   "checklist": "S405477019",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.317640637155,
+   "lng": -123.08055241033813,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475581:xanmur1",
+   "checklist": "S405475581",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.32036417019608,
+   "lng": -123.0761269880458,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461522:xanmur1",
+   "checklist": "S405461522",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320106359007,
+   "lng": -123.07763345094313,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472773:xanmur1",
+   "checklist": "S405472773",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.318140328542,
+   "lng": -123.08030909509553,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457725:xanmur1",
+   "checklist": "S405457725",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31763606669333,
+   "lng": -123.07820257188219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463514:xanmur1",
+   "checklist": "S405463514",
+   "species": "Guadalupe Murrelet",
+   "sci": "Synthliboramphus hypoleucus",
+   "code": "xanmur1",
+   "count": 2,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31774772781262,
+   "lng": -123.07537633718219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463514:cocboo1",
+   "checklist": "S405463514",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31774772781262,
+   "lng": -123.07537633718219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461522:cocboo1",
+   "checklist": "S405461522",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320106359007,
+   "lng": -123.07763345094313,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483739:cocboo1",
+   "checklist": "S405483739",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31674040668953,
+   "lng": -123.07516190739733,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405408676:cocboo1",
+   "checklist": "S405408676",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31839212530836,
+   "lng": -123.07798210136201,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Malia DeFelice",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499359:cocboo1",
+   "checklist": "S405499359",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320398643517095,
+   "lng": -123.0787453989909,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499684:cocboo1",
+   "checklist": "S405499684",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31882995814117,
+   "lng": -123.07737907462568,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472151:cocboo1",
+   "checklist": "S405472151",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31973085089955,
+   "lng": -123.07588233024677,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461603:cocboo1",
+   "checklist": "S405461603",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31536439798495,
+   "lng": -123.0755888874324,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580612:cocboo1",
+   "checklist": "S405580612",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31965647219891,
+   "lng": -123.07682079988489,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494260:cocboo1",
+   "checklist": "S405494260",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.320130436061994,
+   "lng": -123.07754973744657,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483442:cocboo1",
+   "checklist": "S405483442",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31765656387548,
+   "lng": -123.07834209816323,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471453:cocboo1",
+   "checklist": "S405471453",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31852798850335,
+   "lng": -123.0805382596961,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460654:cocboo1",
+   "checklist": "S405460654",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.3152181689777,
+   "lng": -123.08036396397625,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489715:cocboo1",
+   "checklist": "S405489715",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31702618712288,
+   "lng": -123.07946596390101,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477019:cocboo1",
+   "checklist": "S405477019",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.317640637155,
+   "lng": -123.08055241033813,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457725:cocboo1",
+   "checklist": "S405457725",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31763606669333,
+   "lng": -123.07820257188219,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499183:cocboo1",
+   "checklist": "S405499183",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319660331917994,
+   "lng": -123.0769040916698,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470192:cocboo1",
+   "checklist": "S405470192",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31566979289479,
+   "lng": -123.07890167574288,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475581:cocboo1",
+   "checklist": "S405475581",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.32036417019608,
+   "lng": -123.0761269880458,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472773:cocboo1",
+   "checklist": "S405472773",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.318140328542,
+   "lng": -123.08030909509553,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616531:cocboo1",
+   "checklist": "S405616531",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31819389624667,
+   "lng": -123.0772357534388,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577925:cocboo1",
+   "checklist": "S405577925",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.319436654744095,
+   "lng": -123.07610806304345,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467462:cocboo1",
+   "checklist": "S405467462",
+   "species": "Cocos Booby",
+   "sci": "Sula brewsteri",
+   "code": "cocboo1",
+   "count": 1,
+   "location": "Auto selected 37.31817, -123.07780",
+   "lat": 37.31770273249925,
+   "lng": -123.07839146197924,
+   "approximate": true,
+   "datetime": "2026-10-24 13:38",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -5252,6 +7430,438 @@
    "photo": null
   },
   {
+   "id": "S405470193:xanmur2",
+   "checklist": "S405470193",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.363512336421294,
+   "lng": -123.10067415968706,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405407793:xanmur2",
+   "checklist": "S405407793",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36207912893584,
+   "lng": -123.09785185172971,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Malia DeFelice",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405446049:xanmur2",
+   "checklist": "S405446049",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36619929553352,
+   "lng": -123.10172302125629,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Chris Hayward",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405456611:xanmur2",
+   "checklist": "S405456611",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.364571218351756,
+   "lng": -123.10209566144094,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Matt Keller",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457693:xanmur2",
+   "checklist": "S405457693",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.3621723882806,
+   "lng": -123.09728106336554,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460676:xanmur2",
+   "checklist": "S405460676",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.3638844236577,
+   "lng": -123.10196613694379,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461634:xanmur2",
+   "checklist": "S405461634",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36414911488402,
+   "lng": -123.10161875279574,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463493:xanmur2",
+   "checklist": "S405463493",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.362229850294106,
+   "lng": -123.0972217590022,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467463:xanmur2",
+   "checklist": "S405467463",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36539570308402,
+   "lng": -123.0971115789332,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471458:xanmur2",
+   "checklist": "S405471458",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36598486361053,
+   "lng": -123.10193060242115,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472137:xanmur2",
+   "checklist": "S405472137",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36421915588979,
+   "lng": -123.09897855213188,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472772:xanmur2",
+   "checklist": "S405472772",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36272462609436,
+   "lng": -123.10098702812515,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475601:xanmur2",
+   "checklist": "S405475601",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36284489215352,
+   "lng": -123.09707807410399,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477154:xanmur2",
+   "checklist": "S405477154",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36648289893077,
+   "lng": -123.09797384181266,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483454:xanmur2",
+   "checklist": "S405483454",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.366413790887016,
+   "lng": -123.09896491340656,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483716:xanmur2",
+   "checklist": "S405483716",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36250826869875,
+   "lng": -123.09731552785424,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489560:xanmur2",
+   "checklist": "S405489560",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36540482060664,
+   "lng": -123.10097836655287,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494288:xanmur2",
+   "checklist": "S405494288",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36253288572574,
+   "lng": -123.10125611994252,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499191:xanmur2",
+   "checklist": "S405499191",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36263776869951,
+   "lng": -123.09945018427082,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499383:xanmur2",
+   "checklist": "S405499383",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36539194889226,
+   "lng": -123.1010740009007,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499655:xanmur2",
+   "checklist": "S405499655",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.364814515979276,
+   "lng": -123.10208624738019,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405577975:xanmur2",
+   "checklist": "S405577975",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36437593578256,
+   "lng": -123.09727264456586,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580712:xanmur2",
+   "checklist": "S405580712",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36292561535115,
+   "lng": -123.10231037285149,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616560:xanmur2",
+   "checklist": "S405616560",
+   "species": "Scripps's Murrelet",
+   "sci": "Synthliboramphus scrippsi",
+   "code": "xanmur2",
+   "count": 2,
+   "location": "Auto selected 37.36470, -123.10006",
+   "lat": 37.36238637369075,
+   "lng": -123.09721557811602,
+   "approximate": true,
+   "datetime": "2026-10-24 12:22",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
    "id": "S405120996:coohaw",
    "checklist": "S405120996",
    "species": "Cooper's Hawk",
@@ -5392,7 +8002,8 @@
    "datetime": "2026-10-24 11:12",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5410,7 +8021,8 @@
    "datetime": "2026-10-24 11:12",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5428,7 +8040,368 @@
    "datetime": "2026-10-24 11:12",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460690:lsspet",
+   "checklist": "S405460690",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46535898922977,
+   "lng": -123.00006324663983,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461475:lsspet",
+   "checklist": "S405461475",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46427406112357,
+   "lng": -123.00353300896572,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461653:lsspet",
+   "checklist": "S405461653",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46795208296343,
+   "lng": -123.00531279173848,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463407:lsspet",
+   "checklist": "S405463407",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46545613887743,
+   "lng": -123.00375493592357,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467464:lsspet",
+   "checklist": "S405467464",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46959489653096,
+   "lng": -123.00456196200345,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470194:lsspet",
+   "checklist": "S405470194",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.466752651897316,
+   "lng": -123.00402257191574,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471460:lsspet",
+   "checklist": "S405471460",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46408187265006,
+   "lng": -123.002346807835,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472083:lsspet",
+   "checklist": "S405472083",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46500167916612,
+   "lng": -123.00113534561406,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472771:lsspet",
+   "checklist": "S405472771",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46689130899671,
+   "lng": -123.00125216387677,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475622:lsspet",
+   "checklist": "S405475622",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46865440583728,
+   "lng": -123.00244634728699,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405477218:lsspet",
+   "checklist": "S405477218",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46641390490358,
+   "lng": -123.00015233230584,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Rich Chambers",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483460:lsspet",
+   "checklist": "S405483460",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46764109007764,
+   "lng": -123.00436282669463,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483704:lsspet",
+   "checklist": "S405483704",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46619915366718,
+   "lng": -123.00303764364229,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405489168:lsspet",
+   "checklist": "S405489168",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.464057505959836,
+   "lng": -123.0032713474686,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494307:lsspet",
+   "checklist": "S405494307",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.466375417587706,
+   "lng": -123.00155851892345,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499397:lsspet",
+   "checklist": "S405499397",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.464863665853045,
+   "lng": -123.0034930243397,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405578010:lsspet",
+   "checklist": "S405578010",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.467110971519624,
+   "lng": -123.00500333301707,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580801:lsspet",
+   "checklist": "S405580801",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46430388164088,
+   "lng": -123.00249435610243,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616594:lsspet",
+   "checklist": "S405616594",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46485482852522,
+   "lng": -123.0020361423196,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405457666:lsspet",
+   "checklist": "S405457666",
+   "species": "Least Storm-Petrel",
+   "sci": "Hydrobates microsoma",
+   "code": "lsspet",
+   "count": 1,
+   "location": "Auto selected 37.46681, -123.00248",
+   "lat": 37.46928605001728,
+   "lng": -123.000788232307,
+   "approximate": true,
+   "datetime": "2026-10-24 11:12",
+   "observer": "R.J.  Adams",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -5464,7 +8437,26 @@
    "datetime": "2026-10-24 10:46",
    "observer": "Venkat Sankar",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405436816:trokin",
+   "checklist": "S405436816",
+   "species": "Tropical Kingbird",
+   "sci": "Tyrannus melancholicus",
+   "code": "trokin",
+   "count": 2,
+   "location": "Lake Merced--Concrete Bridge area",
+   "lat": 37.7126918,
+   "lng": -122.4879456,
+   "approximate": false,
+   "datetime": "2026-10-24 10:46",
+   "observer": "Noah Eckman",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -5684,7 +8676,8 @@
    "datetime": "2026-10-24 10:10",
    "observer": "Chris Hayward",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5720,7 +8713,8 @@
    "datetime": "2026-10-24 10:10",
    "observer": "Matt Keller",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5738,7 +8732,8 @@
    "datetime": "2026-10-24 10:10",
    "observer": null,
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
@@ -5756,7 +8751,368 @@
    "datetime": "2026-10-24 10:10",
    "observer": "R.J.  Adams",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472041:nazboo1",
+   "checklist": "S405472041",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.472517153495254,
+   "lng": -122.83501099622993,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Jeffrey Peterson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405463385:nazboo1",
+   "checklist": "S405463385",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47164981047266,
+   "lng": -122.83624940002316,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Liam Murphy",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405472770:nazboo1",
+   "checklist": "S405472770",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.472138945955194,
+   "lng": -122.83367449596693,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "John Tsortos",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405475647:nazboo1",
+   "checklist": "S405475647",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.476084742528485,
+   "lng": -122.83748098067579,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Alex  Renner",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461666:nazboo1",
+   "checklist": "S405461666",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47527776752209,
+   "lng": -122.83889155347936,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Jesse Pline CWR",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483475:nazboo1",
+   "checklist": "S405483475",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47235843630603,
+   "lng": -122.83455280880959,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Alex Wiebe",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405483698:nazboo1",
+   "checklist": "S405483698",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.4764453895471,
+   "lng": -122.83446186796039,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Matt Poutsiaka",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405488949:nazboo1",
+   "checklist": "S405488949",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47442565247379,
+   "lng": -122.83756910947952,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Ryan Mense",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405494333:nazboo1",
+   "checklist": "S405494333",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47147997329424,
+   "lng": -122.83938037444274,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Mark Donahue",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499219:nazboo1",
+   "checklist": "S405499219",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47390592551541,
+   "lng": -122.83505641795111,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Hugh Powell",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405460703:nazboo1",
+   "checklist": "S405460703",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47689245061638,
+   "lng": -122.8385146197341,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Ryan Allen",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499408:nazboo1",
+   "checklist": "S405499408",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.4713405935751,
+   "lng": -122.83884417735591,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Caitlin Chock",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405499628:nazboo1",
+   "checklist": "S405499628",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47256375177208,
+   "lng": -122.83563588974104,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "bob butler",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405578051:nazboo1",
+   "checklist": "S405578051",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47327201952879,
+   "lng": -122.83623232454573,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Jeffrey Olsson",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405461361:nazboo1",
+   "checklist": "S405461361",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.475413523008584,
+   "lng": -122.83398560668131,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Allyce Bess",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405580915:nazboo1",
+   "checklist": "S405580915",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.4769564430434,
+   "lng": -122.83864943308666,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "David Barton",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405616628:nazboo1",
+   "checklist": "S405616628",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.475171866005795,
+   "lng": -122.83597173473476,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Hang Yin",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405467465:nazboo1",
+   "checklist": "S405467465",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.472143403467136,
+   "lng": -122.83438046491578,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Gary Deghi",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405470195:nazboo1",
+   "checklist": "S405470195",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.4758328702947,
+   "lng": -122.83538189462935,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Alvaro's Adventures",
+   "alerts": [
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405471466:nazboo1",
+   "checklist": "S405471466",
+   "species": "Nazca Booby",
+   "sci": "Sula granti",
+   "code": "nazboo1",
+   "count": 1,
+   "location": "Auto selected 37.47432, -122.83643",
+   "lat": 37.47723511157997,
+   "lng": -122.83527832821797,
+   "approximate": true,
+   "datetime": "2026-10-24 10:10",
+   "observer": "Michael Plauch\u00e9",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -11564,7 +14920,26 @@
    "datetime": "2026-10-22 11:11",
    "observer": "Veena S",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
+   ],
+   "photo": null
+  },
+  {
+   "id": "S405490003:yesfli",
+   "checklist": "S405490003",
+   "species": "Northern Flicker (Yellow-shafted)",
+   "sci": "Colaptes auratus",
+   "code": "yesfli",
+   "count": 1,
+   "location": "Golden Gate Park--Elk Glen Lake",
+   "lat": 37.7675841,
+   "lng": -122.4818716,
+   "approximate": false,
+   "datetime": "2026-10-22 11:11",
+   "observer": "Veena S",
+   "alerts": [
+    "rare"
    ],
    "photo": null
   },
@@ -15005,7 +18380,8 @@
    "datetime": "2026-10-20 11:15",
    "observer": "Nancy Palmer",
    "alerts": [
-    "needs"
+    "needs",
+    "rare"
    ],
    "photo": null
   },
