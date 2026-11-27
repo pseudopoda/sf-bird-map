@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:35:56+00:00",
+ "generated": "2026-11-27T02:42:54+00:00",
  "sightings": [
   {
    "id": "S413372046:lesnig",
@@ -2368,6 +2368,41 @@
    "reports": 1
   },
   {
+   "id": "S413158899:norsho",
+   "checklist": "S413158899",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 4,
+   "location": "Golden Gate Park--Blue Heron Lake & Strawberry Hill",
+   "locId": "L499374",
+   "county": "San Francisco",
+   "lat": 37.7686349,
+   "lng": -122.4749326,
+   "approximate": false,
+   "datetime": "2026-11-25 15:24",
+   "observer": "Jay Zussman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
    "id": "S413168972:lewwoo",
    "checklist": "S413168972",
    "species": "Lewis's Woodpecker",
@@ -2395,41 +2430,6 @@
     "source": "iNaturalist"
    },
    "added": null,
-   "dates": [
-    "2026-11-25"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "maybe",
-   "reports": 1
-  },
-  {
-   "id": "S413158899:norsho",
-   "checklist": "S413158899",
-   "species": "Northern Shoveler",
-   "sci": "Spatula clypeata",
-   "code": "norsho",
-   "count": 4,
-   "location": "Golden Gate Park--Blue Heron Lake & Strawberry Hill",
-   "locId": "L499374",
-   "county": "San Francisco",
-   "lat": 37.7686349,
-   "lng": -122.4749326,
-   "approximate": false,
-   "datetime": "2026-11-25 15:24",
-   "observer": "Jay Zussman",
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "added": "2026-11-27T02:35:56+00:00",
-   "photo": {
-    "file": "photos/species_norsho.jpg",
-    "page": "https://www.inaturalist.org/taxa/558438",
-    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
-    "generic": true,
-    "source": "iNaturalist"
-   },
    "dates": [
     "2026-11-25"
    ],
@@ -3278,6 +3278,41 @@
    "reports": 1
   },
   {
+   "id": "S413117838:norsho",
+   "checklist": "S413117838",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 4,
+   "location": "Heron's Head Park",
+   "locId": "L502380",
+   "county": "San Francisco",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-11-25 10:51",
+   "observer": "Teresa Ely",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 4
+  },
+  {
    "id": "S413145368:eleter1",
    "checklist": "S413145368",
    "species": "Elegant Tern",
@@ -3311,41 +3346,6 @@
    "streak": 1,
    "status": "maybe",
    "reports": 1
-  },
-  {
-   "id": "S413117836:norsho",
-   "checklist": "S413117836",
-   "species": "Northern Shoveler",
-   "sci": "Spatula clypeata",
-   "code": "norsho",
-   "count": 4,
-   "location": "Heron's Head Park",
-   "locId": "L502380",
-   "county": "San Francisco",
-   "lat": 37.7381243,
-   "lng": -122.3725462,
-   "approximate": false,
-   "datetime": "2026-11-25 10:51",
-   "observer": "Ben Dudek",
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "added": "2026-11-27T02:35:56+00:00",
-   "photo": {
-    "file": "photos/species_norsho.jpg",
-    "page": "https://www.inaturalist.org/taxa/558438",
-    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "dates": [
-    "2026-11-25"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "maybe",
-   "reports": 4
   },
   {
    "id": "S413166262:casfin",
@@ -6890,41 +6890,6 @@
    "reports": 1
   },
   {
-   "id": "S412947085:towsol",
-   "checklist": "S412947085",
-   "species": "Townsend's Solitaire",
-   "sci": "Myadestes townsendi",
-   "code": "towsol",
-   "count": 1,
-   "location": "6410 Horsemans Canyon Dr, Walnut Creek US-CA (37.8473,-122.0572)",
-   "locId": "L79999409",
-   "county": "Contra Costa",
-   "lat": 37.84705252033786,
-   "lng": -122.05987892998404,
-   "approximate": true,
-   "datetime": "2026-11-24 10:58",
-   "observer": "Anonymous eBirder",
-   "confirmed": false,
-   "alerts": [
-    "rare"
-   ],
-   "photo": {
-    "file": "photos/species_towsol.jpg",
-    "page": "https://www.inaturalist.org/taxa/12951",
-    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "added": null,
-   "dates": [
-    "2026-11-24"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
-  },
-  {
    "id": "S412921469:foxspa",
    "checklist": "S412921469",
    "species": "Fox Sparrow",
@@ -6960,6 +6925,41 @@
    "reports": 1
   },
   {
+   "id": "S412947085:towsol",
+   "checklist": "S412947085",
+   "species": "Townsend's Solitaire",
+   "sci": "Myadestes townsendi",
+   "code": "towsol",
+   "count": 1,
+   "location": "6410 Horsemans Canyon Dr, Walnut Creek US-CA (37.8473,-122.0572)",
+   "locId": "L79999409",
+   "county": "Contra Costa",
+   "lat": 37.84705252033786,
+   "lng": -122.05987892998404,
+   "approximate": true,
+   "datetime": "2026-11-24 10:58",
+   "observer": "Anonymous eBirder",
+   "confirmed": false,
+   "alerts": [
+    "rare"
+   ],
+   "photo": {
+    "file": "photos/species_towsol.jpg",
+    "page": "https://www.inaturalist.org/taxa/12951",
+    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
    "id": "S412956806:houwre",
    "checklist": "S412956806",
    "species": "Northern House Wren",
@@ -6986,6 +6986,41 @@
     "source": "iNaturalist"
    },
    "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412921628:norsho",
+   "checklist": "S412921628",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 3,
+   "location": "Golden Gate Park--Music Concourse",
+   "locId": "L1864927",
+   "county": "San Francisco",
+   "lat": 37.7706197,
+   "lng": -122.4674701,
+   "approximate": false,
+   "datetime": "2026-11-24 10:15",
+   "observer": "Ryan Keiffer",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -7065,29 +7100,64 @@
    "reports": 1
   },
   {
-   "id": "S412921628:norsho",
-   "checklist": "S412921628",
-   "species": "Northern Shoveler",
-   "sci": "Spatula clypeata",
-   "code": "norsho",
-   "count": 3,
-   "location": "Golden Gate Park--Music Concourse",
-   "locId": "L1864927",
+   "id": "S412896246:rethaw",
+   "checklist": "S412896246",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 1,
+   "location": "Bernal Hill",
+   "locId": "L668844",
    "county": "San Francisco",
-   "lat": 37.7706197,
-   "lng": -122.4674701,
+   "lat": 37.7429271,
+   "lng": -122.413289,
    "approximate": false,
-   "datetime": "2026-11-24 10:15",
-   "observer": "Ryan Keiffer",
+   "datetime": "2026-11-24 10:03",
+   "observer": "Purush Swaminathan",
    "confirmed": false,
    "alerts": [
     "needs"
    ],
    "added": "2026-11-27T02:35:56+00:00",
    "photo": {
-    "file": "photos/species_norsho.jpg",
-    "page": "https://www.inaturalist.org/taxa/558438",
-    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "file": "photos/species_rethaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5212",
+    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412958550:sursco",
+   "checklist": "S412958550",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 6,
+   "location": "Presidio--Lobos Creek and Dunes Restoration Area",
+   "locId": "L998381",
+   "county": "San Francisco",
+   "lat": 37.7877083,
+   "lng": -122.4791479,
+   "approximate": false,
+   "datetime": "2026-11-24 10:03",
+   "observer": "David Webster",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -7133,76 +7203,6 @@
    "streak": 1,
    "status": "gone",
    "reports": 7
-  },
-  {
-   "id": "S412958550:sursco",
-   "checklist": "S412958550",
-   "species": "Surf Scoter",
-   "sci": "Melanitta perspicillata",
-   "code": "sursco",
-   "count": 6,
-   "location": "Presidio--Lobos Creek and Dunes Restoration Area",
-   "locId": "L998381",
-   "county": "San Francisco",
-   "lat": 37.7877083,
-   "lng": -122.4791479,
-   "approximate": false,
-   "datetime": "2026-11-24 10:03",
-   "observer": "David Webster",
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "added": "2026-11-27T02:35:56+00:00",
-   "photo": {
-    "file": "photos/species_sursco.jpg",
-    "page": "https://www.inaturalist.org/taxa/7036",
-    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "dates": [
-    "2026-11-24"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
-  },
-  {
-   "id": "S412896246:rethaw",
-   "checklist": "S412896246",
-   "species": "Red-tailed Hawk",
-   "sci": "Buteo jamaicensis",
-   "code": "rethaw",
-   "count": 1,
-   "location": "Bernal Hill",
-   "locId": "L668844",
-   "county": "San Francisco",
-   "lat": 37.7429271,
-   "lng": -122.413289,
-   "approximate": false,
-   "datetime": "2026-11-24 10:03",
-   "observer": "Purush Swaminathan",
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "added": "2026-11-27T02:35:56+00:00",
-   "photo": {
-    "file": "photos/species_rethaw.jpg",
-    "page": "https://www.inaturalist.org/taxa/5212",
-    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "dates": [
-    "2026-11-24"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
   },
   {
    "id": "S412903677:rengre",
@@ -7691,41 +7691,6 @@
    "reports": 1
   },
   {
-   "id": "S412928829:eurwig",
-   "checklist": "S412928829",
-   "species": "Eurasian Wigeon",
-   "sci": "Mareca penelope",
-   "code": "eurwig",
-   "count": 1,
-   "location": "Candlestick Pt. State Rec. Area - long traveling lists - use specific hotspot where appropriate",
-   "locId": "L286953",
-   "county": "San Francisco",
-   "lat": 37.7117054,
-   "lng": -122.3804593,
-   "approximate": false,
-   "datetime": "2026-11-24 07:42",
-   "observer": "Kevin Liberg",
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "added": "2026-11-27T02:35:56+00:00",
-   "photo": {
-    "file": "photos/species_eurwig.jpg",
-    "page": "https://www.inaturalist.org/taxa/558441",
-    "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "dates": [
-    "2026-11-24"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
-  },
-  {
    "id": "S412928829:amewig",
    "checklist": "S412928829",
    "species": "American Wigeon",
@@ -7749,6 +7714,41 @@
     "file": "photos/species_amewig.jpg",
     "page": "https://www.inaturalist.org/taxa/485176",
     "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412928829:eurwig",
+   "checklist": "S412928829",
+   "species": "Eurasian Wigeon",
+   "sci": "Mareca penelope",
+   "code": "eurwig",
+   "count": 1,
+   "location": "Candlestick Pt. State Rec. Area - long traveling lists - use specific hotspot where appropriate",
+   "locId": "L286953",
+   "county": "San Francisco",
+   "lat": 37.7117054,
+   "lng": -122.3804593,
+   "approximate": false,
+   "datetime": "2026-11-24 07:42",
+   "observer": "Kevin Liberg",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_eurwig.jpg",
+    "page": "https://www.inaturalist.org/taxa/558441",
+    "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -7832,43 +7832,8 @@
    "reports": 1
   },
   {
-   "id": "S412976563:rhiauk",
-   "checklist": "S412976563",
-   "species": "Rhinoceros Auklet",
-   "sci": "Cerorhinca monocerata",
-   "code": "rhiauk",
-   "count": 1,
-   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
-   "locId": "L329116",
-   "county": "San Francisco",
-   "lat": 37.69852,
-   "lng": -123.002789,
-   "approximate": false,
-   "datetime": "2026-11-24 07:00",
-   "observer": null,
-   "confirmed": false,
-   "alerts": [
-    "needs"
-   ],
-   "photo": {
-    "file": "photos/species_rhiauk.jpg",
-    "page": "https://www.inaturalist.org/taxa/4553",
-    "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND), uploaded by \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "added": null,
-   "dates": [
-    "2026-11-24"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
-  },
-  {
-   "id": "S412976564:sursco",
-   "checklist": "S412976564",
+   "id": "S413169314:sursco",
+   "checklist": "S413169314",
    "species": "Surf Scoter",
    "sci": "Melanitta perspicillata",
    "code": "sursco",
@@ -7880,7 +7845,7 @@
    "lng": -123.002789,
    "approximate": false,
    "datetime": "2026-11-24 07:00",
-   "observer": "Jim Tietz",
+   "observer": "Carrie Coonan",
    "confirmed": false,
    "alerts": [
     "needs"
@@ -7936,6 +7901,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 2
+  },
+  {
+   "id": "S412976563:rhiauk",
+   "checklist": "S412976563",
+   "species": "Rhinoceros Auklet",
+   "sci": "Cerorhinca monocerata",
+   "code": "rhiauk",
+   "count": 1,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "locId": "L329116",
+   "county": "San Francisco",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-11-24 07:00",
+   "observer": null,
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "photo": {
+    "file": "photos/species_rhiauk.jpg",
+    "page": "https://www.inaturalist.org/taxa/4553",
+    "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND), uploaded by \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S412784751:blkmer1",
@@ -12436,8 +12436,8 @@
    "reports": 1
   },
   {
-   "id": "S412891146:amewig",
-   "checklist": "S412891146",
+   "id": "S413037112:amewig",
+   "checklist": "S413037112",
    "species": "American Wigeon",
    "sci": "Mareca americana",
    "code": "amewig",
@@ -12449,7 +12449,7 @@
    "lng": -123.06288,
    "approximate": false,
    "datetime": "2026-11-21 10:45",
-   "observer": "Jennifer McBroom",
+   "observer": "Alison Vilag",
    "confirmed": false,
    "alerts": [
     "needs"
@@ -13310,41 +13310,6 @@
    "reports": 1
   },
   {
-   "id": "S413147161:ycnher",
-   "checklist": "S413147161",
-   "species": "Yellow-crowned Night Heron",
-   "sci": "Nyctanassa violacea",
-   "code": "ycnher",
-   "count": 1,
-   "location": "Sausalito - Richardson Bay from Harbor Drive",
-   "locId": "L3882591",
-   "county": "Marin",
-   "lat": 37.871219,
-   "lng": -122.494626,
-   "approximate": false,
-   "datetime": "2026-11-20 16:21",
-   "observer": "Henry Witsken",
-   "confirmed": false,
-   "alerts": [
-    "rare"
-   ],
-   "photo": {
-    "file": "photos/species_ycnher.jpg",
-    "page": "https://www.inaturalist.org/taxa/4999",
-    "credit": "(c) Dimitris Salas, all rights reserved, uploaded by Dimitris Salas",
-    "generic": true,
-    "source": "iNaturalist"
-   },
-   "added": null,
-   "dates": [
-    "2026-11-20"
-   ],
-   "days_reported": 1,
-   "streak": 1,
-   "status": "gone",
-   "reports": 1
-  },
-  {
    "id": "S413147161:sursco",
    "checklist": "S413147161",
    "species": "Surf Scoter",
@@ -13371,6 +13336,41 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "dates": [
+    "2026-11-20"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413147161:ycnher",
+   "checklist": "S413147161",
+   "species": "Yellow-crowned Night Heron",
+   "sci": "Nyctanassa violacea",
+   "code": "ycnher",
+   "count": 1,
+   "location": "Sausalito - Richardson Bay from Harbor Drive",
+   "locId": "L3882591",
+   "county": "Marin",
+   "lat": 37.871219,
+   "lng": -122.494626,
+   "approximate": false,
+   "datetime": "2026-11-20 16:21",
+   "observer": "Henry Witsken",
+   "confirmed": false,
+   "alerts": [
+    "rare"
+   ],
+   "photo": {
+    "file": "photos/species_ycnher.jpg",
+    "page": "https://www.inaturalist.org/taxa/4999",
+    "credit": "(c) Dimitris Salas, all rights reserved, uploaded by Dimitris Salas",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -14407,8 +14407,8 @@
    "reports": 1
   },
   {
-   "id": "S412897161:ancmur",
-   "checklist": "S412897161",
+   "id": "S413173955:ancmur",
+   "checklist": "S413173955",
    "species": "Ancient Murrelet",
    "sci": "Synthliboramphus antiquus",
    "code": "ancmur",
@@ -14420,7 +14420,7 @@
    "lng": -122.9534912,
    "approximate": false,
    "datetime": "2026-11-20 09:15",
-   "observer": "Mark Stephenson",
+   "observer": "logan kahle",
    "confirmed": false,
    "alerts": [
     "needs"
