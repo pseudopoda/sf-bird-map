@@ -1,1 +1,912 @@
-{}
+{
+ "species:lesnig": {
+  "file": "photos/species_lesnig.jpg",
+  "page": "https://www.inaturalist.org/taxa/19587",
+  "credit": "(c) Tom Benson, some rights reserved (CC BY-NC-ND)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:renpha": {
+  "file": "photos/species_renpha.jpg",
+  "page": "https://www.inaturalist.org/taxa/3959",
+  "credit": "(c) Yinan Li, some rights reserved (CC BY-NC), uploaded by Yinan Li",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:parjae": {
+  "file": "photos/species_parjae.jpg",
+  "page": "https://www.inaturalist.org/taxa/4489",
+  "credit": "(c) Don-Jean Leandri-Breton, all rights reserved, uploaded by Don-Jean Leandri-Breton",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bklkit": {
+  "file": "photos/species_bklkit.jpg",
+  "page": "https://www.inaturalist.org/taxa/4494",
+  "credit": "(c) Marion Goascoz, some rights reserved (CC BY-NC), uploaded by Marion Goascoz",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:layalb": {
+  "file": "photos/species_layalb.jpg",
+  "page": "https://www.inaturalist.org/taxa/4144",
+  "credit": "(c) Ken Chamberlain, some rights reserved (CC BY-NC), uploaded by Ken Chamberlain",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:wispet": {
+  "file": "photos/species_wispet.jpg",
+  "page": "https://www.inaturalist.org/taxa/4146",
+  "credit": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:asspet": {
+  "file": "photos/species_asspet.jpg",
+  "page": "https://www.inaturalist.org/taxa/1289618",
+  "credit": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bulshe": {
+  "file": "photos/species_bulshe.jpg",
+  "page": "https://www.inaturalist.org/taxa/475121",
+  "credit": "(c) BJ Stacey, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bkvshe": {
+  "file": "photos/species_bkvshe.jpg",
+  "page": "https://www.inaturalist.org/taxa/4105",
+  "credit": "(c) Glen Tepke, some rights reserved (CC BY-NC-ND)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:cocboo1": {
+  "file": "photos/species_cocboo1.jpg",
+  "page": "https://www.inaturalist.org/taxa/1578501",
+  "credit": "(c) Ryan Rash, some rights reserved (CC BY-NC), uploaded by Ryan Rash",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:snoegr": {
+  "file": "photos/species_snoegr.jpg",
+  "page": "https://www.inaturalist.org/taxa/4940",
+  "credit": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:grnher": {
+  "file": "photos/species_grnher.jpg",
+  "page": "https://www.inaturalist.org/taxa/5020",
+  "credit": "(c) Tom Kennedy, some rights reserved (CC BY), uploaded by Tom Kennedy",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:lewwoo": {
+  "file": "photos/species_lewwoo.jpg",
+  "page": "https://www.inaturalist.org/taxa/18160",
+  "credit": "(c) Ian Routley, some rights reserved (CC BY-NC-SA), uploaded by Ian Routley",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rocwre": {
+  "file": "photos/species_rocwre.jpg",
+  "page": "https://www.inaturalist.org/taxa/7486",
+  "credit": "(c) Jerry Oldenettel, some rights reserved (CC BY-NC-SA)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:redcro": {
+  "file": "photos/species_redcro.jpg",
+  "page": "https://www.inaturalist.org/taxa/10411",
+  "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:redcro2": {
+  "file": "photos/species_redcro2.jpg",
+  "page": "https://www.inaturalist.org/taxa/10411",
+  "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:clcspa": {
+  "file": "photos/species_clcspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/9148",
+  "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:daejun5": {
+  "file": "photos/species_daejun5.jpg",
+  "page": "https://www.inaturalist.org/taxa/10094",
+  "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:pswspa1": {
+  "file": "photos/species_pswspa1.jpg",
+  "page": "https://www.inaturalist.org/taxa/9176",
+  "credit": "(c) Mike Baird, some rights reserved (CC BY)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bulori": {
+  "file": "photos/species_bulori.jpg",
+  "page": "https://www.inaturalist.org/taxa/9357",
+  "credit": "(c) Nancy Christensen, all rights reserved, uploaded by Nancy Christensen",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:palwar": {
+  "file": "photos/species_palwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145242",
+  "credit": "(c) burkh4rt, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:palwar3": {
+  "file": "photos/species_palwar3.jpg",
+  "page": "https://www.inaturalist.org/taxa/145242",
+  "credit": "(c) burkh4rt, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:norpin": {
+  "file": "photos/species_norpin.jpg",
+  "page": "https://www.inaturalist.org/taxa/6933",
+  "credit": "(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sora": {
+  "file": "photos/species_sora.jpg",
+  "page": "https://www.inaturalist.org/taxa/162",
+  "credit": "(c) BJ Stacey, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:virrai": {
+  "file": "photos/species_virrai.jpg",
+  "page": "https://www.inaturalist.org/taxa/243",
+  "credit": "(c) Roderick Hornby, all rights reserved, uploaded by Roderick Hornby",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:margod": {
+  "file": "photos/species_margod.jpg",
+  "page": "https://www.inaturalist.org/taxa/3954",
+  "credit": "(c) itazura, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:redpha1": {
+  "file": "photos/species_redpha1.jpg",
+  "page": "https://www.inaturalist.org/taxa/73203",
+  "credit": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rudtur": {
+  "file": "photos/species_rudtur.jpg",
+  "page": "https://www.inaturalist.org/taxa/3938",
+  "credit": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:surfbi": {
+  "file": "photos/species_surfbi.jpg",
+  "page": "https://www.inaturalist.org/taxa/339592",
+  "credit": "(c) Ken Chamberlain, some rights reserved (CC BY-NC), uploaded by Ken Chamberlain",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:westan": {
+  "file": "photos/species_westan.jpg",
+  "page": "https://www.inaturalist.org/taxa/9919",
+  "credit": "(c) Jim Gain, some rights reserved (CC BY-NC), uploaded by Jim Gain",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bongul": {
+  "file": "photos/species_bongul.jpg",
+  "page": "https://www.inaturalist.org/taxa/144502",
+  "credit": "(c) Scott O'Donnell, some rights reserved (CC BY-NC), uploaded by Scott O'Donnell",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:eleter1": {
+  "file": "photos/species_eleter1.jpg",
+  "page": "https://www.inaturalist.org/taxa/144542",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:pacloo": {
+  "file": "photos/species_pacloo.jpg",
+  "page": "https://www.inaturalist.org/taxa/4621",
+  "credit": "(c) Declan Troy, all rights reserved, uploaded by Declan Troy",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:norful": {
+  "file": "photos/species_norful.jpg",
+  "page": "https://www.inaturalist.org/taxa/4180",
+  "credit": "(c) Mark Rosenstein, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:pifshe": {
+  "file": "photos/species_pifshe.jpg",
+  "page": "https://www.inaturalist.org/taxa/475115",
+  "credit": "(c) Giancarlo Vera, all rights reserved, uploaded by Giancarlo Vera",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:norgan": {
+  "file": "photos/species_norgan.jpg",
+  "page": "https://www.inaturalist.org/taxa/3802",
+  "credit": "(c) P\u00c3\u00a9tur Gauti Valgeirsson, some rights reserved (CC BY-NC-SA)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:shshaw": {
+  "file": "photos/species_shshaw.jpg",
+  "page": "https://www.inaturalist.org/taxa/5097",
+  "credit": "(c) Troy B, some rights reserved (CC BY), uploaded by Troy B",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:coohaw": {
+  "file": "photos/species_coohaw.jpg",
+  "page": "https://www.inaturalist.org/taxa/1579017",
+  "credit": "(c) Abby Sesselberg, some rights reserved (CC BY-NC), uploaded by Abby Sesselberg",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:norhar2": {
+  "file": "photos/species_norhar2.jpg",
+  "page": "https://www.inaturalist.org/taxa/558446",
+  "credit": "(c) Cin-Ty Lee, some rights reserved (CC BY-NC), uploaded by Cin-Ty Lee",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:brnowl": {
+  "file": "photos/species_brnowl.jpg",
+  "page": "https://www.inaturalist.org/taxa/1578502",
+  "credit": "(c) Andria E. Hernandez, some rights reserved (CC BY-NC), uploaded by Andria E. Hernandez",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:grhowl": {
+  "file": "photos/species_grhowl.jpg",
+  "page": "https://www.inaturalist.org/taxa/20044",
+  "credit": "(c) Paul G. Johnson, some rights reserved (CC BY-NC-SA), uploaded by Paul G. Johnson",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:burowl": {
+  "file": "photos/species_burowl.jpg",
+  "page": "https://www.inaturalist.org/taxa/19975",
+  "credit": "(c) Jason Penney, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:merlin": {
+  "file": "photos/species_merlin.jpg",
+  "page": "https://www.inaturalist.org/taxa/4672",
+  "credit": "(c) Malcon Bechelani, all rights reserved, uploaded by Malcon Bechelani",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:wrenti": {
+  "file": "photos/species_wrenti.jpg",
+  "page": "https://www.inaturalist.org/taxa/15256",
+  "credit": "(c) Scott O'Donnell, some rights reserved (CC BY-NC), uploaded by Scott O'Donnell",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:amegfi": {
+  "file": "photos/species_amegfi.jpg",
+  "page": "https://www.inaturalist.org/taxa/145310",
+  "credit": "(c) Chris Fisher, some rights reserved (CC BY-NC), uploaded by Chris Fisher",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:laplon": {
+  "file": "photos/species_laplon.jpg",
+  "page": "https://www.inaturalist.org/taxa/116840",
+  "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND), uploaded by \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:grtgra": {
+  "file": "photos/species_grtgra.jpg",
+  "page": "https://www.inaturalist.org/taxa/9607",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bkfalb": {
+  "file": "photos/species_bkfalb.jpg",
+  "page": "https://www.inaturalist.org/taxa/4141",
+  "credit": "(c) Mason Maron, all rights reserved, uploaded by Mason Maron",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:verfly": {
+  "file": "photos/species_verfly.jpg",
+  "page": "https://www.inaturalist.org/taxa/16447",
+  "credit": "(c) davy, some rights reserved (CC BY-NC), uploaded by davy",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:slcjun": {
+  "file": "photos/species_slcjun.jpg",
+  "page": "https://www.inaturalist.org/taxa/10094",
+  "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:cacgoo1": {
+  "file": "photos/species_cacgoo1.jpg",
+  "page": "https://www.inaturalist.org/taxa/59220",
+  "credit": "(c) Bridget Spencer, some rights reserved (CC BY-NC), uploaded by Bridget Spencer",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:eurwig": {
+  "file": "photos/species_eurwig.jpg",
+  "page": "https://www.inaturalist.org/taxa/558441",
+  "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:horlar": {
+  "file": "photos/species_horlar.jpg",
+  "page": "https://www.inaturalist.org/taxa/7294",
+  "credit": "(c) Pat Farris, some rights reserved (CC BY), uploaded by Pat Farris",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:lotduc": {
+  "file": "photos/species_lotduc.jpg",
+  "page": "https://www.inaturalist.org/taxa/7170",
+  "credit": "(c) Rails and roadtrips, some rights reserved (CC BY-NC), uploaded by Rails and roadtrips",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:gresca": {
+  "file": "photos/species_gresca.jpg",
+  "page": "https://www.inaturalist.org/taxa/7047",
+  "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND), uploaded by \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:whwsco2": {
+  "file": "photos/species_whwsco2.jpg",
+  "page": "https://www.inaturalist.org/taxa/144222",
+  "credit": "(c) Steven McGrath, some rights reserved (CC BY-NC), uploaded by Steven McGrath",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:snoplo5": {
+  "file": "photos/species_snoplo5.jpg",
+  "page": "https://www.inaturalist.org/taxa/1505663",
+  "credit": "(c) Judd Patterson, all rights reserved, uploaded by Judd Patterson",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:wessan": {
+  "file": "photos/species_wessan.jpg",
+  "page": "https://www.inaturalist.org/taxa/3855",
+  "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rhiauk": {
+  "file": "photos/species_rhiauk.jpg",
+  "page": "https://www.inaturalist.org/taxa/4553",
+  "credit": "(c) \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430, some rights reserved (CC BY-NC-ND), uploaded by \u0410\u043d\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rengre": {
+  "file": "photos/species_rengre.jpg",
+  "page": "https://www.inaturalist.org/taxa/4224",
+  "credit": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:baleag": {
+  "file": "photos/species_baleag.jpg",
+  "page": "https://www.inaturalist.org/taxa/5305",
+  "credit": "(c) Joe Zigmont, some rights reserved (CC BY-NC), uploaded by Joe Zigmont",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:blkmer1": {
+  "file": "photos/species_blkmer1.jpg",
+  "page": "https://www.inaturalist.org/taxa/4672",
+  "credit": "(c) Malcon Bechelani, all rights reserved, uploaded by Malcon Bechelani",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:gwcspa": {
+  "file": "photos/species_gwcspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/9176",
+  "credit": "(c) Mike Baird, some rights reserved (CC BY)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:yelwar1": {
+  "file": "photos/species_yelwar1.jpg",
+  "page": "https://www.inaturalist.org/taxa/1188207",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:harspa": {
+  "file": "photos/species_harspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/9182",
+  "credit": "(c) Norm Townsend, some rights reserved (CC BY-NC-ND)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:yerwar3": {
+  "file": "photos/species_yerwar3.jpg",
+  "page": "https://www.inaturalist.org/taxa/145245",
+  "credit": "(c) Zane Shantz, some rights reserved (CC BY-NC-ND), uploaded by Zane Shantz",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:gadwal": {
+  "file": "photos/species_gadwal.jpg",
+  "page": "https://www.inaturalist.org/taxa/558439",
+  "credit": "(c) Craig Chaddock, some rights reserved (CC BY-NC), uploaded by Craig Chaddock",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:orcwar4": {
+  "file": "photos/species_orcwar4.jpg",
+  "page": "https://www.inaturalist.org/taxa/979757",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:comgal1": {
+  "file": "photos/species_comgal1.jpg",
+  "page": "https://www.inaturalist.org/taxa/144479",
+  "credit": "(c) uzun, some rights reserved (CC BY-NC), uploaded by uzun",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:whfibi": {
+  "file": "photos/species_whfibi.jpg",
+  "page": "https://www.inaturalist.org/taxa/3759",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:blkski": {
+  "file": "photos/species_blkski.jpg",
+  "page": "https://www.inaturalist.org/taxa/4496",
+  "credit": "(c) Scott, some rights reserved (CC BY-NC), uploaded by Scott",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:winwre3": {
+  "file": "photos/species_winwre3.jpg",
+  "page": "https://www.inaturalist.org/taxa/1720022",
+  "credit": "(c) tdloyd, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:trokin": {
+  "file": "photos/species_trokin.jpg",
+  "page": "https://www.inaturalist.org/taxa/16787",
+  "credit": "(c) Steven Mlodinow, some rights reserved (CC BY-NC), uploaded by Steven Mlodinow",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:evegro": {
+  "file": "photos/species_evegro.jpg",
+  "page": "https://www.inaturalist.org/taxa/1650411",
+  "credit": "(c) jrheinen, some rights reserved (CC BY-NC), uploaded by jrheinen",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:blksco2": {
+  "file": "photos/species_blksco2.jpg",
+  "page": "https://www.inaturalist.org/taxa/144220",
+  "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:paired": {
+  "file": "photos/species_paired.jpg",
+  "page": "https://www.inaturalist.org/taxa/9458",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rxyfli": {
+  "file": "photos/species_rxyfli.jpg",
+  "page": "https://www.inaturalist.org/taxa/18236",
+  "credit": "(c) Kala Murphy King, some rights reserved (CC BY-NC-ND), uploaded by Kala Murphy King",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:yesfli": {
+  "file": "photos/species_yesfli.jpg",
+  "page": "https://www.inaturalist.org/taxa/18236",
+  "credit": "(c) Kala Murphy King, some rights reserved (CC BY-NC-ND), uploaded by Kala Murphy King",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:naswar": {
+  "file": "photos/species_naswar.jpg",
+  "page": "https://www.inaturalist.org/taxa/979753",
+  "credit": "(c) Susan Elliott, some rights reserved (CC BY-NC), uploaded by Susan Elliott",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bkpwar": {
+  "file": "photos/species_bkpwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145240",
+  "credit": "(c) Marc Faucher, all rights reserved, uploaded by Marc Faucher",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:caskin": {
+  "file": "photos/species_caskin.jpg",
+  "page": "https://www.inaturalist.org/taxa/16779",
+  "credit": "(c) Jose Antonio Cordova, all rights reserved, uploaded by Jose Antonio Cordova",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:lesyel": {
+  "file": "photos/species_lesyel.jpg",
+  "page": "https://www.inaturalist.org/taxa/3893",
+  "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:btnwar": {
+  "file": "photos/species_btnwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145258",
+  "credit": "(c) pinemartyn, some rights reserved (CC BY-NC), uploaded by pinemartyn",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sumtan": {
+  "file": "photos/species_sumtan.jpg",
+  "page": "https://www.inaturalist.org/taxa/9915",
+  "credit": "(c) Josh van der Meulen, some rights reserved (CC BY-NC-ND), uploaded by Josh van der Meulen",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:foxsp3": {
+  "file": "photos/species_foxsp3.jpg",
+  "page": "https://www.inaturalist.org/taxa/9156",
+  "credit": "(c) Cody Bassindale, all rights reserved, uploaded by Cody Bassindale",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:caster1": {
+  "file": "photos/species_caster1.jpg",
+  "page": "https://www.inaturalist.org/taxa/144537",
+  "credit": "(c) Jef-B, some rights reserved (CC BY-NC), uploaded by Jef-B",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:wlswar": {
+  "file": "photos/species_wlswar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145276",
+  "credit": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sonspa2": {
+  "file": "photos/species_sonspa2.jpg",
+  "page": "https://www.inaturalist.org/taxa/9100",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:towsol": {
+  "file": "photos/species_towsol.jpg",
+  "page": "https://www.inaturalist.org/taxa/12951",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:categr1": {
+  "file": "photos/species_categr1.jpg",
+  "page": "https://www.inaturalist.org/taxa/411086",
+  "credit": "(c) \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0438\u0437\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0438\u0437\u043e\u0432",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sonspa4": {
+  "file": "photos/species_sonspa4.jpg",
+  "page": "https://www.inaturalist.org/taxa/9100",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:pinsis1": {
+  "file": "photos/species_pinsis1.jpg",
+  "page": "https://www.inaturalist.org/taxa/145304",
+  "credit": "(c) Mason Maron, all rights reserved, uploaded by Mason Maron",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:buggna": {
+  "file": "photos/species_buggna.jpg",
+  "page": "https://www.inaturalist.org/taxa/7493",
+  "credit": "(c) samzhang, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:vigswa": {
+  "file": "photos/species_vigswa.jpg",
+  "page": "https://www.inaturalist.org/taxa/11931",
+  "credit": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:ycnher": {
+  "file": "photos/species_ycnher.jpg",
+  "page": "https://www.inaturalist.org/taxa/4999",
+  "credit": "(c) Dimitris Salas, all rights reserved, uploaded by Dimitris Salas",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:amtspa": {
+  "file": "photos/species_amtspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/474210",
+  "credit": "(c) Cameron Eckert, some rights reserved (CC BY-NC), uploaded by Cameron Eckert",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:comter": {
+  "file": "photos/species_comter.jpg",
+  "page": "https://www.inaturalist.org/taxa/4450",
+  "credit": "(c) Kentish Plumber, some rights reserved (CC BY-NC-ND)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:norgos": {
+  "file": "photos/species_norgos.jpg",
+  "page": "https://www.inaturalist.org/taxa/1579016",
+  "credit": "(c) psweet, some rights reserved (CC BY-SA), uploaded by psweet",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:nutwoo": {
+  "file": "photos/species_nutwoo.jpg",
+  "page": "https://www.inaturalist.org/taxa/792987",
+  "credit": "(c) Robyn Waayers, all rights reserved, uploaded by Robyn Waayers",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:hoomer": {
+  "file": "photos/species_hoomer.jpg",
+  "page": "https://www.inaturalist.org/taxa/7109",
+  "credit": "(c) Jason Stovin, some rights reserved (CC BY-NC), uploaded by Jason Stovin",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:shbdow": {
+  "file": "photos/species_shbdow.jpg",
+  "page": "https://www.inaturalist.org/taxa/3869",
+  "credit": "(c) Pedro Nicolau, some rights reserved (CC BY-NC), uploaded by Pedro Nicolau",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:orcwar": {
+  "file": "photos/species_orcwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/979757",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:pygnut": {
+  "file": "photos/species_pygnut.png",
+  "page": "https://www.inaturalist.org/taxa/14816",
+  "credit": "(c) Draginous, some rights reserved (CC BY-NC), uploaded by Draginous",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:tenwar": {
+  "file": "photos/species_tenwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/979756",
+  "credit": "(c) Jerry Oldenettel, some rights reserved (CC BY-SA)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:amebit": {
+  "file": "photos/species_amebit.jpg",
+  "page": "https://www.inaturalist.org/taxa/5034",
+  "credit": "(c) samzhang, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:amecro": {
+  "file": "photos/species_amecro.jpg",
+  "page": "https://www.inaturalist.org/taxa/8021",
+  "credit": "(c) Joe McKenna, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:cowscj1": {
+  "file": "photos/species_cowscj1.jpg",
+  "page": "https://www.inaturalist.org/taxa/506118",
+  "credit": "(c) BJ Stacey, all rights reserved",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:nutman": {
+  "file": "photos/species_nutman.jpg",
+  "page": "https://www.inaturalist.org/taxa/13893",
+  "credit": "(c) Daniel Raposo, some rights reserved (CC BY-NC), uploaded by Daniel Raposo",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sonspa9": {
+  "file": "photos/species_sonspa9.jpg",
+  "page": "https://www.inaturalist.org/taxa/9100",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:royter1": {
+  "file": "photos/species_royter1.jpg",
+  "page": "https://www.inaturalist.org/taxa/144539",
+  "credit": "(c) Omar Del Toro, some rights reserved (CC BY-NC), uploaded by Omar Del Toro",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:larspa": {
+  "file": "photos/species_larspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/10479",
+  "credit": "(c) guyincognito, some rights reserved (CC BY-NC), uploaded by guyincognito",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:harduc": {
+  "file": "photos/species_harduc.jpg",
+  "page": "https://www.inaturalist.org/taxa/7111",
+  "credit": "(c) \u0410\u043d\u0442\u043e\u043d \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u0410\u043d\u0442\u043e\u043d \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bargol": {
+  "file": "photos/species_bargol.jpg",
+  "page": "https://www.inaturalist.org/taxa/6994",
+  "credit": "(c) John D Reynolds, some rights reserved (CC BY-NC), uploaded by John D Reynolds",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:btywar": {
+  "file": "photos/species_btywar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145254",
+  "credit": "(c) Mason Maron, all rights reserved, uploaded by Mason Maron",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:goleag": {
+  "file": "photos/species_goleag.jpg",
+  "page": "https://www.inaturalist.org/taxa/5074",
+  "credit": "(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:balori": {
+  "file": "photos/species_balori.jpg",
+  "page": "https://www.inaturalist.org/taxa/9346",
+  "credit": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:snogoo": {
+  "file": "photos/species_snogoo.jpg",
+  "page": "https://www.inaturalist.org/taxa/558426",
+  "credit": "(c) Miguel A Mejias, PhD., some rights reserved (CC BY-NC), uploaded by Miguel A Mejias, PhD.",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sabgul": {
+  "file": "photos/species_sabgul.jpg",
+  "page": "https://www.inaturalist.org/taxa/4571",
+  "credit": "(c) Jennysweatt, some rights reserved (CC BY-NC), uploaded by Jennysweatt",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bkhgro": {
+  "file": "photos/species_bkhgro.jpg",
+  "page": "https://www.inaturalist.org/taxa/10274",
+  "credit": "(c) Andrew Thomas, some rights reserved (CC BY-NC), uploaded by Andrew Thomas",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rolhaw": {
+  "file": "photos/species_rolhaw.jpg",
+  "page": "https://www.inaturalist.org/taxa/5200",
+  "credit": "(c) Lisa Saffell, some rights reserved (CC BY-NC-ND), uploaded by Lisa Saffell",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:bkbwar": {
+  "file": "photos/species_bkbwar.jpg",
+  "page": "https://www.inaturalist.org/taxa/145237",
+  "credit": "(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:swaspa": {
+  "file": "photos/species_swaspa.jpg",
+  "page": "https://www.inaturalist.org/taxa/9096",
+  "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:casfin": {
+  "file": "photos/species_casfin.jpg",
+  "page": "https://www.inaturalist.org/taxa/199839",
+  "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:evegro1": {
+  "file": "photos/species_evegro1.jpg",
+  "page": "https://www.inaturalist.org/taxa/1650411",
+  "credit": "(c) jrheinen, some rights reserved (CC BY-NC), uploaded by jrheinen",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:sander": {
+  "file": "photos/species_sander.jpg",
+  "page": "https://www.inaturalist.org/taxa/3849",
+  "credit": "(c) Marco Chan, some rights reserved (CC BY), uploaded by Marco Chan",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:herthr1": {
+  "file": "photos/species_herthr1.jpg",
+  "page": "https://www.inaturalist.org/taxa/12890",
+  "credit": "(c) matthew_wills, some rights reserved (CC BY-NC), uploaded by matthew_wills",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:houwre": {
+  "file": "photos/species_houwre.jpg",
+  "page": "https://www.inaturalist.org/taxa/7562",
+  "credit": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:retloo": {
+  "file": "photos/species_retloo.jpg",
+  "page": "https://www.inaturalist.org/taxa/4627",
+  "credit": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:mutswa": {
+  "file": "photos/species_mutswa.jpg",
+  "page": "https://www.inaturalist.org/taxa/6921",
+  "credit": "(c) Mark Sikking, all rights reserved, uploaded by Mark Sikking",
+  "generic": true,
+  "source": "iNaturalist"
+ },
+ "species:rensap": {
+  "file": "photos/species_rensap.jpg",
+  "page": "https://www.inaturalist.org/taxa/18467",
+  "credit": "(c) guyincognito, some rights reserved (CC BY-NC), uploaded by guyincognito",
+  "generic": true,
+  "source": "iNaturalist"
+ }
+}
