@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:08:51.921930Z",
+ "generated": "2026-11-27T02:35:56+00:00",
  "sightings": [
   {
    "id": "S413372046:lesnig",
@@ -28,6 +28,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -40,7 +41,7 @@
    "days_reported": 7,
    "streak": 7,
    "status": "staying",
-   "reports": 99
+   "reports": 100
   },
   {
    "id": "S413371718:grnher",
@@ -69,6 +70,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-23",
@@ -79,6 +81,41 @@
    "streak": 2,
    "status": "staying",
    "reports": 10
+  },
+  {
+   "id": "S413373963:nutman",
+   "checklist": "S413373963",
+   "species": "Scaly-breasted Munia",
+   "sci": "Lonchura punctulata",
+   "code": "nutman",
+   "count": 2,
+   "location": "Santa Clara Valley Water District",
+   "locId": "L279302",
+   "county": "Santa Clara",
+   "lat": 37.2480176,
+   "lng": -121.8728828,
+   "approximate": false,
+   "datetime": "2026-11-26 15:37",
+   "observer": "ally toombs",
+   "confirmed": false,
+   "alerts": [
+    "rare"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_nutman.jpg",
+    "page": "https://www.inaturalist.org/taxa/13893",
+    "credit": "(c) Daniel Raposo, some rights reserved (CC BY-NC), uploaded by Daniel Raposo",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-26"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "new",
+   "reports": 1
   },
   {
    "id": "S413366155:swaspa",
@@ -106,6 +143,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -140,6 +178,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-24",
@@ -176,6 +215,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -210,6 +250,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -244,6 +285,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -278,6 +320,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -312,6 +355,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -346,6 +390,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -380,6 +425,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-26"
@@ -415,6 +461,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-23",
@@ -452,6 +499,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -486,6 +534,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-25",
@@ -522,6 +571,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -556,6 +606,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -590,6 +641,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -629,6 +681,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -663,6 +716,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -697,6 +751,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-26"
@@ -732,6 +787,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -766,6 +822,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -800,6 +857,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -834,6 +892,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-22",
@@ -872,6 +931,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -906,6 +966,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -941,6 +1002,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -981,6 +1043,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -1019,6 +1082,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-23",
@@ -1057,6 +1121,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1091,6 +1156,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1125,6 +1191,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1159,6 +1226,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-23",
@@ -1195,6 +1263,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1229,6 +1298,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1264,6 +1334,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25",
@@ -1300,6 +1371,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1334,6 +1406,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1368,6 +1441,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1402,6 +1476,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1436,6 +1511,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1470,6 +1546,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1504,6 +1581,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25",
@@ -1540,6 +1618,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1574,6 +1653,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1608,6 +1688,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1643,6 +1724,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25",
@@ -1679,6 +1761,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1710,6 +1793,42 @@
     "file": "photos/species_lotduc.jpg",
     "page": "https://www.inaturalist.org/taxa/7170",
     "credit": "(c) Rails and roadtrips, some rights reserved (CC BY-NC), uploaded by Rails and roadtrips",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-26"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "new",
+   "reports": 1
+  },
+  {
+   "id": "S413275474:nutwoo",
+   "checklist": "S413275474",
+   "species": "Nuttall's Woodpecker",
+   "sci": "Dryobates nuttallii",
+   "code": "nutwoo",
+   "count": 1,
+   "location": "Fort Mason",
+   "locId": "L389606",
+   "county": "San Francisco",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-11-26 07:47",
+   "observer": "Mo C.",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_nutwoo.jpg",
+    "page": "https://www.inaturalist.org/taxa/792987",
+    "credit": "(c) Robyn Waayers, all rights reserved, uploaded by Robyn Waayers",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -1747,6 +1866,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1781,6 +1901,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-26"
@@ -1816,6 +1937,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-26"
@@ -1851,6 +1973,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-26"
    ],
@@ -1885,6 +2008,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -1919,13 +2043,14 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
    "days_reported": 1,
    "streak": 1,
    "status": "maybe",
-   "reports": 1
+   "reports": 3
   },
   {
    "id": "S413165243:coohaw",
@@ -1953,6 +2078,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -1987,6 +2113,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2021,6 +2148,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2055,6 +2183,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2086,6 +2215,77 @@
     "file": "photos/species_virrai.jpg",
     "page": "https://www.inaturalist.org/taxa/243",
     "credit": "(c) Roderick Hornby, all rights reserved, uploaded by Roderick Hornby",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413164173:buffle",
+   "checklist": "S413164173",
+   "species": "Bufflehead",
+   "sci": "Bucephala albeola",
+   "code": "buffle",
+   "count": 12,
+   "location": "Candlestick Pt. SRA--49ers auxiliary parking lot",
+   "locId": "L1334043",
+   "county": "San Francisco",
+   "lat": 37.7178215,
+   "lng": -122.3818326,
+   "approximate": false,
+   "datetime": "2026-11-25 16:06",
+   "observer": "Veena S",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_buffle.jpg",
+    "page": "https://www.inaturalist.org/taxa/6993",
+    "credit": "(c) ivanparr, all rights reserved, uploaded by ivanparr",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413270994:whimbr3",
+   "checklist": "S413270994",
+   "species": "Hudsonian Whimbrel",
+   "sci": "Numenius hudsonicus",
+   "code": "whimbr3",
+   "count": 18,
+   "location": "Ocean Beach (SF Co.)",
+   "locId": "L302090",
+   "county": "San Francisco",
+   "lat": 37.7561942,
+   "lng": -122.5100899,
+   "approximate": false,
+   "datetime": "2026-11-25 16:00",
+   "observer": "Haynes Miller",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_whimbr3.jpg",
+    "page": "https://www.inaturalist.org/taxa/1188213",
+    "credit": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -2123,6 +2323,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2157,6 +2358,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2192,6 +2394,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2199,6 +2402,111 @@
    "streak": 1,
    "status": "maybe",
    "reports": 1
+  },
+  {
+   "id": "S413158899:norsho",
+   "checklist": "S413158899",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 4,
+   "location": "Golden Gate Park--Blue Heron Lake & Strawberry Hill",
+   "locId": "L499374",
+   "county": "San Francisco",
+   "lat": 37.7686349,
+   "lng": -122.4749326,
+   "approximate": false,
+   "datetime": "2026-11-25 15:24",
+   "observer": "Jay Zussman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413150398:towwar",
+   "checklist": "S413150398",
+   "species": "Townsend's Warbler",
+   "sci": "Setophaga townsendi",
+   "code": "towwar",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L80028160",
+   "county": "San Francisco",
+   "lat": 37.738864,
+   "lng": -122.474343,
+   "approximate": false,
+   "datetime": "2026-11-25 15:16",
+   "observer": "Chris Daniels",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_towwar.jpg",
+    "page": "https://www.inaturalist.org/taxa/145255",
+    "credit": "(c) Braxton L., some rights reserved (CC BY-NC), uploaded by Braxton L.",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413152361:rinduc",
+   "checklist": "S413152361",
+   "species": "Ring-necked Duck",
+   "sci": "Aythya collaris",
+   "code": "rinduc",
+   "count": 5,
+   "location": "Presidio--Mountain Lake Park",
+   "locId": "L668827",
+   "county": "San Francisco",
+   "lat": 37.7874472,
+   "lng": -122.4695413,
+   "approximate": false,
+   "datetime": "2026-11-25 14:56",
+   "observer": "Alex Chiu",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rinduc.jpg",
+    "page": "https://www.inaturalist.org/taxa/7044",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 2
   },
   {
    "id": "S413150668:amtspa",
@@ -2226,6 +2534,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25"
@@ -2255,6 +2564,7 @@
     "rare"
    ],
    "photo": null,
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2262,6 +2572,42 @@
    "streak": 1,
    "status": "maybe",
    "reports": 1
+  },
+  {
+   "id": "S413144330:buffle",
+   "checklist": "S413144330",
+   "species": "Bufflehead",
+   "sci": "Bucephala albeola",
+   "code": "buffle",
+   "count": 2,
+   "location": "Presidio--Crissy Field and Lagoon",
+   "locId": "L1004802",
+   "county": "San Francisco",
+   "lat": 37.8047658,
+   "lng": -122.4562311,
+   "approximate": false,
+   "datetime": "2026-11-25 14:04",
+   "observer": "Matthew Eisenson",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_buffle.jpg",
+    "page": "https://www.inaturalist.org/taxa/6993",
+    "credit": "(c) ivanparr, all rights reserved, uploaded by ivanparr",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24",
+    "2026-11-25"
+   ],
+   "days_reported": 2,
+   "streak": 2,
+   "status": "maybe",
+   "reports": 3
   },
   {
    "id": "S413339686:bargol",
@@ -2289,6 +2635,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2323,6 +2670,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2357,6 +2705,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-25"
@@ -2365,6 +2714,41 @@
    "streak": 1,
    "status": "maybe",
    "reports": 2
+  },
+  {
+   "id": "S413126455:norsho",
+   "checklist": "S413126455",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 4,
+   "location": "Location from alert email",
+   "locId": "L79891470",
+   "county": "San Francisco",
+   "lat": 37.738921,
+   "lng": -122.373977,
+   "approximate": false,
+   "datetime": "2026-11-25 12:45",
+   "observer": "Melisa Kaye",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
   },
   {
    "id": "S413142587:sonspa2",
@@ -2392,6 +2776,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2426,6 +2811,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2433,6 +2819,42 @@
    "streak": 1,
    "status": "maybe",
    "reports": 1
+  },
+  {
+   "id": "S413134272:reshaw",
+   "checklist": "S413134272",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 1,
+   "location": "Presidio--El Polin Springs & Inspiration Point",
+   "locId": "L445199",
+   "county": "San Francisco",
+   "lat": 37.7926519,
+   "lng": -122.4564643,
+   "approximate": false,
+   "datetime": "2026-11-25 12:34",
+   "observer": "Matthew Eisenson",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24",
+    "2026-11-25"
+   ],
+   "days_reported": 2,
+   "streak": 2,
+   "status": "maybe",
+   "reports": 2
   },
   {
    "id": "S413187273:blksco2",
@@ -2457,6 +2879,112 @@
     "file": "photos/species_blksco2.jpg",
     "page": "https://www.inaturalist.org/taxa/144220",
     "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413157828:reshaw",
+   "checklist": "S413157828",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 2,
+   "location": "Location from alert email",
+   "locId": "L26249257",
+   "county": "San Francisco",
+   "lat": 37.7423046,
+   "lng": -122.4362099,
+   "approximate": false,
+   "datetime": "2026-11-25 12:15",
+   "observer": "Marsha Henderson",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413127874:heegul",
+   "checklist": "S413127874",
+   "species": "Heermann's Gull",
+   "sci": "Larus heermanni",
+   "code": "heegul",
+   "count": 1,
+   "location": "South Beach--Rincon Park & shoreline",
+   "locId": "L762572",
+   "county": "San Francisco",
+   "lat": 37.791032,
+   "lng": -122.3887253,
+   "approximate": false,
+   "datetime": "2026-11-25 12:14",
+   "observer": "Tijmen Blankevoort",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_heegul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4353",
+    "credit": "(c) BJ Stacey, all rights reserved",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413143201:ruckin",
+   "checklist": "S413143201",
+   "species": "Ruby-crowned Kinglet",
+   "sci": "Corthylio calendula",
+   "code": "ruckin",
+   "count": 1,
+   "location": "Haight-Ashbury - Gamble Memorial Park 37.76657, -122.44816",
+   "locId": "L39648752",
+   "county": "San Francisco",
+   "lat": 37.7664419,
+   "lng": -122.4486393,
+   "approximate": false,
+   "datetime": "2026-11-25 12:07",
+   "observer": "Paul Saraceni",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_ruckin.jpg",
+    "page": "https://www.inaturalist.org/taxa/1289388",
+    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -2494,6 +3022,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2526,6 +3055,42 @@
     "file": "photos/species_palwar3.jpg",
     "page": "https://www.inaturalist.org/taxa/145242",
     "credit": "(c) burkh4rt, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413123524:stejay",
+   "checklist": "S413123524",
+   "species": "Steller's Jay",
+   "sci": "Cyanocitta stelleri",
+   "code": "stejay",
+   "count": 1,
+   "location": "Golden Gate Park--Coon Hollow - east oak woodlands",
+   "locId": "L1567618",
+   "county": "San Francisco",
+   "lat": 37.7734998,
+   "lng": -122.4606466,
+   "approximate": false,
+   "datetime": "2026-11-25 12:02",
+   "observer": "Rhys Ormond",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_stejay.jpg",
+    "page": "https://www.inaturalist.org/taxa/8234",
+    "credit": "(c) Atlee Hargis, some rights reserved (CC BY-NC), uploaded by Atlee Hargis",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -2563,6 +3128,77 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413121660:blktur",
+   "checklist": "S413121660",
+   "species": "Black Turnstone",
+   "sci": "Arenaria melanocephala",
+   "code": "blktur",
+   "count": 10,
+   "location": "Cliff House",
+   "locId": "L355646",
+   "county": "San Francisco",
+   "lat": 37.7786269,
+   "lng": -122.5141132,
+   "approximate": false,
+   "datetime": "2026-11-25 11:59",
+   "observer": "Michael Rabkin",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_blktur.jpg",
+    "page": "https://www.inaturalist.org/taxa/3941",
+    "credit": "(c) Grigory Heaton, some rights reserved (CC BY-NC), uploaded by Grigory Heaton",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413139026:reshaw",
+   "checklist": "S413139026",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 1,
+   "location": "Golden Gate Park--Lily Pond",
+   "locId": "L1570451",
+   "county": "San Francisco",
+   "lat": 37.7708708,
+   "lng": -122.4624061,
+   "approximate": false,
+   "datetime": "2026-11-25 11:19",
+   "observer": "Yvette Cendes",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-25"
    ],
@@ -2594,6 +3230,42 @@
     "file": "photos/species_trokin.jpg",
     "page": "https://www.inaturalist.org/taxa/16787",
     "credit": "(c) Steven Mlodinow, some rights reserved (CC BY-NC), uploaded by Steven Mlodinow",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413104380:heegul",
+   "checklist": "S413104380",
+   "species": "Heermann's Gull",
+   "sci": "Larus heermanni",
+   "code": "heegul",
+   "count": 30,
+   "location": "Location from alert email",
+   "locId": "L56522514",
+   "county": "San Francisco",
+   "lat": 37.749093,
+   "lng": -122.507902,
+   "approximate": false,
+   "datetime": "2026-11-25 10:56",
+   "observer": "Tim Winkler",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_heegul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4353",
+    "credit": "(c) BJ Stacey, all rights reserved",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -2631,6 +3303,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2638,6 +3311,41 @@
    "streak": 1,
    "status": "maybe",
    "reports": 1
+  },
+  {
+   "id": "S413117836:norsho",
+   "checklist": "S413117836",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 4,
+   "location": "Heron's Head Park",
+   "locId": "L502380",
+   "county": "San Francisco",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-11-25 10:51",
+   "observer": "Ben Dudek",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 4
   },
   {
    "id": "S413166262:casfin",
@@ -2665,6 +3373,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2696,6 +3405,77 @@
     "file": "photos/species_evegro.jpg",
     "page": "https://www.inaturalist.org/taxa/1650411",
     "credit": "(c) jrheinen, some rights reserved (CC BY-NC), uploaded by jrheinen",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413109961:sursco",
+   "checklist": "S413109961",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 1,
+   "location": "China Beach (SF Co.)",
+   "locId": "L1153270",
+   "county": "San Francisco",
+   "lat": 37.788,
+   "lng": -122.4910784,
+   "approximate": false,
+   "datetime": "2026-11-25 10:35",
+   "observer": "Donna Borden",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413264062:snoegr",
+   "checklist": "S413264062",
+   "species": "Snowy Egret",
+   "sci": "Egretta thula",
+   "code": "snoegr",
+   "count": 1,
+   "location": "Presidio--Crissy Field and Lagoon",
+   "locId": "L1004802",
+   "county": "San Francisco",
+   "lat": 37.8047658,
+   "lng": -122.4562311,
+   "approximate": false,
+   "datetime": "2026-11-25 10:33",
+   "observer": "William K. Lee",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_snoegr.jpg",
+    "page": "https://www.inaturalist.org/taxa/4940",
+    "credit": "(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -2733,6 +3513,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-25"
@@ -2768,6 +3549,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2802,6 +3584,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2836,6 +3619,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25"
@@ -2871,6 +3655,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2906,6 +3691,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23",
     "2026-11-25"
@@ -2942,6 +3728,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -2976,6 +3763,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3010,6 +3798,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3044,6 +3833,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3078,6 +3868,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3112,6 +3903,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24",
     "2026-11-25"
@@ -3141,6 +3933,7 @@
     "rare"
    ],
    "photo": null,
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3175,6 +3968,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23",
     "2026-11-25"
@@ -3207,6 +4001,42 @@
     "file": "photos/species_redcro.jpg",
     "page": "https://www.inaturalist.org/taxa/10411",
     "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413155013:mewgul2",
+   "checklist": "S413155013",
+   "species": "Short-billed Gull",
+   "sci": "Larus brachyrhynchus",
+   "code": "mewgul2",
+   "count": 2,
+   "location": "Lake Merced--Concrete Bridge area",
+   "locId": "L791371",
+   "county": "San Francisco",
+   "lat": 37.7126918,
+   "lng": -122.4879456,
+   "approximate": false,
+   "datetime": "2026-11-25 09:20",
+   "observer": "Danny Grossman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_mewgul2.jpg",
+    "page": "https://www.inaturalist.org/taxa/1286964",
+    "credit": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -3244,6 +4074,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3278,6 +4109,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3310,6 +4142,42 @@
     "file": "photos/species_rocwre.jpg",
     "page": "https://www.inaturalist.org/taxa/7486",
     "credit": "(c) Jerry Oldenettel, some rights reserved (CC BY-NC-SA)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413081187:bcnher",
+   "checklist": "S413081187",
+   "species": "Black-crowned Night Heron",
+   "sci": "Nycticorax nycticorax",
+   "code": "bcnher",
+   "count": 1,
+   "location": "Mission Creek (SF Co.)",
+   "locId": "L604022",
+   "county": "San Francisco",
+   "lat": 37.7735218,
+   "lng": -122.3948193,
+   "approximate": false,
+   "datetime": "2026-11-25 08:46",
+   "observer": "Thad Bashaw",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_bcnher.jpg",
+    "page": "https://www.inaturalist.org/taxa/4981",
+    "credit": "no rights reserved, uploaded by Kyle Nessen",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -3347,6 +4215,77 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413155328:amekes",
+   "checklist": "S413155328",
+   "species": "American Kestrel",
+   "sci": "Falco sparverius",
+   "code": "amekes",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L80028859",
+   "county": "San Francisco",
+   "lat": 37.736931,
+   "lng": -122.453953,
+   "approximate": false,
+   "datetime": "2026-11-25 08:26",
+   "observer": "Danny Grossman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amekes.jpg",
+    "page": "https://www.inaturalist.org/taxa/4665",
+    "credit": "(c) Vincent O'Brien, all rights reserved, uploaded by Vincent O'Brien",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413080540:bushti",
+   "checklist": "S413080540",
+   "species": "Bushtit",
+   "sci": "Psaltriparus minimus",
+   "code": "bushti",
+   "count": 4,
+   "location": "James Rolph Jr. Playground",
+   "locId": "L3508357",
+   "county": "San Francisco",
+   "lat": 37.7494758,
+   "lng": -122.4062347,
+   "approximate": false,
+   "datetime": "2026-11-25 08:24",
+   "observer": "Sasha Gonzalez",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_bushti.jpg",
+    "page": "https://www.inaturalist.org/taxa/7266",
+    "credit": "(c) Kevin Krebs, some rights reserved (CC BY-NC-SA)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-25"
    ],
@@ -3381,6 +4320,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3416,6 +4356,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-23",
@@ -3452,6 +4393,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3486,6 +4428,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3521,6 +4464,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3555,6 +4499,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3589,6 +4534,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3596,6 +4542,41 @@
    "streak": 1,
    "status": "maybe",
    "reports": 2
+  },
+  {
+   "id": "S413099493:rinduc",
+   "checklist": "S413099493",
+   "species": "Ring-necked Duck",
+   "sci": "Aythya collaris",
+   "code": "rinduc",
+   "count": 2,
+   "location": "GGNRA--Land's End Trail/Hermit Rock Overlook (Historic Shipwrecks, 37.7839,-122.5096)",
+   "locId": "L6105843",
+   "county": "San Francisco",
+   "lat": 37.783947,
+   "lng": -122.509612,
+   "approximate": false,
+   "datetime": "2026-11-25 07:54",
+   "observer": "Connor Schmidt",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rinduc.jpg",
+    "page": "https://www.inaturalist.org/taxa/7044",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
   },
   {
    "id": "S413103496:eleter1",
@@ -3623,6 +4604,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3657,6 +4639,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3691,6 +4674,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3725,6 +4709,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3759,6 +4744,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-25"
@@ -3794,6 +4780,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3828,6 +4815,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3862,6 +4850,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3896,6 +4885,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3930,6 +4920,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3964,6 +4955,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -3998,6 +4990,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4032,6 +5025,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4066,6 +5060,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4100,6 +5095,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4134,6 +5130,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4169,6 +5166,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-25"
    ],
@@ -4176,6 +5174,146 @@
    "streak": 1,
    "status": "maybe",
    "reports": 4
+  },
+  {
+   "id": "S413021752:amecro",
+   "checklist": "S413021752",
+   "species": "American Crow",
+   "sci": "Corvus brachyrhynchos",
+   "code": "amecro",
+   "count": 80,
+   "location": "Location from alert email",
+   "locId": "L80010254",
+   "county": "San Francisco",
+   "lat": 37.792716,
+   "lng": -122.393837,
+   "approximate": false,
+   "datetime": "2026-11-25 03:52",
+   "observer": "Haoning Gong",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amecro.jpg",
+    "page": "https://www.inaturalist.org/taxa/8021",
+    "credit": "(c) Joe McKenna, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413021165:brnpel",
+   "checklist": "S413021165",
+   "species": "Brown Pelican",
+   "sci": "Pelecanus occidentalis",
+   "code": "brnpel",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L80010170",
+   "county": "San Francisco",
+   "lat": 37.790405,
+   "lng": -122.388208,
+   "approximate": false,
+   "datetime": "2026-11-25 03:48",
+   "observer": "Haoning Gong",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_brnpel.jpg",
+    "page": "https://www.inaturalist.org/taxa/4328",
+    "credit": "(c) BJ Stacey, some rights reserved (CC BY-NC), uploaded by BJ Stacey",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S413020654:wesgul",
+   "checklist": "S413020654",
+   "species": "Western Gull",
+   "sci": "Larus occidentalis",
+   "code": "wesgul",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L80010094",
+   "county": "San Francisco",
+   "lat": 37.793674,
+   "lng": -122.391074,
+   "approximate": false,
+   "datetime": "2026-11-25 03:43",
+   "observer": "Haoning Gong",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_wesgul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4345",
+    "credit": "(c) Jamie Chavez, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-25"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "maybe",
+   "reports": 1
+  },
+  {
+   "id": "S412988528:heegul",
+   "checklist": "S412988528",
+   "species": "Heermann's Gull",
+   "sci": "Larus heermanni",
+   "code": "heegul",
+   "count": 1,
+   "location": "Cliff House",
+   "locId": "L355646",
+   "county": "San Francisco",
+   "lat": 37.7786269,
+   "lng": -122.5141132,
+   "approximate": false,
+   "datetime": "2026-11-24 22:41",
+   "observer": "Cathy Kessinger",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_heegul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4353",
+    "credit": "(c) BJ Stacey, all rights reserved",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S413354456:verfly",
@@ -4204,6 +5342,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4238,6 +5377,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4272,6 +5412,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4307,6 +5448,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23",
     "2026-11-24"
@@ -4315,6 +5457,111 @@
    "streak": 2,
    "status": "gone",
    "reports": 2
+  },
+  {
+   "id": "S413171370:rinduc",
+   "checklist": "S413171370",
+   "species": "Ring-necked Duck",
+   "sci": "Aythya collaris",
+   "code": "rinduc",
+   "count": 3,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "locId": "L1071411",
+   "county": "San Francisco",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-11-24 15:16",
+   "observer": "Josh Waddell",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rinduc.jpg",
+    "page": "https://www.inaturalist.org/taxa/7044",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413171370:sursco",
+   "checklist": "S413171370",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 12,
+   "location": "Sutro Baths--ruins and freshwater pond",
+   "locId": "L1071411",
+   "county": "San Francisco",
+   "lat": 37.7799752,
+   "lng": -122.5133193,
+   "approximate": false,
+   "datetime": "2026-11-24 15:16",
+   "observer": "Josh Waddell",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413186022:eucdov",
+   "checklist": "S413186022",
+   "species": "Eurasian Collared-Dove",
+   "sci": "Streptopelia decaocto",
+   "code": "eucdov",
+   "count": 1,
+   "location": "Glen Canyon Park",
+   "locId": "L590796",
+   "county": "San Francisco",
+   "lat": 37.7395667,
+   "lng": -122.4412966,
+   "approximate": false,
+   "datetime": "2026-11-24 15:15",
+   "observer": "Marsha Henderson",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_eucdov.jpg",
+    "page": "https://www.inaturalist.org/taxa/2969",
+    "credit": "(c) Daniel, all rights reserved, uploaded by Daniel",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S412955322:trokin",
@@ -4339,6 +5586,42 @@
     "file": "photos/species_trokin.jpg",
     "page": "https://www.inaturalist.org/taxa/16787",
     "credit": "(c) Steven Mlodinow, some rights reserved (CC BY-NC), uploaded by Steven Mlodinow",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412953814:reshaw",
+   "checklist": "S412953814",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 1,
+   "location": "Laguna Honda - includes canyon along Clarendon, hillside east of Laguna Honda Blvd and hospital grounds",
+   "locId": "L1041939",
+   "county": "San Francisco",
+   "lat": 37.7513251,
+   "lng": -122.4587417,
+   "approximate": false,
+   "datetime": "2026-11-24 15:03",
+   "observer": "Ashley Ayala",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4376,6 +5659,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4407,6 +5691,42 @@
     "file": "photos/species_wessan.jpg",
     "page": "https://www.inaturalist.org/taxa/3855",
     "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412965466:norsho",
+   "checklist": "S412965466",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 1,
+   "location": "Candlestick Pt. SRA--headquarters / back lot",
+   "locId": "L1060089",
+   "county": "San Francisco",
+   "lat": 37.7214418,
+   "lng": -122.3841119,
+   "approximate": false,
+   "datetime": "2026-11-24 15:00",
+   "observer": "Liam Murphy",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4444,6 +5764,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4478,6 +5799,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4512,6 +5834,112 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412964380:wesgul",
+   "checklist": "S412964380",
+   "species": "Western Gull",
+   "sci": "Larus occidentalis",
+   "code": "wesgul",
+   "count": 27,
+   "location": "Pier 50",
+   "locId": "L5221225",
+   "county": "San Francisco",
+   "lat": 37.7729536,
+   "lng": -122.3865795,
+   "approximate": false,
+   "datetime": "2026-11-24 14:27",
+   "observer": "Tessa Perrin",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_wesgul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4345",
+    "credit": "(c) Jamie Chavez, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 2
+  },
+  {
+   "id": "S412946286:sursco",
+   "checklist": "S412946286",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 2,
+   "location": "Cliff House",
+   "locId": "L355646",
+   "county": "San Francisco",
+   "lat": 37.7786269,
+   "lng": -122.5141132,
+   "approximate": false,
+   "datetime": "2026-11-24 14:16",
+   "observer": "Veena S",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412947183:reshaw",
+   "checklist": "S412947183",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L49922167",
+   "county": "San Francisco",
+   "lat": 37.772878,
+   "lng": -122.484824,
+   "approximate": false,
+   "datetime": "2026-11-24 14:13",
+   "observer": "Cameron Braun",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -4543,6 +5971,176 @@
     "file": "photos/species_palwar.jpg",
     "page": "https://www.inaturalist.org/taxa/145242",
     "credit": "(c) burkh4rt, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412947859:wesgul",
+   "checklist": "S412947859",
+   "species": "Western Gull",
+   "sci": "Larus occidentalis",
+   "code": "wesgul",
+   "count": 16,
+   "location": "Presidio--Battery East",
+   "locId": "L1280761",
+   "county": "San Francisco",
+   "lat": 37.8071707,
+   "lng": -122.4724585,
+   "approximate": false,
+   "datetime": "2026-11-24 14:08",
+   "observer": "Joanna  Kane",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_wesgul.jpg",
+    "page": "https://www.inaturalist.org/taxa/4345",
+    "credit": "(c) Jamie Chavez, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412945025:wrthaw1",
+   "checklist": "S412945025",
+   "species": "Red-tailed Hawk (Western)",
+   "sci": "Buteo jamaicensis calurus/alascensis",
+   "code": "wrthaw1",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L15389205",
+   "county": "San Francisco",
+   "lat": 37.7711538,
+   "lng": -122.4426334,
+   "approximate": false,
+   "datetime": "2026-11-24 13:59",
+   "observer": "Ann \u200b",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412958150:rethaw",
+   "checklist": "S412958150",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 8,
+   "location": "Corona Heights Park",
+   "locId": "L598129",
+   "county": "San Francisco",
+   "lat": 37.764744,
+   "lng": -122.4390221,
+   "approximate": false,
+   "datetime": "2026-11-24 13:48",
+   "observer": "Erick Masias",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rethaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5212",
+    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412946898:coohaw",
+   "checklist": "S412946898",
+   "species": "Cooper's Hawk",
+   "sci": "Astur cooperii",
+   "code": "coohaw",
+   "count": 1,
+   "location": "Ina Coolbrith Park",
+   "locId": "L10250278",
+   "county": "San Francisco",
+   "lat": 37.7982807,
+   "lng": -122.413466,
+   "approximate": false,
+   "datetime": "2026-11-24 13:32",
+   "observer": "Jeff Loomans",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_coohaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/1579017",
+    "credit": "(c) Abby Sesselberg, some rights reserved (CC BY-NC), uploaded by Abby Sesselberg",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412947890:blkpho",
+   "checklist": "S412947890",
+   "species": "Black Phoebe",
+   "sci": "Sayornis nigricans",
+   "code": "blkpho",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L79999514",
+   "county": "San Francisco",
+   "lat": 37.7097193,
+   "lng": -122.471112,
+   "approximate": false,
+   "datetime": "2026-11-24 13:30",
+   "observer": "Joanna  Kane",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_blkpho.jpg",
+    "page": "https://www.inaturalist.org/taxa/17013",
+    "credit": "(c) Robyn Waayers, all rights reserved, uploaded by Robyn Waayers",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4581,6 +6179,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4615,6 +6214,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4649,6 +6249,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4683,6 +6284,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4714,6 +6316,42 @@
     "file": "photos/species_redcro.jpg",
     "page": "https://www.inaturalist.org/taxa/10411",
     "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412925156:amekes",
+   "checklist": "S412925156",
+   "species": "American Kestrel",
+   "sci": "Falco sparverius",
+   "code": "amekes",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L79996387",
+   "county": "San Francisco",
+   "lat": 37.742749,
+   "lng": -122.448175,
+   "approximate": false,
+   "datetime": "2026-11-24 12:27",
+   "observer": "Ben Dudek",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amekes.jpg",
+    "page": "https://www.inaturalist.org/taxa/4665",
+    "credit": "(c) Vincent O'Brien, all rights reserved, uploaded by Vincent O'Brien",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4751,6 +6389,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-24"
@@ -4759,6 +6398,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 4
+  },
+  {
+   "id": "S412924625:buffle",
+   "checklist": "S412924625",
+   "species": "Bufflehead",
+   "sci": "Bucephala albeola",
+   "code": "buffle",
+   "count": 1,
+   "location": "Lake Merced--Concrete Bridge area",
+   "locId": "L791371",
+   "county": "San Francisco",
+   "lat": 37.7126918,
+   "lng": -122.4879456,
+   "approximate": false,
+   "datetime": "2026-11-24 12:15",
+   "observer": "Lee-Hong Chang",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_buffle.jpg",
+    "page": "https://www.inaturalist.org/taxa/6993",
+    "credit": "(c) ivanparr, all rights reserved, uploaded by ivanparr",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S413296081:sonspa2",
@@ -4782,6 +6456,42 @@
    "photo": {
     "file": "photos/species_sonspa2.jpg",
     "page": "https://www.inaturalist.org/taxa/9100",
+    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412972309:saypho",
+   "checklist": "S412972309",
+   "species": "Say's Phoebe",
+   "sci": "Sayornis saya",
+   "code": "saypho",
+   "count": 1,
+   "location": "Fort Mason",
+   "locId": "L389606",
+   "county": "San Francisco",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-11-24 12:00",
+   "observer": "Sol S",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_saypho.jpg",
+    "page": "https://www.inaturalist.org/taxa/17009",
     "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
     "generic": true,
     "source": "iNaturalist"
@@ -4820,6 +6530,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4854,6 +6565,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -4885,6 +6597,42 @@
     "file": "photos/species_redcro.jpg",
     "page": "https://www.inaturalist.org/taxa/10411",
     "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412944761:reshaw",
+   "checklist": "S412944761",
+   "species": "Red-shouldered Hawk",
+   "sci": "Buteo lineatus",
+   "code": "reshaw",
+   "count": 2,
+   "location": "Golden Gate Park--Arboretum (San Francisco Botanical Garden)",
+   "locId": "L1085740",
+   "county": "San Francisco",
+   "lat": 37.7675937,
+   "lng": -122.4688053,
+   "approximate": false,
+   "datetime": "2026-11-24 11:50",
+   "observer": "Charlotte Pavelka & Doug Reitz",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_reshaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5206",
+    "credit": "(c) spinomaly, some rights reserved (CC BY-NC)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4922,6 +6670,42 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412974790:comrav",
+   "checklist": "S412974790",
+   "species": "Common Raven",
+   "sci": "Corvus corax",
+   "code": "comrav",
+   "count": 2,
+   "location": "Golden Gate Park--Japanese Tea Garden",
+   "locId": "L2206127",
+   "county": "San Francisco",
+   "lat": 37.7703786,
+   "lng": -122.4701411,
+   "approximate": false,
+   "datetime": "2026-11-24 11:44",
+   "observer": "Thomas Mack",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_comrav.jpg",
+    "page": "https://www.inaturalist.org/taxa/8010",
+    "credit": "(c) arbyreed, some rights reserved (CC BY-NC-SA)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -4953,6 +6737,77 @@
     "file": "photos/species_rengre.jpg",
     "page": "https://www.inaturalist.org/taxa/4224",
     "credit": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412921256:norsho",
+   "checklist": "S412921256",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": null,
+   "location": "Lake Merced--Concrete Bridge area",
+   "locId": "L791371",
+   "county": "San Francisco",
+   "lat": 37.7126918,
+   "lng": -122.4879456,
+   "approximate": false,
+   "datetime": "2026-11-24 11:38",
+   "observer": "Court Warr",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412917345:sposan",
+   "checklist": "S412917345",
+   "species": "Spotted Sandpiper",
+   "sci": "Actitis macularius",
+   "code": "sposan",
+   "count": 1,
+   "location": "Mariposa Bayfront Park",
+   "locId": "L12613649",
+   "county": "San Francisco",
+   "lat": 37.7652063,
+   "lng": -122.3874271,
+   "approximate": false,
+   "datetime": "2026-11-24 11:31",
+   "observer": "Nico Stuurman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sposan.jpg",
+    "page": "https://www.inaturalist.org/taxa/72458",
+    "credit": "(c) Jason Headley, some rights reserved (CC BY-NC), uploaded by Jason Headley",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -4990,6 +6845,42 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412913190:ruckin",
+   "checklist": "S412913190",
+   "species": "Ruby-crowned Kinglet",
+   "sci": "Corthylio calendula",
+   "code": "ruckin",
+   "count": 1,
+   "location": "Mission Bay Campus",
+   "locId": "L5379629",
+   "county": "San Francisco",
+   "lat": 37.7686072,
+   "lng": -122.3917186,
+   "approximate": false,
+   "datetime": "2026-11-24 11:19",
+   "observer": "Nico Stuurman",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_ruckin.jpg",
+    "page": "https://www.inaturalist.org/taxa/1289388",
+    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -5021,6 +6912,42 @@
     "file": "photos/species_towsol.jpg",
     "page": "https://www.inaturalist.org/taxa/12951",
     "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412921469:foxspa",
+   "checklist": "S412921469",
+   "species": "Fox Sparrow",
+   "sci": "Passerella iliaca",
+   "code": "foxspa",
+   "count": 1,
+   "location": "UBIF official use only North Lake Merced riparian",
+   "locId": "L9930292",
+   "county": "San Francisco",
+   "lat": 37.727695,
+   "lng": -122.493472,
+   "approximate": false,
+   "datetime": "2026-11-24 10:58",
+   "observer": "Court Warr",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_foxspa.jpg",
+    "page": "https://www.inaturalist.org/taxa/9156",
+    "credit": "(c) Cody Bassindale, all rights reserved, uploaded by Cody Bassindale",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -5058,6 +6985,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5092,6 +7020,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5123,6 +7052,42 @@
     "file": "photos/species_retloo.jpg",
     "page": "https://www.inaturalist.org/taxa/4627",
     "credit": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412921628:norsho",
+   "checklist": "S412921628",
+   "species": "Northern Shoveler",
+   "sci": "Spatula clypeata",
+   "code": "norsho",
+   "count": 3,
+   "location": "Golden Gate Park--Music Concourse",
+   "locId": "L1864927",
+   "county": "San Francisco",
+   "lat": 37.7706197,
+   "lng": -122.4674701,
+   "approximate": false,
+   "datetime": "2026-11-24 10:15",
+   "observer": "Ryan Keiffer",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_norsho.jpg",
+    "page": "https://www.inaturalist.org/taxa/558438",
+    "credit": "(c) silvertop41, some rights reserved (CC BY-NC)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -5160,6 +7125,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5167,6 +7133,76 @@
    "streak": 1,
    "status": "gone",
    "reports": 7
+  },
+  {
+   "id": "S412958550:sursco",
+   "checklist": "S412958550",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 6,
+   "location": "Presidio--Lobos Creek and Dunes Restoration Area",
+   "locId": "L998381",
+   "county": "San Francisco",
+   "lat": 37.7877083,
+   "lng": -122.4791479,
+   "approximate": false,
+   "datetime": "2026-11-24 10:03",
+   "observer": "David Webster",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412896246:rethaw",
+   "checklist": "S412896246",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 1,
+   "location": "Bernal Hill",
+   "locId": "L668844",
+   "county": "San Francisco",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-11-24 10:03",
+   "observer": "Purush Swaminathan",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rethaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5212",
+    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S412903677:rengre",
@@ -5194,6 +7230,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5225,6 +7262,148 @@
     "file": "photos/species_redcro.jpg",
     "page": "https://www.inaturalist.org/taxa/10411",
     "credit": "(c) Tom_Reichner, all rights reserved, uploaded by Tom_Reichner",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413113200:amewig",
+   "checklist": "S413113200",
+   "species": "American Wigeon",
+   "sci": "Mareca americana",
+   "code": "amewig",
+   "count": 6,
+   "location": "Heron's Head Park",
+   "locId": "L502380",
+   "county": "San Francisco",
+   "lat": 37.7381243,
+   "lng": -122.3725462,
+   "approximate": false,
+   "datetime": "2026-11-24 09:41",
+   "observer": "susan howard",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amewig.jpg",
+    "page": "https://www.inaturalist.org/taxa/485176",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-23",
+    "2026-11-24"
+   ],
+   "days_reported": 2,
+   "streak": 2,
+   "status": "gone",
+   "reports": 2
+  },
+  {
+   "id": "S412919255:whimbr3",
+   "checklist": "S412919255",
+   "species": "Hudsonian Whimbrel",
+   "sci": "Numenius hudsonicus",
+   "code": "whimbr3",
+   "count": 4,
+   "location": "Sunset Dunes Park, North (Pacheco to Lincoln)",
+   "locId": "L42443113",
+   "county": "San Francisco",
+   "lat": 37.7585946,
+   "lng": -122.5095087,
+   "approximate": false,
+   "datetime": "2026-11-24 09:28",
+   "observer": "Matthew Zlatunich",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_whimbr3.jpg",
+    "page": "https://www.inaturalist.org/taxa/1188213",
+    "credit": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412923823:rethaw",
+   "checklist": "S412923823",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 1,
+   "location": "Golden Gate Park--long traveling lists west of Crossover Dr.  (37.7672,-122.4918)",
+   "locId": "L6689382",
+   "county": "San Francisco",
+   "lat": 37.767151,
+   "lng": -122.491784,
+   "approximate": false,
+   "datetime": "2026-11-24 09:24",
+   "observer": "Mimi Samuels",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rethaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5212",
+    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412898333:nutwoo",
+   "checklist": "S412898333",
+   "species": "Nuttall's Woodpecker",
+   "sci": "Dryobates nuttallii",
+   "code": "nutwoo",
+   "count": 1,
+   "location": "Allyne Park, San Francisco US-CA 37.79732, -122.42765",
+   "locId": "L48801621",
+   "county": "San Francisco",
+   "lat": 37.797318,
+   "lng": -122.427648,
+   "approximate": false,
+   "datetime": "2026-11-24 09:17",
+   "observer": "Cornelia Foster",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_nutwoo.jpg",
+    "page": "https://www.inaturalist.org/taxa/792987",
+    "credit": "(c) Robyn Waayers, all rights reserved, uploaded by Robyn Waayers",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -5263,6 +7442,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5297,6 +7477,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5331,6 +7512,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5365,6 +7547,42 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412918199:sursco",
+   "checklist": "S412918199",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 2,
+   "location": "Sunset Dunes Park, South (Pacheco to Sloat)",
+   "locId": "L42442828",
+   "county": "San Francisco",
+   "lat": 37.743679,
+   "lng": -122.5076635,
+   "approximate": false,
+   "datetime": "2026-11-24 08:18",
+   "observer": "Matthew Zlatunich",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -5393,6 +7611,147 @@
     "rare"
    ],
    "photo": null,
+   "added": null,
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412887046:pibgre",
+   "checklist": "S412887046",
+   "species": "Pied-billed Grebe",
+   "sci": "Podilymbus podiceps",
+   "code": "pibgre",
+   "count": 2,
+   "location": "Golden Gate Park--North Lake",
+   "locId": "L370768",
+   "county": "San Francisco",
+   "lat": 37.7700193,
+   "lng": -122.5028801,
+   "approximate": false,
+   "datetime": "2026-11-24 07:57",
+   "observer": "Tijmen Blankevoort",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_pibgre.jpg",
+    "page": "https://www.inaturalist.org/taxa/4246",
+    "credit": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412881869:nutwoo",
+   "checklist": "S412881869",
+   "species": "Nuttall's Woodpecker",
+   "sci": "Dryobates nuttallii",
+   "code": "nutwoo",
+   "count": 1,
+   "location": "Location from alert email",
+   "locId": "L54320059",
+   "county": "San Francisco",
+   "lat": 37.763419,
+   "lng": -122.502194,
+   "approximate": false,
+   "datetime": "2026-11-24 07:50",
+   "observer": "Katherine Howard",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_nutwoo.jpg",
+    "page": "https://www.inaturalist.org/taxa/792987",
+    "credit": "(c) Robyn Waayers, all rights reserved, uploaded by Robyn Waayers",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412928829:eurwig",
+   "checklist": "S412928829",
+   "species": "Eurasian Wigeon",
+   "sci": "Mareca penelope",
+   "code": "eurwig",
+   "count": 1,
+   "location": "Candlestick Pt. State Rec. Area - long traveling lists - use specific hotspot where appropriate",
+   "locId": "L286953",
+   "county": "San Francisco",
+   "lat": 37.7117054,
+   "lng": -122.3804593,
+   "approximate": false,
+   "datetime": "2026-11-24 07:42",
+   "observer": "Kevin Liberg",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_eurwig.jpg",
+    "page": "https://www.inaturalist.org/taxa/558441",
+    "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S412928829:amewig",
+   "checklist": "S412928829",
+   "species": "American Wigeon",
+   "sci": "Mareca americana",
+   "code": "amewig",
+   "count": 50,
+   "location": "Candlestick Pt. State Rec. Area - long traveling lists - use specific hotspot where appropriate",
+   "locId": "L286953",
+   "county": "San Francisco",
+   "lat": 37.7117054,
+   "lng": -122.3804593,
+   "approximate": false,
+   "datetime": "2026-11-24 07:42",
+   "observer": "Kevin Liberg",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amewig.jpg",
+    "page": "https://www.inaturalist.org/taxa/485176",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
    "dates": [
     "2026-11-24"
    ],
@@ -5428,6 +7787,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5462,6 +7822,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5496,6 +7857,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-24"
    ],
@@ -5503,6 +7865,77 @@
    "streak": 1,
    "status": "gone",
    "reports": 1
+  },
+  {
+   "id": "S412976564:sursco",
+   "checklist": "S412976564",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 52,
+   "location": "Southeast Farallon Island (Farallon Islands NWR, restricted access)",
+   "locId": "L329116",
+   "county": "San Francisco",
+   "lat": 37.69852,
+   "lng": -123.002789,
+   "approximate": false,
+   "datetime": "2026-11-24 07:00",
+   "observer": "Jim Tietz",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-23",
+    "2026-11-24"
+   ],
+   "days_reported": 2,
+   "streak": 2,
+   "status": "gone",
+   "reports": 4
+  },
+  {
+   "id": "S412976401:dowwoo",
+   "checklist": "S412976401",
+   "species": "Downy Woodpecker",
+   "sci": "Dryobates pubescens",
+   "code": "dowwoo",
+   "count": 1,
+   "location": "Golden Gate Park--Arboretum (San Francisco Botanical Garden)",
+   "locId": "L1085740",
+   "county": "San Francisco",
+   "lat": 37.7675937,
+   "lng": -122.4688053,
+   "approximate": false,
+   "datetime": "2026-11-24 07:00",
+   "observer": "Mark Frenz",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_dowwoo.jpg",
+    "page": "https://www.inaturalist.org/taxa/792988",
+    "credit": "(c) C\u00e9sar Andr\u00e9s Castillo, all rights reserved, uploaded by C\u00e9sar Andr\u00e9s Castillo",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-24"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 2
   },
   {
    "id": "S412784751:blkmer1",
@@ -5530,6 +7963,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5564,6 +7998,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22",
     "2026-11-23"
@@ -5599,6 +8034,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5633,6 +8069,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5667,6 +8104,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5701,6 +8139,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5735,6 +8174,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5769,6 +8209,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5803,6 +8244,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5834,6 +8276,42 @@
     "file": "photos/species_evegro.jpg",
     "page": "https://www.inaturalist.org/taxa/1650411",
     "credit": "(c) jrheinen, some rights reserved (CC BY-NC), uploaded by jrheinen",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-23"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413074209:houspa",
+   "checklist": "S413074209",
+   "species": "House Sparrow",
+   "sci": "Passer domesticus",
+   "code": "houspa",
+   "count": 12,
+   "location": "Union Square",
+   "locId": "L11499630",
+   "county": "San Francisco",
+   "lat": 37.7879902,
+   "lng": -122.4075034,
+   "approximate": false,
+   "datetime": "2026-11-23 12:38",
+   "observer": "Christopher G. Harris",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_houspa.jpg",
+    "page": "https://www.inaturalist.org/taxa/13858",
+    "credit": "(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -5871,6 +8349,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5905,6 +8384,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-23"
@@ -5913,6 +8393,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 3
+  },
+  {
+   "id": "S412958971:mewgul2",
+   "checklist": "S412958971",
+   "species": "Short-billed Gull",
+   "sci": "Larus brachyrhynchus",
+   "code": "mewgul2",
+   "count": 1,
+   "location": "Bernal Hill",
+   "locId": "L668844",
+   "county": "San Francisco",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-11-23 12:14",
+   "observer": "Liam Murphy",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_mewgul2.jpg",
+    "page": "https://www.inaturalist.org/taxa/1286964",
+    "credit": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-23"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S412873202:hoomer",
@@ -5940,6 +8455,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -5974,6 +8490,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6008,6 +8525,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6042,6 +8560,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6076,6 +8595,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6110,6 +8630,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -6146,6 +8667,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6180,6 +8702,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6214,6 +8737,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6248,6 +8772,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6282,6 +8807,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6316,6 +8842,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6350,6 +8877,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6384,6 +8912,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6418,6 +8947,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6449,6 +8979,42 @@
     "file": "photos/species_goleag.jpg",
     "page": "https://www.inaturalist.org/taxa/5074",
     "credit": "(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-23"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413281068:rethaw",
+   "checklist": "S413281068",
+   "species": "Red-tailed Hawk",
+   "sci": "Buteo jamaicensis",
+   "code": "rethaw",
+   "count": 1,
+   "location": "Fort Mason",
+   "locId": "L389606",
+   "county": "San Francisco",
+   "lat": 37.8051812,
+   "lng": -122.4285507,
+   "approximate": false,
+   "datetime": "2026-11-23 09:00",
+   "observer": "Cornelia Foster",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rethaw.jpg",
+    "page": "https://www.inaturalist.org/taxa/5212",
+    "credit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -6486,6 +9052,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6520,6 +9087,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6554,6 +9122,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6588,6 +9157,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6622,6 +9192,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6650,6 +9221,7 @@
     "rare"
    ],
    "photo": null,
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6684,6 +9256,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6719,6 +9292,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6753,6 +9327,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6787,6 +9362,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6821,6 +9397,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-23"
    ],
@@ -6855,15 +9432,17 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
+    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22"
    ],
-   "days_reported": 3,
-   "streak": 3,
+   "days_reported": 4,
+   "streak": 4,
    "status": "gone",
-   "reports": 56
+   "reports": 57
   },
   {
    "id": "S412558967:harspa",
@@ -6888,6 +9467,42 @@
     "file": "photos/species_harspa.jpg",
     "page": "https://www.inaturalist.org/taxa/9182",
     "credit": "(c) Norm Townsend, some rights reserved (CC BY-NC-ND)",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-22"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413099550:retloo",
+   "checklist": "S413099550",
+   "species": "Red-throated Loon",
+   "sci": "Gavia stellata",
+   "code": "retloo",
+   "count": 1,
+   "location": "Presidio--Fort Scott",
+   "locId": "L1024291",
+   "county": "San Francisco",
+   "lat": 37.8013071,
+   "lng": -122.4744272,
+   "approximate": false,
+   "datetime": "2026-11-22 15:50",
+   "observer": "Connor Schmidt",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_retloo.jpg",
+    "page": "https://www.inaturalist.org/taxa/4627",
+    "credit": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -6925,6 +9540,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21",
     "2026-11-22"
@@ -6960,6 +9576,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -6994,6 +9611,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7028,6 +9646,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7062,6 +9681,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7096,6 +9716,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7130,6 +9751,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7164,6 +9786,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7195,6 +9818,42 @@
     "file": "photos/species_westan.jpg",
     "page": "https://www.inaturalist.org/taxa/9919",
     "credit": "(c) Jim Gain, some rights reserved (CC BY-NC), uploaded by Jim Gain",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-22"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413181694:whtspa",
+   "checklist": "S413181694",
+   "species": "White-throated Sparrow",
+   "sci": "Zonotrichia albicollis",
+   "code": "whtspa",
+   "count": 1,
+   "location": "Ina Coolbrith Park",
+   "locId": "L10250278",
+   "county": "San Francisco",
+   "lat": 37.7982807,
+   "lng": -122.413466,
+   "approximate": false,
+   "datetime": "2026-11-22 12:29",
+   "observer": "Benjamin Byerly",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_whtspa.jpg",
+    "page": "https://www.inaturalist.org/taxa/9184",
+    "credit": "(c) Judy Gallagher, some rights reserved (CC BY)",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -7232,6 +9891,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7266,6 +9926,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7300,6 +9961,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7334,6 +9996,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7368,6 +10031,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7402,6 +10066,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7436,6 +10101,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7470,6 +10136,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7504,6 +10171,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -7540,6 +10208,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7574,6 +10243,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7608,6 +10278,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21",
@@ -7644,6 +10315,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7678,6 +10350,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7712,6 +10385,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7746,6 +10420,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7780,6 +10455,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7814,6 +10490,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7848,6 +10525,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7883,6 +10561,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7918,6 +10597,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7952,6 +10632,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -7986,6 +10667,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8020,6 +10702,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8054,6 +10737,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8088,6 +10772,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8122,6 +10807,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8156,6 +10842,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8190,6 +10877,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8224,6 +10912,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8258,6 +10947,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-22"
    ],
@@ -8292,6 +10982,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8326,6 +11017,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8360,6 +11052,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8394,6 +11087,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8428,6 +11122,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8462,6 +11157,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8496,6 +11192,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8530,6 +11227,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8564,6 +11262,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8598,6 +11297,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8632,6 +11332,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8667,6 +11368,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21"
@@ -8702,6 +11404,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8736,6 +11439,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8770,6 +11474,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8804,6 +11509,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8838,6 +11544,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8873,6 +11580,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8907,6 +11615,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8941,6 +11650,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -8975,6 +11685,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9010,6 +11721,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9045,6 +11757,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9080,6 +11793,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9114,6 +11828,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9148,6 +11863,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9182,6 +11898,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9216,6 +11933,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9250,6 +11968,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9284,6 +12003,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9318,6 +12038,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9353,6 +12074,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9387,6 +12109,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9422,6 +12145,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9456,6 +12180,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9490,6 +12215,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9524,6 +12250,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21"
@@ -9559,6 +12286,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9593,6 +12321,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9627,6 +12356,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9661,6 +12391,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9695,6 +12426,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9702,6 +12434,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 1
+  },
+  {
+   "id": "S412891146:amewig",
+   "checklist": "S412891146",
+   "species": "American Wigeon",
+   "sci": "Mareca americana",
+   "code": "amewig",
+   "count": 3,
+   "location": "Location from alert email",
+   "locId": "L79961261",
+   "county": "San Francisco",
+   "lat": 37.383174,
+   "lng": -123.06288,
+   "approximate": false,
+   "datetime": "2026-11-21 10:45",
+   "observer": "Jennifer McBroom",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_amewig.jpg",
+    "page": "https://www.inaturalist.org/taxa/485176",
+    "credit": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-21"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 2
   },
   {
    "id": "S412395149:harspa",
@@ -9729,6 +12496,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9763,6 +12531,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9798,6 +12567,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9833,6 +12603,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9867,6 +12638,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9895,6 +12667,7 @@
     "rare"
    ],
    "photo": null,
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21"
@@ -9930,6 +12703,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9964,6 +12738,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -9998,6 +12773,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10032,6 +12808,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20",
     "2026-11-21"
@@ -10067,6 +12844,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10101,6 +12879,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10135,6 +12914,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10169,6 +12949,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10204,6 +12985,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10238,6 +13020,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10272,6 +13055,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10306,6 +13090,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10340,6 +13125,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10374,6 +13160,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10408,6 +13195,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10442,6 +13230,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10476,6 +13265,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-21"
    ],
@@ -10510,6 +13300,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10541,6 +13332,42 @@
     "file": "photos/species_ycnher.jpg",
     "page": "https://www.inaturalist.org/taxa/4999",
     "credit": "(c) Dimitris Salas, all rights reserved, uploaded by Dimitris Salas",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "added": null,
+   "dates": [
+    "2026-11-20"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
+  },
+  {
+   "id": "S413147161:sursco",
+   "checklist": "S413147161",
+   "species": "Surf Scoter",
+   "sci": "Melanitta perspicillata",
+   "code": "sursco",
+   "count": 150,
+   "location": "Sausalito - Richardson Bay from Harbor Drive",
+   "locId": "L3882591",
+   "county": "Marin",
+   "lat": 37.828832,
+   "lng": -122.474271,
+   "approximate": false,
+   "datetime": "2026-11-20 16:21",
+   "observer": "Henry Witsken",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_sursco.jpg",
+    "page": "https://www.inaturalist.org/taxa/7036",
+    "credit": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
     "generic": true,
     "source": "iNaturalist"
    },
@@ -10578,6 +13405,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10613,6 +13441,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10647,6 +13476,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10682,6 +13512,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10717,6 +13548,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10724,6 +13556,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 20
+  },
+  {
+   "id": "S412960542:rebnut",
+   "checklist": "S412960542",
+   "species": "Red-breasted Nuthatch",
+   "sci": "Sitta canadensis",
+   "code": "rebnut",
+   "count": 1,
+   "location": "Bernal Hill",
+   "locId": "L668844",
+   "county": "San Francisco",
+   "lat": 37.7429271,
+   "lng": -122.413289,
+   "approximate": false,
+   "datetime": "2026-11-20 13:14",
+   "observer": "Liam Murphy",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_rebnut.jpg",
+    "page": "https://www.inaturalist.org/taxa/14823",
+    "credit": "(c) Erika Mitchell, some rights reserved (CC BY-NC), uploaded by Erika Mitchell",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-20"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   },
   {
    "id": "S411919384:eleter1",
@@ -10751,6 +13618,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10785,6 +13653,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10819,6 +13688,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10853,6 +13723,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10887,6 +13758,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10922,6 +13794,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10957,6 +13830,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -10992,6 +13866,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11027,6 +13902,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11061,6 +13937,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11095,6 +13972,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11130,6 +14008,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11165,6 +14044,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11199,6 +14079,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11233,6 +14114,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11267,6 +14149,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11301,6 +14184,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11335,6 +14219,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11370,6 +14255,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11405,6 +14291,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11440,6 +14327,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11474,6 +14362,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11508,6 +14397,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11515,6 +14405,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 1
+  },
+  {
+   "id": "S412897161:ancmur",
+   "checklist": "S412897161",
+   "species": "Ancient Murrelet",
+   "sci": "Synthliboramphus antiquus",
+   "code": "ancmur",
+   "count": 1,
+   "location": "Farallon Islands pelagic (SF Co.)",
+   "locId": "L767707",
+   "county": "San Francisco",
+   "lat": 37.7185903,
+   "lng": -122.9534912,
+   "approximate": false,
+   "datetime": "2026-11-20 09:15",
+   "observer": "Mark Stephenson",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_ancmur.jpg",
+    "page": "https://www.inaturalist.org/taxa/4561",
+    "credit": "(c) Fernando Portillo de Cea, all rights reserved, uploaded by Fernando Portillo de Cea",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-20"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 4
   },
   {
    "id": "S411849998:btywar",
@@ -11542,6 +14467,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11576,6 +14502,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11610,6 +14537,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11644,6 +14572,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11678,6 +14607,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11712,6 +14642,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11746,6 +14677,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11781,6 +14713,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11816,6 +14749,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11850,6 +14784,7 @@
     "generic": true,
     "source": "iNaturalist"
    },
+   "added": null,
    "dates": [
     "2026-11-20"
    ],
@@ -11857,6 +14792,41 @@
    "streak": 1,
    "status": "gone",
    "reports": 2
+  },
+  {
+   "id": "S412976420:lobcur",
+   "checklist": "S412976420",
+   "species": "Long-billed Curlew",
+   "sci": "Numenius americanus",
+   "code": "lobcur",
+   "count": 2,
+   "location": "Presidio--Crissy Field and Lagoon",
+   "locId": "L1004802",
+   "county": "San Francisco",
+   "lat": 37.8047658,
+   "lng": -122.4562311,
+   "approximate": false,
+   "datetime": "2026-11-19 14:12",
+   "observer": "Caitlin Chock",
+   "confirmed": false,
+   "alerts": [
+    "needs"
+   ],
+   "added": "2026-11-27T02:35:56+00:00",
+   "photo": {
+    "file": "photos/species_lobcur.jpg",
+    "page": "https://www.inaturalist.org/taxa/3906",
+    "credit": "(c) Will Sweet, all rights reserved, uploaded by Will Sweet",
+    "generic": true,
+    "source": "iNaturalist"
+   },
+   "dates": [
+    "2026-11-19"
+   ],
+   "days_reported": 1,
+   "streak": 1,
+   "status": "gone",
+   "reports": 1
   }
  ]
 }
