@@ -10,6 +10,7 @@
 <meta name="apple-mobile-web-app-title" content="SF Birds">
 <meta name="theme-color" content="#1e6fd9">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
 <style>
   html, body { height: 100%; margin: 0; font-family: system-ui, sans-serif; }
   #map { height: 100%; }
@@ -34,6 +35,13 @@
   .star { border: 0; background: none; font-size: 18px; padding: 0 2px; color: #f5b400; }
   .li { padding: 6px 0; border-bottom: 1px solid #eee; cursor: pointer; font-size: 14px; }
   .li small { color: #666; display: block; }
+  .dot span { display: block; width: 100%; height: 100%; box-sizing: border-box; border-radius: 50%;
+              border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.35); }
+  .dot.st span { border: 3px solid #f5b400; box-shadow: 0 0 0 1px rgba(0,0,0,.5); }
+  .clu div { width: 100%; height: 100%; box-sizing: border-box; border-radius: 50%; color: #fff; font: 600 13px system-ui, sans-serif;
+             display: flex; align-items: center; justify-content: center; border: 3px solid rgba(255,255,255,.85);
+             box-shadow: 0 1px 4px rgba(0,0,0,.4); }
+  .clu.st div { border-color: #f5b400; }
 </style>
 </head>
 <body>
@@ -80,12 +88,25 @@
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script>
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const map = L.map('map').fitBounds([[37.64, -123.03], [37.84, -122.33]]);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap contributors', maxZoom: 19 }).addTo(map);
-const layer = L.layerGroup().addTo(map);
+// Muted basemap so the bird dots stand out; {r} serves sharp tiles on retina screens.
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+  subdomains: 'abcd', maxZoom: 20 }).addTo(map);
+// Nearby birds merge into one numbered bubble when zoomed out; birds at the same spot fan out when tapped.
+const layer = L.markerClusterGroup({
+  maxClusterRadius: 40, showCoverageOnHover: false, spiderfyDistanceMultiplier: 1.6,
+  iconCreateFunction: c => {
+    const kids = c.getAllChildMarkers(), n = kids.length;
+    const needs = kids.some(m => m.options.needs), star = kids.some(m => m.options.star); // blue if any bird you still need
+    const size = n < 10 ? 30 : n < 50 ? 38 : 46;
+    return L.divIcon({ html: `<div style="background:${needs ? '#1e6fd9' : '#d93025'}">${n}</div>`,
+      className: 'clu' + (star ? ' st' : ''), iconSize: [size, size] });
+  } }).addTo(map);
 let sightings = [], allSpecies = [], markers = {};
 
 // ----- saved lists (this browser only) -----
@@ -160,11 +181,12 @@ function render() {
   rows.sort((a, b) => b.age - a.age); // newest on top
   rows.forEach(({ s, age }) => {
     const cols = s.alerts.includes('rare') ? RARE : NEEDS, st = starred.has(s.code);
-    markers[s.id] = L.circleMarker([s.lat, s.lng], st
-      ? { radius: 12, color: '#f5b400', weight: 3, opacity: 1, fillColor: cols[age], fillOpacity: .95 }
-      : { radius: 9, color: cols[0], weight: 1.5, opacity: .7, fillColor: cols[age], fillOpacity: .95 })
-      .bindPopup(() => popup(s), { maxWidth: 260 }).addTo(layer);
+    const size = st ? 24 : 18;
+    markers[s.id] = L.marker([s.lat, s.lng], { needs: s.alerts.includes('needs'), star: st,
+      icon: L.divIcon({ className: 'dot' + (st ? ' st' : ''), iconSize: [size, size], html: `<span style="background:${cols[age]}"></span>` }) })
+      .bindPopup(() => popup(s), { maxWidth: 260 });
   });
+  layer.addLayers(Object.values(markers));
   renderList();
 }
 
@@ -178,7 +200,7 @@ function renderList() {
     ${s.confirmed ? '&#10003;' : ''}<small>${esc(s.location)} &middot; ${esc(s.county)}</small>${pill(s)}</div>`).join('') || '<p>Nothing matches the filters.</p>';
   $('list').querySelectorAll('.li').forEach(el => el.onclick = () => {
     const m = markers[el.dataset.id]; if (!m) return;
-    closeDrawers(); map.setView(m.getLatLng(), Math.max(map.getZoom(), 14)); m.openPopup();
+    closeDrawers(); layer.zoomToShowLayer(m, () => m.openPopup());
   });
 }
 
