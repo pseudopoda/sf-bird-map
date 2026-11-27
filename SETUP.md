@@ -42,7 +42,7 @@ In your repo: **Settings > Secrets and variables > Actions > New repository secr
 On the map, click **Species** to open the full San Francisco County list (refreshed daily). Uncheck any bird to hide it, or click **Hide this species** inside any popup. Your choices are saved in that browser, so your phone and PC each keep their own list. Hidden birds are only hidden from view, never deleted, so you can bring them back any time.
 
 ## Photos, nearby counties and schedule
-- The script runs every 3 hours (edit the `cron` line in `.github/workflows/update.yml` to change it; `0 16 * * *` means once a day).
+- The script runs once a day (edit the `cron` line in `.github/workflows/update.yml` to change it; `0 16 * * *` means once a day).
 - Rare birds also come straight from eBird for SF plus Alameda, Contra Costa, Marin, San Mateo and Santa Clara counties. They don't need an email. Your "needs" still come from your alert emails and stay SF only.
 - Photos are downloaded once into `docs/photos/` and reused, so the map never depends on live image links. If no photo is found for an observation, it falls back to a generic species photo (Macaulay Library, then iNaturalist).
 - Markers fade from dark (today) to light (6 days ago). Only the last 7 days are kept.
