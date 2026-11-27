@@ -31,6 +31,8 @@ PHOTO_DIR = pathlib.Path("docs/photos")
 HEADERS = {"X-eBirdApiToken": EBIRD_KEY}
 UA = {"User-Agent": "sf-bird-map/1.0 (personal project)"}
 TODAY = dt.datetime.now(ZoneInfo("America/Los_Angeles")).date()
+NOW = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+COUNTY_NAMES = {HOME_REGION: HOME_NAME, **NEARBY}
 
 
 # ---------- Gmail ----------
@@ -109,6 +111,87 @@ def update_species_list():
     print("species list:", len(species))
 
 
+def load_species_names():
+    try:
+        return {s["code"]: (s["name"], s.get("sci")) for s in json.load(open(SPECIES_FILE))}
+    except (FileNotFoundError, ValueError):
+        return {}
+
+
+# ---------- Checklists the regional feed doesn't include ----------
+# eBird's "recent observations" feed only keeps the latest report of each species, so most
+# checklists named in alert emails are missing from it. For those, fetch the checklist itself
+# and take the coordinates from the email's map link (or from the hotspot, if it is one).
+COORD_RE = re.compile(r"[?&](?:q|query|ll|destination)=(-?\d{1,3}\.\d+)\s*(?:,|%2C)\s*(-?\d{1,3}\.\d+)", re.I)
+
+
+def coords_near(text, start, end, block_start):
+    """The map link closest before the checklist link (eBird puts it just above), else just after.
+    Never looks back past the previous checklist link, so one bird can't borrow another's map."""
+    before = list(COORD_RE.finditer(text, max(block_start, start - 700), start))
+    if before:
+        m = before[-1]
+    else:
+        m = COORD_RE.search(text, end, end + 300)
+    return (float(m.group(1)), float(m.group(2))) if m else None
+
+
+def hotspot_info(loc_id, cache={}):
+    if loc_id not in cache:
+        try:
+            cache[loc_id] = ebird(f"ref/hotspot/info/{loc_id}") if loc_id and loc_id.startswith("L") else None
+        except Exception:
+            cache[loc_id] = None  # personal locations aren't public hotspots
+    return cache[loc_id] or {}
+
+
+def norm_dt(v):
+    """eBird dates as 'YYYY-MM-DD HH:MM' (the feed's format), or None if unreadable."""
+    for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%d %b %Y %H:%M", "%d %b %Y"):
+        try:
+            return dt.datetime.strptime(str(v).strip(), fmt).strftime("%Y-%m-%d %H:%M")
+        except ValueError:
+            pass
+    return None
+
+
+def checklist_obs(sub, window, coords, names):
+    """Builds feed-style observations for the alerted species on one checklist."""
+    cl = ebird(f"product/checklist/view/{sub}")
+    obs = [o for o in cl.get("obs", []) if o.get("speciesCode")]
+    unknown = [o["speciesCode"] for o in obs if o["speciesCode"] not in names]
+    if unknown:  # species outside the county list: look their names up once
+        try:
+            for t in ebird("ref/taxonomy/ebird", fmt="json", species=",".join(unknown)):
+                names[t["speciesCode"]] = (t["comName"], t["sciName"])
+        except Exception as e:
+            print(f"  taxonomy lookup failed for {sub}:", e)
+    loc_id = cl.get("locId")
+    hs = hotspot_info(loc_id)
+    lat, lng = coords or (hs.get("latitude") or hs.get("lat"), hs.get("longitude") or hs.get("lng"))
+    if lat is None or lng is None:
+        return [], "no coordinates"
+    loc_name = hs.get("name") or (cl.get("loc") or {}).get("name") or "Location from alert email"
+    county = COUNTY_NAMES.get(cl.get("subnational2Code") or hs.get("subnational2Code"), HOME_NAME)
+    out = []
+    when = norm_dt(cl.get("obsDt"))
+    for o in obs:
+        name, sci = names.get(o["speciesCode"], (None, None))
+        if not name or name.lower() not in window:
+            continue
+        obs_dt = norm_dt(o.get("obsDt")) or when
+        if not obs_dt:
+            continue
+        how = o.get("howManyStr") or o.get("howManyAtleast")
+        out.append({
+            "subId": sub, "speciesCode": o["speciesCode"], "comName": name, "sciName": sci,
+            "howMany": int(how) if str(how).isdigit() else None, "locName": loc_name, "locId": loc_id,
+            "lat": float(lat), "lng": float(lng), "obsDt": obs_dt,
+            "userDisplayName": cl.get("userDisplayName"), "county": county,
+        })
+    return out, None if out else "alerted species not found on checklist"
+
+
 def region_obs(region):
     """Returns (all recent obs grouped by checklist, notable obs grouped by checklist)."""
     params = dict(back=KEEP_DAYS, detail="full", maxResults=10000)
@@ -140,8 +223,15 @@ def save_image(url, name):
         return None
 
 
+ML_BROKEN = False
+
+
 def ml_lookup(params):
-    """Macaulay Library search (unofficial endpoint, so we log what happens)."""
+    """Macaulay Library search (unofficial endpoint). After one failure we stop asking for the
+    rest of the run, so a broken endpoint costs one request instead of hundreds."""
+    global ML_BROKEN
+    if ML_BROKEN:
+        return None
     try:
         r = requests.get(
             "https://search.macaulaylibrary.org/api/v1/search",
@@ -149,14 +239,14 @@ def ml_lookup(params):
             headers=UA, timeout=20,
         )
         if r.status_code != 200:
-            print(f"  Macaulay search HTTP {r.status_code} for {params}: {r.text[:150]!r}")
-            return None
+            raise ValueError(f"HTTP {r.status_code}: {r.text[:150]!r}")
         items = r.json().get("results", {}).get("content", [])
         if not items:
             print(f"  Macaulay search: no results for {params}")
         return items[0] if items else None
     except Exception as e:
-        print("  Macaulay search failed:", e)
+        ML_BROKEN = True
+        print("  Macaulay search failed, skipping it for the rest of this run:", e)
         return None
 
 
@@ -275,7 +365,9 @@ def build_groups(recs):
         photo = next((r["photo"] for r in reversed(rows) if r.get("photo") and not r["photo"].get("generic")),
                      latest.get("photo"))
         item = dict(latest)
-        item.update(photo=photo, dates=dates, days_reported=len(dates), streak=streak, status=status,
+        # When this bird first appeared at this spot on the map (None for records from before we tracked it)
+        added = None if any(not r.get("added") for r in rows) else min(r["added"] for r in rows)
+        item.update(photo=photo, added=added, dates=dates, days_reported=len(dates), streak=streak, status=status,
                     reports=len(rows), alerts=sorted({a for r in rows for a in r["alerts"]}),
                     confirmed=any(r.get("confirmed") for r in rows))
         out.append(item)
@@ -313,7 +405,7 @@ def main():
             "code": o["speciesCode"], "count": o.get("howMany"), "location": o["locName"],
             "locId": o.get("locId"), "county": county, "lat": lat, "lng": lng, "approximate": approx,
             "datetime": o["obsDt"], "observer": o.get("userDisplayName"), "confirmed": confirmed,
-            "alerts": [kind],
+            "alerts": [kind], "added": NOW,
             "photo": get_photo(o["subId"], o["speciesCode"], o.get("sciName"), index),
         }
 
@@ -321,18 +413,33 @@ def main():
     by_sub, notable_by_sub = region_obs(HOME_REGION)
     emails = get_alert_emails(gmail_service())
     print(f"{len(emails)} alert emails, {len(by_sub)} checklists in SF feed")
+    names, fetched, stats = load_species_names(), {}, {"feed": 0, "fetched": 0}
     for em in emails:
         kind, text = alert_type(em["subject"]), em["text"]
-        lowered = text.lower()
+        lowered, prev_end = text.lower(), 0
         for m in re.finditer(r"checklist/(S\d+)", text):
             sub = m.group(1)
             window = lowered[max(0, m.start() - 600): m.end() + 100]
             obs = [o for o in by_sub.get(sub, []) if o["comName"].lower() in window]
             obs = obs or notable_by_sub.get(sub, [])
-            if not obs:
-                print(f"  skipping {sub}: not found in San Francisco feed")
+            if obs:
+                stats["feed"] += 1
+            elif any(r["checklist"] == sub and kind in r["alerts"] for r in store.values()):
+                stats["already saved"] = stats.get("already saved", 0) + 1
+            else:
+                try:
+                    obs, why = checklist_obs(sub, window, coords_near(text, m.start(), m.end(), prev_end), names)
+                except Exception as e:
+                    obs, why = [], f"checklist lookup failed ({e})"
+                if obs:
+                    stats["fetched"] += 1
+                else:
+                    stats[why] = stats.get(why, 0) + 1
+                    print(f"  skipping {sub}: {why}")
+            prev_end = m.end()
             for o in obs:
-                add(o, kind, HOME_NAME)
+                add(o, kind, o.get("county", HOME_NAME))
+    print("alert checklists:", stats)
 
     # 2) Rare birds straight from eBird: SF County + nearby counties (no email needed)
     for subs in notable_by_sub.values():
@@ -355,7 +462,7 @@ def main():
             s["photo"] = get_photo(s["checklist"], s["code"], s["sci"], index, observation_only=True) or s["photo"]
 
     save_archive(store)
-    out = {"generated": dt.datetime.utcnow().isoformat() + "Z", "sightings": build_groups(store)}
+    out = {"generated": NOW, "sightings": build_groups(store)}
     json.dump(out, open(DATA_FILE, "w"), indent=1)
     json.dump(index, open(PHOTO_INDEX, "w"), indent=1)
     print("map:", len(out["sightings"]), "birds;", "archive:", len(store), "records;", len(index), "photos cached")

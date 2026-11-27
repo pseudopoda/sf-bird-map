@@ -5,9 +5,13 @@ on:
   workflow_dispatch:        # lets you run it manually with a button
 permissions:
   contents: write
+concurrency:               # a second run waits for the first instead of colliding with it
+  group: update-bird-map
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,4 +29,4 @@ jobs:
           git config user.name "bird-map-bot"
           git config user.email "bird-map-bot@users.noreply.github.com"
           git add docs/
-          git diff --staged --quiet || (git commit -m "Update sightings" && git push)
+          git diff --staged --quiet || (git commit -m "Update sightings" && git pull --rebase && git push)
