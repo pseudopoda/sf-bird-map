@@ -45,6 +45,7 @@
   .leaflet-top { top: calc(var(--sat) + 52px); }
   @media (pointer: coarse) { .leaflet-control-zoom { display: none; } }
   .leaflet-control-attribution { font-size: 10px; }
+  .osm-muted { filter: grayscale(1) brightness(1.08) contrast(.8); }
 
   /* ---- bottom sheets ---- */
   .scrim { position: fixed; inset: 0; z-index: 1090; background: rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .2s; }
@@ -169,10 +170,21 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const SF = [[37.70, -122.52], [37.82, -122.35]], BAY = [[37.2, -122.65], [38.05, -121.75]];
 const map = L.map('map', { zoomSnap: 0.5, tap: false }).fitBounds(SF);
-// Muted basemap so the bird dots stand out; {r} serves sharp tiles on retina screens.
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  subdomains: 'abcd', maxZoom: 20 }).addTo(map);
+// Muted basemap so the bird dots stand out (no API key needed): Esri's light grey canvas plus its label layer.
+// If those tiles ever stop loading, fall back to OpenStreetMap, toned down to grey with CSS.
+const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
+const base = L.layerGroup([
+  L.tileLayer(ESRI + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', { maxZoom: 20, maxNativeZoom: 16,
+    attribution: 'Tiles &copy; <a href="https://www.esri.com">Esri</a>, HERE, Garmin, &copy; OpenStreetMap contributors' }),
+  L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 20, maxNativeZoom: 16 }),
+]).addTo(map);
+let tilesOk = 0, tileErrs = 0;
+base.eachLayer(l => l.on('tileload', () => tilesOk++).on('tileerror', () => {
+  if (++tileErrs < 4 || tilesOk || !map.hasLayer(base)) return;
+  map.removeLayer(base);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, className: 'osm-muted',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+}));
 map.attributionControl.setPrefix(false);
 // Nearby birds merge into one numbered bubble when zoomed out; birds at the same spot fan out when tapped.
 const layer = L.markerClusterGroup({
